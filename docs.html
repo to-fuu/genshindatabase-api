@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en" class="h-100">
+  <head>
+    <base href="/" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="" />
+    <meta
+      name="author"
+      content="Mark Otto, Jacob Thornton, and Bootstrap contributors"
+    />
+    <meta name="generator" content="Hugo 0.79.0" />
+    <title>Genshin Database API</title>
+
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1"
+      crossorigin="anonymous"
+    />
+    <link
+      rel="canonical"
+      href="https://getbootstrap.com/docs/5.0/examples/cover/"
+    />
+
+    <link
+      rel="stylesheet"
+      href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/styles/default.min.css"
+    />
+    <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/highlight.min.js"></script>
+    <!-- Bootstrap core CSS -->
+
+    <style>
+      body {
+        background: #1c1c22 !important;
+      }
+      .sidebar {
+        border-right: 1px solid #38384294;
+        position: fixed;
+        min-width: 250px;
+        max-width: 250px;
+        min-height: 100vh;
+        top: 0;
+
+        bottom: 0;
+        left: 0;
+        z-index: 100; /* Behind the navbar */
+        padding: 12px 0 0; /* Height of navbar */
+        box-shadow: inset -1px 0 0 rgba(0, 0, 0, 0.1);
+      }
+
+      .sidebar .nav-link {
+        font-weight: 500;
+        font-size: 0.9em;
+        padding-left: 24px;
+        margin-right: 24px;
+        border-top-right-radius: 32px;
+        border-bottom-right-radius: 32px;
+        padding-top: 6px;
+        padding-bottom: 6px;
+        color: rgb(158, 158, 158);
+      }
+
+      .sidebar .nav-link.active {
+        background-color: #35353d;
+      }
+
+      .sidebar .logo {
+        font-weight: 500;
+        font-size: 0.9em;
+        color: rgb(158, 158, 158);
+        margin: 0px 24px;
+      }
+
+      .wrapper {
+        display: flex;
+        width: 100%;
+        align-items: stretch;
+        overflow-y: scroll;
+      }
+
+      .content {
+        position: fixed;
+        overflow-y: scroll;
+        left: 250px;
+        min-height: 100vh;
+        right: 0;
+        bottom: 0;
+        top: 0;
+      }
+
+      .content section {
+        color: rgba(255, 255, 255, 0.623);
+        border-bottom: 1px solid #38384294;
+        min-height: 100px;
+        padding: 128px;
+      }
+
+      .code_card {
+        border-radius: 8px;
+        border: 1px solid #31313a;
+        min-height: 100px;
+      }
+      .code_card .header {
+        border-top-left-radius: 8px;
+        border-top-right-radius: 8px;
+        background: #31313a;
+        min-height: 40px;
+        padding: 8px;
+        font-weight: 500;
+      }
+      .code_card .response {
+        padding: 8px;
+      }
+    </style>
+
+    <!-- Custom styles for this template -->
+  </head>
+  <body class="no-select">
+    <div class="wrapper">
+      <!-- Sidebar -->
+      <nav class="sidebar">
+        <span class="logo">Genshin API</span>
+        <ul class="nav flex-column mt-5">
+          <li class="nav-item">
+            <a class="nav-link active" aria-current="page" href="#">
+              <span data-feather="home"></span>
+              Introduction
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">
+              <span data-feather="file"></span>
+              Characters
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">
+              <span data-feather="shopping-cart"></span>
+              Weapons
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">
+              <span data-feather="users"></span>
+              Artifacts
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">
+              <span data-feather="bar-chart-2"></span>
+              Enemies
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">
+              <span data-feather="layers"></span>
+              Bosses
+            </a>
+          </li>
+        </ul>
+      </nav>
+
+      <!-- Page Content -->
+      <div class="content">
+        <section>
+          <div class="row">
+            <div class="col-6">
+              <b> <h3 style="color: white">API Reference</h3> </b> <br />
+            </div>
+            <div class="col-6"></div>
+          </div>
+        </section>
+
+        <section>
+          <div class="row">
+            <div class="col-6">
+              <b> <h3 style="color: white">Characters</h3> </b>
+              <p>Returns a detailed list of all characters in the game</p>
+              <hr />
+              <b>Parameters</b> <br /><br />
+              <p>Name: Returns only the character with said name</p>
+              <p>Element: Returns characters of said element</p>
+              <p>Rarity: Returns characters of said rarity</p>
+            </div>
+            <div class="col-6">
+              <div class="code_card">
+                <div class="header">Response</div>
+                <pre><code id="characterjson">
+                  {
+                    "name":"shit"
+                  }
+                </code></pre>
+              </div>
+            </div>
+          </div>
+        </section>
+      </div>
+    </div>
+  </body>
+
+  <script>
+    document.getElementById("characterjson").innerHTML = '{ "name":"shit" }';
+  </script>
+</html>
