@@ -1,5 +1,6 @@
 const express = require("express");
 const app = express();
+const path = require("path");
 
 const charData = require("./characters.json");
 const artifactData = require("./artifacts.json");
@@ -9,7 +10,7 @@ const weaponData = require("./weapons.json");
 let port = process.env.PORT || 3000;
 
 app.get("/", (req, res) => {
-  res.send("HelloWorld");
+  res.sendFile(path.join(__dirname + "/index.html"));
 });
 
 //CHARACTERS
@@ -111,6 +112,8 @@ app.get(["/weapons/catalysts", "/weapons/catalyst"], (req, res) => {
 app.get(["/weapons/polearms", "/weapons/polearm"], (req, res) => {
   res.send(weaponData.polearms);
 });
+
+app.use(express.static(__dirname + "/public"));
 
 app.listen(port, () => {
   console.log(`example app is listening on port ${port}`);
