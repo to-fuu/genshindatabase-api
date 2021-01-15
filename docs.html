@@ -27,8 +27,8 @@
       rel="stylesheet"
       href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/styles/default.min.css"
     />
+
     <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/highlight.min.js"></script>
-    <!-- Bootstrap core CSS -->
 
     <style>
       body {
@@ -112,30 +112,59 @@
       .code_card .response {
         padding: 8px;
       }
+
+      a.request {
+        color: rgb(158, 158, 158);
+        text-decoration: none;
+        font-style: italic;
+      }
+      a.request:hover {
+        color: rgb(158, 158, 158);
+        text-decoration: none;
+      }
+
+      span.request {
+        padding: 4px 8px;
+        background: #0e0e11;
+        margin: 8px 0;
+        border-radius: 10px;
+        border: 1px solid #38384294;
+      }
+
+      .no-select {
+        user-select: none;
+      }
+      h5 {
+        user-select: none;
+      }
     </style>
 
     <!-- Custom styles for this template -->
   </head>
-  <body class="no-select">
+  <body>
     <div class="wrapper">
       <!-- Sidebar -->
-      <nav class="sidebar">
+      <nav class="sidebar no-select">
         <span class="logo">Genshin API</span>
         <ul class="nav flex-column mt-5">
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="#">
+            <a
+              class="nav-link active"
+              aria-current="page"
+              href="docs/#reference"
+            >
               <span data-feather="home"></span>
               Introduction
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">
+            <a class="nav-link" href="docs/#characters">
               <span data-feather="file"></span>
               Characters
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">
+            <a class="nav-link" href="docs/#weapons">
               <span data-feather="shopping-cart"></span>
               Weapons
             </a>
@@ -163,8 +192,8 @@
 
       <!-- Page Content -->
       <div class="content">
-        <section>
-          <div class="row">
+        <section id="reference">
+          <div class="row no-select">
             <div class="col-6">
               <b> <h3 style="color: white">API Reference</h3> </b> <br />
             </div>
@@ -172,9 +201,9 @@
           </div>
         </section>
 
-        <section>
+        <section id="characters">
           <div class="row">
-            <div class="col-6">
+            <div class="col-6 no-select">
               <b> <h3 style="color: white">Characters</h3> </b>
               <p>Returns a detailed list of all characters in the game</p>
               <hr />
@@ -183,15 +212,128 @@
               <p>Element: Returns characters of said element</p>
               <p>Rarity: Returns characters of said rarity</p>
             </div>
-            <div class="col-6">
-              <div class="code_card">
+            <div class="col-6 d-flex flex-column">
+              <b>
+                <h5 style="color: white">Request: Get all characters</h5>
+              </b>
+              <span class="request">
+                <a
+                  class="request"
+                  href="https://genshindb-api.herokuapp.com/characters"
+                  >genshindb-api.herokuapp.com/characters</a
+                >
+              </span>
+
+              <b> <h5 style="color: white">Response</h5> </b>
+
+              <span class="request">
+                <code id="characterjson"> </code>
+              </span>
+
+              <b>
+                <h5 style="color: white">Request: Get characters by name</h5>
+              </b>
+              <span class="request">
+                <a
+                  class="request"
+                  href="https://genshindb-api.herokuapp.com/characters/keqing"
+                  >genshindb-api.herokuapp.com/characters/keqing</a
+                >
+              </span>
+
+              <b> <h5 style="color: white">Response</h5> </b>
+
+              <span class="request">
+                <code id=""> </code>
+              </span>
+
+              <!-- <div class="code_card">
                 <div class="header">Response</div>
                 <pre><code id="characterjson">
                   {
                     "name":"shit"
                   }
                 </code></pre>
-              </div>
+              </div> -->
+            </div>
+          </div>
+        </section>
+
+        <section id="weapons">
+          <div class="row">
+            <div class="col-6">
+              <b> <h3 style="color: white">Weapons</h3> </b>
+              <p>Returns a detailed list of all characters in the game</p>
+              <hr />
+              <b>Parameters</b> <br /><br />
+              <p>Name: Returns only the character with said name</p>
+              <p>Element: Returns characters of said element</p>
+              <p>Rarity: Returns characters of said rarity</p>
+            </div>
+            <div class="col-6 d-flex flex-column">
+              <b>
+                <h5 style="color: white">Request: Get Bows</h5>
+              </b>
+              <span class="request">
+                <a
+                  class="request"
+                  href="https://genshindb-api.herokuapp.com/weapons/bow"
+                  >genshindb-api.herokuapp.com/weapons/bow</a
+                >
+              </span>
+
+              <b>
+                <h5 style="color: white">Request: Get Swords</h5>
+              </b>
+              <span class="request">
+                <a
+                  class="request"
+                  href="https://genshindb-api.herokuapp.com/weapons/sword"
+                  >genshindb-api.herokuapp.com/weapons/sword</a
+                >
+              </span>
+
+              <b>
+                <h5 style="color: white">Request: Get Claymores</h5>
+              </b>
+              <span class="request">
+                <a
+                  class="request"
+                  href="https://genshindb-api.herokuapp.com/weapons/claymore"
+                  >genshindb-api.herokuapp.com/weapons/claymore</a
+                >
+              </span>
+
+              <b>
+                <h5 style="color: white">Request: Get Catalysts</h5>
+              </b>
+              <span class="request">
+                <a
+                  class="request"
+                  href="https://genshindb-api.herokuapp.com/weapons/catalyst"
+                  >genshindb-api.herokuapp.com/weapons/catalyst</a
+                >
+              </span>
+
+              <b>
+                <h5 style="color: white">Request: Get Polearms</h5>
+              </b>
+              <span class="request">
+                <a
+                  class="request"
+                  href="https://genshindb-api.herokuapp.com/weapons/polearm"
+                  >genshindb-api.herokuapp.com/weapons/polearm</a
+                >
+              </span>
+
+              <!-- <div class="code_card">
+                <div class="header">Response</div>
+                <pre><code id="characterjson">
+                  {
+                    "name":"shit"
+                  }
+                </code></pre>
+              </div> -->
             </div>
           </div>
         </section>
@@ -200,6 +342,23 @@
   </body>
 
   <script>
-    document.getElementById("characterjson").innerHTML = '{ "name":"shit" }';
+    document.getElementById("characterjson").innerHTML = `
+[
+{
+  name: "Albedo",
+  description: "A genius known as the Kreideprinz, he is the Chief Alchemist and Captain of the Investigation Team of the Knights of Favonius.",
+  rarity: 5,
+  weaponType: "sword",
+  elementType: "geo",
+  isComingSoon: false,
+  isNew: false,
+  isFemale: false,
+  region: "mondstadt",
+  role: "supportDps",
+  ...
+},
+...
+]
+`;
   </script>
 </html>

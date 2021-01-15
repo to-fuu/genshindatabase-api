@@ -17,14 +17,55 @@ app.get("/docs", (req, res) => {
   res.sendFile(path.join(__dirname + "/docs.html"));
 });
 
-//CHARACTERS
+//api version
+app.get("/version", (req, res) => {
+  res.send({
+    version: 0.1,
+    description: "test version",
+  });
+});
 
+//CHARACTERS
 app.get("/characters", (req, res) => {
   res.send(charData.characters);
 });
 
 app.get("/characters/:name", (req, res) => {
   var name = req.params.name;
+
+  if (name === "released") {
+    res.send(
+      charData.characters.filter(function (item) {
+        return item.isComingSoon === false;
+      })
+    );
+    return;
+  }
+  if (name === "future") {
+    res.send(
+      charData.characters.filter(function (item) {
+        return item.isComingSoon === true;
+      })
+    );
+    return;
+  }
+  if (name === "female" || name === "f") {
+    res.send(
+      charData.characters.filter(function (item) {
+        return item.isFemale === true;
+      })
+    );
+    return;
+  }
+
+  if (name === "male" || name === "m") {
+    res.send(
+      charData.characters.filter(function (item) {
+        return item.isFemale === false;
+      })
+    );
+    return;
+  }
 
   res.send(
     charData.characters.filter(function (item) {
@@ -39,6 +80,29 @@ app.get("/characters/elements/:element", (req, res) => {
   res.send(
     charData.characters.filter(function (item) {
       return item.elementType.toLowerCase() === element.toLowerCase();
+    })
+  );
+});
+
+app.get("/characters/weapons/:type", (req, res) => {
+  var type = req.params.type;
+
+  res.send(
+    charData.characters.filter(function (item) {
+      return item.weaponType.toLowerCase() === type.toLowerCase();
+    })
+  );
+});
+
+app.get("/characters/role/:role", (req, res) => {
+  var role = req.params.role;
+
+  if (role === "dps") role = "maindps";
+  else if (role === "support") role = "supportdps";
+
+  res.send(
+    charData.characters.filter(function (item) {
+      return item.role.toLowerCase() == role.toLowerCase();
     })
   );
 });
