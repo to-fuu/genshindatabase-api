@@ -28,6 +28,8 @@
       href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/styles/default.min.css"
     />
 
+    <link href="/assets/dist/css/prism.css" rel="stylesheet" />
+
     <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.5.0/highlight.min.js"></script>
 
     <style>
@@ -142,6 +144,8 @@
     <!-- Custom styles for this template -->
   </head>
   <body>
+    <script src="/assets/dist/js/prism.js"></script>
+
     <div class="wrapper">
       <!-- Sidebar -->
       <nav class="sidebar no-select">
@@ -213,48 +217,50 @@
               <p>Rarity: Returns characters of said rarity</p>
             </div>
             <div class="col-6 d-flex flex-column">
-              <b>
-                <h5 style="color: white">Request: Get all characters</h5>
-              </b>
-              <span class="request">
-                <a
-                  class="request"
-                  href="https://genshindb-api.herokuapp.com/characters"
-                  >genshindb-api.herokuapp.com/characters</a
-                >
-              </span>
+              <div class="api-code">
+                <div class="api-code_content">
+                  <b> Get all characters</b>
+                  <p>
+                    <i class="api-request"
+                      >genshindb-api.herokuapp.com/characters</i
+                    >
+                  </p>
 
-              <b> <h5 style="color: white">Response</h5> </b>
+                  <button
+                    class="collapse-btn"
+                    type="button"
+                    onclick="collapse('charsresult')"
+                  >
+                    Result
+                  </button>
+                </div>
+                <pre
+                  class="collapse"
+                  id="charsresult"
+                ><code class="language-json">[
+  {
+    name: "Albedo",
+    description: "A genius known as the Kreideprinz...",
+    ...
+  },
+  {
+    name: "Amber",
+    description: "Always energetic and full of life...",
+    ...
+  },
+  ..
+]
 
-              <span class="request">
-                <code id="characterjson"> </code>
-              </span>
-
-              <b>
-                <h5 style="color: white">Request: Get characters by name</h5>
-              </b>
-              <span class="request">
-                <a
-                  class="request"
-                  href="https://genshindb-api.herokuapp.com/characters/keqing"
-                  >genshindb-api.herokuapp.com/characters/keqing</a
-                >
-              </span>
-
-              <b> <h5 style="color: white">Response</h5> </b>
-
-              <span class="request">
-                <code id=""> </code>
-              </span>
-
-              <!-- <div class="code_card">
-                <div class="header">Response</div>
-                <pre><code id="characterjson">
-                  {
-                    "name":"shit"
-                  }
-                </code></pre>
-              </div> -->
+//request:  genshindb-api.herokuapp.com/characters/{name}
+//Result (example for name = Gnayu)
+{
+  name: "Ganyu",
+  description: "The secretary at Yuehai Pavilion...",
+  rarity: 5,
+  weaponType: "bow",
+  ...
+}</code></pre>
+              </div>
             </div>
           </div>
         </section>
@@ -307,6 +313,7 @@
               <b>
                 <h5 style="color: white">Request: Get Catalysts</h5>
               </b>
+
               <span class="request">
                 <a
                   class="request"
@@ -339,26 +346,13 @@
         </section>
       </div>
     </div>
-  </body>
 
-  <script>
-    document.getElementById("characterjson").innerHTML = `
-[
-{
-  name: "Albedo",
-  description: "A genius known as the Kreideprinz, he is the Chief Alchemist and Captain of the Investigation Team of the Knights of Favonius.",
-  rarity: 5,
-  weaponType: "sword",
-  elementType: "geo",
-  isComingSoon: false,
-  isNew: false,
-  isFemale: false,
-  region: "mondstadt",
-  role: "supportDps",
-  ...
-},
-...
-]
-`;
-  </script>
+    <script>
+      function collapse(target) {
+        if (document.getElementById(target).classList.contains("show"))
+          document.getElementById(target).classList.remove("show");
+        else document.getElementById(target).classList.add("show");
+      }
+    </script>
+  </body>
 </html>
