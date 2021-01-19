@@ -23,7 +23,7 @@ app.get("/version", (req, res) => {
     version: 0.1,
     description: "test version",
     gameVersion: "1.2",
-    currentBannerEndTime: "03 Feb 2021 14:00",
+    currentBannerEndTime: "02 Feb 2021 15:00",
     currentCharacterBannerName: "Adrift in the Harbor",
     currentWeaponBannerName: "Epitome Invocation",
   });
