@@ -2,6 +2,7 @@
   "characters": [
     {
       "name": "Albedo",
+      "title": "Kreideprinz",
       "description": "A genius known as the Kreideprinz, he is the Chief Alchemist and Captain of the Investigation Team of the Knights of Favonius.",
       "rarity": 5,
       "weaponType": "sword",
@@ -514,6 +515,7 @@
     },
     {
       "name": "Amber",
+      "title": "Outrider",
       "description": "Always energetic and full of life, Amber’s the best - albeit only - Outrider of the Knights of Favonius.",
       "rarity": 4,
       "weaponType": "bow",
@@ -1036,6 +1038,7 @@
     },
     {
       "name": "Ayaka",
+      "title": "unknown",
       "description": "The secretary at Yuehai Pavilion. The blood of the qilin, an illuminated beast, flows within her veins.",
       "rarity": 5,
       "weaponType": "sword",
@@ -1442,6 +1445,7 @@
     },
     {
       "name": "Barbara",
+      "title": "Shining Idol",
       "description": "Every denizen of Mondstadt adores Barbara. However, she learned the word \"idol\" from a magazine.",
       "rarity": 4,
       "weaponType": "catalyst",
@@ -1942,6 +1946,7 @@
     },
     {
       "name": "Beidou",
+      "title": "Uncrowned Lord of Ocean",
       "description": "Beidou is the leader of the Crux — an armed fleet based in Liyue Harbor. An armed fleet means exactly what it sounds like: a fleet of ships armed to the teeth.",
       "rarity": 4,
       "weaponType": "claymore",
@@ -2449,6 +2454,7 @@
     },
     {
       "name": "Bennett",
+      "title": "Trial by Fire",
       "description": "A righteous and good-natured adventurer from Mondstadt who’s unfortunately extremely unlucky.",
       "rarity": 4,
       "weaponType": "sword",
@@ -2978,6 +2984,7 @@
     },
     {
       "name": "Chongyun",
+      "title": "Frozen Ardor",
       "description": "A young exortcist from a family of exorcists. He does everything he can to suppress his pure positive energy.",
       "rarity": 4,
       "weaponType": "claymore",
@@ -3509,6 +3516,7 @@
     },
     {
       "name": "Diluc",
+      "title": "The Dark Side of Dawn",
       "description": "The tycoon of a winery empire in Mondstadt, unmatched in every possible way.",
       "rarity": 5,
       "weaponType": "claymore",
@@ -4010,6 +4018,7 @@
     },
     {
       "name": "Diona",
+      "title": "Kätzlein Cocktail",
       "description": "A young lady who has inherited trace amounts of non-human blood. She is the incredible popular bartender of the Cat’s Tail tavern.",
       "rarity": 4,
       "weaponType": "bow",
@@ -4518,6 +4527,7 @@
     },
     {
       "name": "Fischl",
+      "title": "Prinzessin der Verurteilung",
       "description": "A mysterious girl who calls herself \"Prinzessia der Verurteilung\" and travels with a night raven named Oz.",
       "rarity": 4,
       "weaponType": "bow",
@@ -5030,6 +5040,7 @@
     },
     {
       "name": "Ganyu",
+      "title": "Plenilune Gaze",
       "description": "The secretary at Yuehai Pavilion. The blood of the qilin, an illuminated beast, flows within her veins.",
       "rarity": 5,
       "weaponType": "bow",
@@ -5437,6 +5448,7 @@
     },
     {
       "name": "Jean",
+      "title": "Acting Grand Master",
       "description": "The righteous and rigorous Dandelion Knight, and Acting Grand Master of the Knights of Favonius in Mondstadt.",
       "rarity": 5,
       "weaponType": "sword",
@@ -5963,6 +5975,7 @@
     },
     {
       "name": "Kaeya",
+      "title": "Frostblade",
       "description": "A thinker in the Knights of Favonius with a somewhat exotic appearance.",
       "rarity": 4,
       "weaponType": "sword",
@@ -6489,6 +6502,7 @@
     },
     {
       "name": "Keqing",
+      "title": "Driving Thunder",
       "description": "The Yuheng of the Liyue Qixing. Has much to say about Rex Lapis’ unilateral approach to policymaking in Liyue - but in truth, gods admire skeptics such as her quite a lot.",
       "rarity": 5,
       "weaponType": "sword",
@@ -7001,6 +7015,7 @@
     },
     {
       "name": "Klee",
+      "title": "Fleeing Sunlight",
       "description": "An explosives expert and a regular at the Knights of Favonius’ confinement room. Also known as Fleeing Sunlight.",
       "rarity": 5,
       "weaponType": "catalyst",
@@ -7507,6 +7522,7 @@
     },
     {
       "name": "Lisa",
+      "title": "Witch of Purple Rose",
       "description": "The languid but knowledgeable Librarian of the Knights of Favonius who was deemed by Sumeru Academia to be their most distinguised graduate in the past two centuries.",
       "rarity": 4,
       "weaponType": "catalyst",
@@ -8015,6 +8031,7 @@
     },
     {
       "name": "Mona",
+      "title": "Astral Reflection",
       "description": "A mysterious young astrologer who proclaims herself to be \"Astrologist Mona Megistus,\" and who possesses abilities to match the title.",
       "rarity": 5,
       "weaponType": "catalyst",
@@ -8520,6 +8537,7 @@
     },
     {
       "name": "Ningguang",
+      "title": "Eclipsing Star",
       "description": "The Tianquan of Liyue Qixing. Her wealth is unsurpassed in all of Teyvat.",
       "rarity": 4,
       "weaponType": "catalyst",
@@ -9037,6 +9055,7 @@
     },
     {
       "name": "Noelle",
+      "title": "Chivalric Blossom",
       "description": "A maid in the service of the Knights of Favonius that dreams of joining their ranks someday.",
       "rarity": 4,
       "weaponType": "claymore",
@@ -9554,6 +9573,7 @@
     },
     {
       "name": "Qiqi",
+      "title": "Icy Resurrection",
       "description": "An apprentice and herb-picker Bubu Pharmacy. An undead with a bone-white complexion, she seldom has much in the way of words or emotion.",
       "rarity": 5,
       "weaponType": "sword",
@@ -10048,6 +10068,7 @@
     },
     {
       "name": "Razor",
+      "title": "Legend of Wolvendom",
       "description": "A boy who lives among the wolves in Wolvendom of Mondstadt, away from human civilization. As agile as lightning.",
       "rarity": 4,
       "weaponType": "claymore",
@@ -10552,6 +10573,7 @@
     },
     {
       "name": "Sucrose",
+      "title": "Harmless Sweetie",
       "description": "An alchemist filled with curiosity about all things. She researches bio-alchemy.",
       "rarity": 4,
       "weaponType": "catalyst",
@@ -11056,6 +11078,7 @@
     },
     {
       "name": "Tartaglia",
+      "title": "Childe",
       "description": "No. 11 of The Harbingers, also known as \"Childe\". His name is highly feared on the battlefield.",
       "rarity": 5,
       "weaponType": "bow",
@@ -11576,6 +11599,7 @@
     },
     {
       "name": "traveler (anemo)",
+      "title": "Outlander",
       "description": "A traveler from another world who had their only kin taken away, forcing them to embark on a journey to find The Seven.",
       "rarity": 5,
       "weaponType": "sword",
@@ -12482,6 +12506,7 @@
     },
     {
       "name": "traveler (geo)",
+      "title": "Outlander",
       "description": "A traveler from another world who had their only kin taken away, forcing them to embark on a journey to find The Seven.",
       "rarity": 5,
       "weaponType": "sword",
@@ -13382,6 +13407,7 @@
     },
     {
       "name": "Venti",
+      "title": "Windborne Bard",
       "description": "One of the many bards of Mondstadt, who freely wanders the city’s streets and alleys.",
       "rarity": 5,
       "weaponType": "bow",
@@ -13896,6 +13922,7 @@
     },
     {
       "name": "Xiangling",
+      "title": "Exquisite Delicacy",
       "description": "A renowned chef from Liyue. She’s extremely passionate about cooking and excels at making her signature hot and spicy dishes.",
       "rarity": 4,
       "weaponType": "polearm",
@@ -14420,6 +14447,7 @@
     },
     {
       "name": "Xiao",
+      "title": "Unknown",
       "description": "A yaksha adeptus that defends Liyue. Also heralded as the \"Conqueror of Demons\" or \"Vigilant Yaksha.\"",
       "rarity": 5,
       "weaponType": "polearm",
@@ -14914,6 +14942,7 @@
     },
     {
       "name": "Xingqiu",
+      "title": "Juvenile Galant",
       "description": "A young man carrying a longsword who is frequently seen at book booths. He has a chivalrous heart and yearns for justice and fairness for all.",
       "rarity": 4,
       "weaponType": "sword",
@@ -15409,6 +15438,7 @@
     },
     {
       "name": "Xinyan",
+      "title": "Blazing Riff",
       "description": "Liyue’s sole rock ’n’ roll musician. She rebels against ossified prejudices using her music and passionate singing.",
       "rarity": 4,
       "weaponType": "claymore",
@@ -15915,6 +15945,7 @@
     },
     {
       "name": "Zhongli",
+      "title": "Vago Mundo",
       "description": "A mysterious guest invited by the Wangsheng Funeral Parlor. Extremely knowledgeable in all things.",
       "rarity": 5,
       "weaponType": "polearm",
