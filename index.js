@@ -31,51 +31,35 @@ app.get("/version", (req, res) => {
 
 //CHARACTERS
 app.get("/characters", (req, res) => {
-  res.send(charData.characters);
+  console.log(req.query.name);
+
+  if (req.query.name == undefined) res.send(charData.characters);
+  else
+    res.send(
+      charData.characters.filter(function (item) {
+        return item.name.toLowerCase() === req.query.name.toLowerCase();
+      })[0]
+    );
 });
 
-app.get("/characters/:name", (req, res) => {
+app.get("/characters/featured", (req, res) => {
   var name = req.params.name;
 
-  if (name === "released") {
+  if (req.query.name == undefined)
     res.send(
       charData.characters.filter(function (item) {
-        return item.isComingSoon === false;
+        return item.featured;
       })
     );
-    return;
-  }
-  if (name === "future") {
+  else
     res.send(
       charData.characters.filter(function (item) {
-        return item.isComingSoon === true;
-      })
+        return (
+          item.featured &&
+          item.name.toLowerCase() === req.query.name.toLowerCase()
+        );
+      })[0]
     );
-    return;
-  }
-  if (name === "female" || name === "f") {
-    res.send(
-      charData.characters.filter(function (item) {
-        return item.isFemale === true;
-      })
-    );
-    return;
-  }
-
-  if (name === "male" || name === "m") {
-    res.send(
-      charData.characters.filter(function (item) {
-        return item.isFemale === false;
-      })
-    );
-    return;
-  }
-
-  res.send(
-    charData.characters.filter(function (item) {
-      return item.name.toLowerCase() === name.toLowerCase();
-    })
-  );
 });
 
 app.get("/characters/elements/:element", (req, res) => {
