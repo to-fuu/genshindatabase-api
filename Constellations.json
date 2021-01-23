@@ -1,0 +1,283 @@
+{
+  "Constellatiins": [
+    {
+      "name": "Albedo",
+      "c1": "Flower Of Eden",
+      "c2": "Opening Of Phanerozoic",
+      "c3": "Grace Of Helios",
+      "c4": "Descent Of Divinity",
+      "c5": "Tide Of Hadean",
+      "c6": "Domain Of Purification"
+    },
+    {
+      "name": "Amber",
+      "c1": "One Arrow to Rule Them All",
+      "c2": "Bunny Triggered",
+      "c3": "It Burns!",
+      "c4": "It's Not Just Any Doll...",
+      "c5": "It's Baron Bunny!",
+      "c6": "Wildfire"
+    },
+    {
+      "name": "Ayaka",
+      "c1": null,
+      "c2": null,
+      "c3": null,
+      "c4": null,
+      "c5": null,
+      "c6": null
+    },
+    {
+      "name": "Barbara",
+      "c1": "Gleeful Songs",
+      "c2": "Vitality Burst",
+      "c3": "Star of Tomorrow",
+      "c4": "Attentiveness be My Power",
+      "c5": "The Purest Companionship",
+      "c6": "Dedicating Everything to You"
+    },
+    {
+      "name": "Beidou",
+      "c1": "Sea Beast's Scourge",
+      "c2": "Upon the Turbulent Sea, the Thunder Arises",
+      "c3": "Summoner of Storm",
+      "c4": "Stunning Revenge",
+      "c5": "Crimson Tidewalker",
+      "c6": "Bane of the Evil"
+    },
+    {
+      "name": "Bennett",
+      "c1": "Grand Expectation",
+      "c2": "Impasse Conqueror",
+      "c3": "Unstoppable Fervor",
+      "c4": "Unexpected Odyssey",
+      "c5": "True Explorer",
+      "c6": "Fire Ventures with Me"
+    },
+    {
+      "name": "Chongyun",
+      "c1": "Ice Unleashed",
+      "c2": "Atmospheric Revolution",
+      "c3": "Cloudburst",
+      "c4": "Frozen Skies",
+      "c5": "The True Path",
+      "c6": "Rally of Four Blades"
+    },
+    {
+      "name": "Diluc",
+      "c1": "Conviction",
+      "c2": "Searing Ember",
+      "c3": "Fire and Steel",
+      "c4": "Flowing Flame",
+      "c5": "Phoenix, Harbinger of Dawn",
+      "c6": "Flaming Sword, Nemesis of Dark"
+    },
+    {
+      "name": "Diona",
+      "c1": "A Lingering Flavor",
+      "c2": "Shaken, Not Purred",
+      "c3": "A-Another Round?",
+      "c4": "Wine Industry Slayer",
+      "c5": "Double Shot, On The Rocks",
+      "c6": "Cat's Tail Closing Time"
+    },
+    {
+      "name": "Fischl",
+      "c1": "Gaze of the Deep",
+      "c2": "Devourer of All Sins",
+      "c3": "Wings of Nightmare",
+      "c4": "Her Pilgrimage of Bleak",
+      "c5": "Against the Fleeing Light",
+      "c6": "Evernight Raven"
+    },
+    {
+      "name": "Ganyu",
+      "c1": "Dew-Drinker",
+      "c2": "The Auspicious",
+      "c3": "Cloud-Strider",
+      "c4": "Westward Sojourn",
+      "c5": "The Merciful",
+      "c6": "The Clement"
+    },
+    {
+      "name": "Jean",
+      "c1": "Spiraling Tempest",
+      "c2": "People's Aegis",
+      "c3": "When the West Wind Arises",
+      "c4": "Lands of Dandelion",
+      "c5": "Outbursting Gust",
+      "c6": "Lion's Fang, Fair Protector of Mondstadt"
+    },
+    {
+      "name": "Kaeya",
+      "c1": "Excellent Blood",
+      "c2": "Never-Ending Performance",
+      "c3": "Dance of Frost",
+      "c4": "Frozen Kiss",
+      "c5": "Frostbiting Embrace",
+      "c6": "Glacial Whirlwind"
+    },
+    {
+      "name": "Keqing",
+      "c1": "Thundering Might",
+      "c2": "Keen Extraction",
+      "c3": "Foreseen Reformation",
+      "c4": "Attunement",
+      "c5": "Beckoning Stars",
+      "c6": "Tenacious Star"
+    },
+    {
+      "name": "Klee",
+      "c1": "Chained Reactions",
+      "c2": "Explosive Frags",
+      "c3": "Exquisite Compound",
+      "c4": "Sparkly Explosion",
+      "c5": "Nova Burst",
+      "c6": "Blazing Delight"
+    },
+    {
+      "name": "Lisa",
+      "c1": "Infinite Circuit",
+      "c2": "Electromagnetic Field",
+      "c3": "Resonant Thunder",
+      "c4": "Plasma Eruption",
+      "c5": "Electrocute",
+      "c6": "Pulsating Witch"
+    },
+    {
+      "name": "Mona",
+      "c1": "Prophecy of Submersion",
+      "c2": "Lunar Chain",
+      "c3": "Restless Revolution",
+      "c4": "Prophecy of Oblivion",
+      "c5": "Mockery of Fortuna",
+      "c6": "Rhetorics of Calamitas"
+    },
+    {
+      "name": "Nigguang",
+      "c1": "Piercing Fragments",
+      "c2": "Shock Effect",
+      "c3": "Majesty be the Array of Stars",
+      "c4": "Exquisite be the Jade, Outshining All Beneath",
+      "c5": "Invincible be the Jade Screen",
+      "c6": "Invincible be the Jade Screen"
+    },
+    {
+      "name": "Noelle",
+      "c1": "I Got Your Back",
+      "c2": "Combat Maid",
+      "c3": "Invulnerable Maid",
+      "c4": "To Be Cleaned",
+      "c5": "Favonius Sweeper Master",
+      "c6": "Must Be Spotless"
+    },
+    {
+      "name": "Qiqi",
+      "c1": "Ascetics of Frost",
+      "c2": "Frozen to the Bone",
+      "c3": "Ascendant Praise",
+      "c4": "Divine Suppression",
+      "c5": "Crimson Lotus Bloom",
+      "c6": "Rite of Resurrection"
+    },
+    {
+      "name": "Razor",
+      "c1": "Wolf's Instinct",
+      "c2": "Suppression",
+      "c3": "Soul Companion",
+      "c4": "Bite",
+      "c5": "Sharpened Claws",
+      "c6": "Lupus Fulguris"
+    },
+    {
+      "name": "Sucrose",
+      "c1": "Clustered Vacuum Field",
+      "c2": "Beth: Unbound Form",
+      "c3": "Flawless Alchemistress",
+      "c4": "Alchemania",
+      "c5": "Caution: Standard Flask",
+      "c6": "Chaotic Entropy"
+    },
+    {
+      "name": "Tartaglia",
+      "c1": "Foul Legacy: Tide Withholder",
+      "c2": "Foul Legacy: Understream",
+      "c3": "Abyssal Mayhem: Vortex of Turmoil",
+      "c4": "Abyssal Mayhem: Hydrosprout",
+      "c5": "Havoc: Formless Blade",
+      "c6": "Havoc: Annihilation"
+    },
+    {
+      "name": "Traveler Anemo",
+      "c1": "Raging Vortex",
+      "c2": "Uprising Whirlwind",
+      "c3": "Sweeping Gust",
+      "c4": "Cherishing Breezes",
+      "c5": "Vortex Stellaris",
+      "c6": "Intertwined Winds"
+    },
+    {
+      "name": "Traveler Geo",
+      "c1": "Invincible Stonewalln",
+      "c2": "Rockcore Meltdown",
+      "c3": "Will of the Rock",
+      "c4": "Reaction Force",
+      "c5": "Meteorite Impact",
+      "c6": "Everlasting Boulder"
+    },
+    {
+      "name": "Venti",
+      "c1": "Splitting Gales",
+      "c2": "Breeze of Reminiscence",
+      "c3": "Ode to Thousand Winds",
+      "c4": "Hurricane of Freedom",
+      "c5": "Concerto dal Cielo",
+      "c6": "Storm of Defiance"
+    },
+    {
+      "name": "Xiangling",
+      "c1": "Crispy Outside, Tender Inside",
+      "c2": "Oil Meets Fire",
+      "c3": "Deepfry",
+      "c4": "Slowbake",
+      "c5": "Guoba Mad",
+      "c6": "Condensed Pyronado"
+    },
+    {
+      "name": "Xiao",
+      "c1": "Dissolution Eon - Destroyer of Worlds",
+      "c2": "Annihilation Eon - Blossom of Kaleidos",
+      "c3": "Evil Conqueror - Wrath Deity",
+      "c4": "Transcension - Extinction of Suffering",
+      "c5": "Evolution Eon - Origin of Ignorance",
+      "c6": "Evil Conqueror - Vigilant Yaksha"
+    },
+    {
+      "name": "Xingqiu",
+      "c1": "The Scent Remained",
+      "c2": "Rainbow Upon the Azure Sky",
+      "c3": "Weaver of Verses",
+      "c4": "Evilsoother",
+      "c5": "Embrace of Rain",
+      "c6": "Hence, Call Them My Own Verses"
+    },
+    {
+      "name": "Xinyan",
+      "c1": "Fatal Acceleration",
+      "c2": "Impromptu Opening",
+      "c3": "Double-Stop",
+      "c4": "Wildfire Rhythm",
+      "c5": "Screamin' for an Encore",
+      "c6": "Rockin' in a Flaming World"
+    },
+    {
+      "name": "Zhongli",
+      "c1": "Rock, the Backbone of Earth",
+      "c2": "Stone, the Cradle of Jade",
+      "c3": "Jade, Shimmering through Darkness",
+      "c4": "Topaz, Unbreakable and Fearless",
+      "c5": "Lazuli, Herald of the Order",
+      "c6": "Chrysos, Bounty of Dominator"
+    }
+  ]
+}
