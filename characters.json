@@ -13,6 +13,7 @@
       "region": "mondstadt",
       "role": "Support DPS",
       "birthday": "September 13th",
+      "affiliation": "Knights of Favonius",
       "ascensionMaterials": [
         {
           "materials": [
@@ -193,323 +194,6 @@
             }
           ]
         }
-      ],
-      "talentAscensionMaterials": [
-        {
-          "level": 2,
-          "materials": [
-            {
-              "quantity": 3,
-              "materialType": "talents",
-              "image": "teaching_of_ballad.png"
-            },
-            {
-              "quantity": 6,
-              "materialType": "common",
-              "image": "divining_scroll.png"
-            },
-            {
-              "quantity": 12500,
-              "materialType": "currency",
-              "image": "mora.png"
-            }
-          ]
-        },
-        {
-          "level": 3,
-          "materials": [
-            {
-              "quantity": 2,
-              "materialType": "talents",
-              "image": "guide_to_ballad.png"
-            },
-            {
-              "quantity": 3,
-              "materialType": "common",
-              "image": "sealed_scroll.png"
-            },
-            {
-              "quantity": 17500,
-              "materialType": "currency",
-              "image": "mora.png"
-            }
-          ]
-        },
-        {
-          "level": 4,
-          "materials": [
-            {
-              "quantity": 4,
-              "materialType": "talents",
-              "image": "guide_to_ballad.png"
-            },
-            {
-              "quantity": 4,
-              "materialType": "common",
-              "image": "sealed_scroll.png"
-            },
-            {
-              "quantity": 25000,
-              "materialType": "currency",
-              "image": "mora.png"
-            }
-          ]
-        },
-        {
-          "level": 5,
-          "materials": [
-            {
-              "quantity": 6,
-              "materialType": "talents",
-              "image": "guide_to_ballad.png"
-            },
-            {
-              "quantity": 6,
-              "materialType": "common",
-              "image": "sealed_scroll.png"
-            },
-            {
-              "quantity": 30000,
-              "materialType": "currency",
-              "image": "mora.png"
-            }
-          ]
-        },
-        {
-          "level": 6,
-          "materials": [
-            {
-              "quantity": 9,
-              "materialType": "talents",
-              "image": "guide_to_ballad.png"
-            },
-            {
-              "quantity": 9,
-              "materialType": "common",
-              "image": "sealed_scroll.png"
-            },
-            {
-              "quantity": 35000,
-              "materialType": "currency",
-              "image": "mora.png"
-            }
-          ]
-        },
-        {
-          "level": 7,
-          "materials": [
-            {
-              "quantity": 4,
-              "materialType": "talents",
-              "image": "philosophies_of_ballad.png"
-            },
-            {
-              "quantity": 4,
-              "materialType": "common",
-              "image": "forbidden_curse_scroll.png"
-            },
-            {
-              "quantity": 1,
-              "materialType": "talents",
-              "image": "tusk_of_monoceros_caeli.png"
-            },
-            {
-              "quantity": 120000,
-              "materialType": "currency",
-              "image": "mora.png"
-            }
-          ]
-        },
-        {
-          "level": 8,
-          "materials": [
-            {
-              "quantity": 6,
-              "materialType": "talents",
-              "image": "philosophies_of_ballad.png"
-            },
-            {
-              "quantity": 6,
-              "materialType": "common",
-              "image": "forbidden_curse_scroll.png"
-            },
-            {
-              "quantity": 1,
-              "materialType": "talents",
-              "image": "tusk_of_monoceros_caeli.png"
-            },
-            {
-              "quantity": 260000,
-              "materialType": "currency",
-              "image": "mora.png"
-            }
-          ]
-        },
-        {
-          "level": 9,
-          "materials": [
-            {
-              "quantity": 12,
-              "materialType": "talents",
-              "image": "philosophies_of_ballad.png"
-            },
-            {
-              "quantity": 9,
-              "materialType": "common",
-              "image": "forbidden_curse_scroll.png"
-            },
-            {
-              "quantity": 2,
-              "materialType": "talents",
-              "image": "tusk_of_monoceros_caeli.png"
-            },
-            {
-              "quantity": 450000,
-              "materialType": "currency",
-              "image": "mora.png"
-            }
-          ]
-        },
-        {
-          "level": 10,
-          "materials": [
-            {
-              "quantity": 16,
-              "materialType": "talents",
-              "image": "philosophies_of_ballad.png"
-            },
-            {
-              "quantity": 12,
-              "materialType": "common",
-              "image": "forbidden_curse_scroll.png"
-            },
-            {
-              "quantity": 2,
-              "materialType": "talents",
-              "image": "tusk_of_monoceros_caeli.png"
-            },
-            {
-              "quantity": 1,
-              "materialType": "talents",
-              "image": "crown_of_sagehood.png"
-            },
-            {
-              "quantity": 700000,
-              "materialType": "currency",
-              "image": "mora.png"
-            }
-          ]
-        }
-      ],
-      "builds": [
-        {
-          "isSupport": true,
-          "weaponImages": ["skyward_blade.png", "festering_fang.png"],
-          "artifacts": [
-            {
-              "multiples": [
-                {
-                  "quantity": 2,
-                  "image": "archaic_petra_4.png"
-                },
-                {
-                  "quantity": 2,
-                  "image": "noblesse_oblige_4.png"
-                }
-              ]
-            },
-            {
-              "one": "noblesse_oblige_4.png",
-              "multiples": []
-            }
-          ]
-        }
-      ],
-      "skills": [
-        {
-          "key": "s1",
-          "image": "favonius_bladework_white.png",
-          "type": "normalAttack",
-          "abilities": [
-            {
-              "key": "a1",
-              "type": "normalAttack"
-            },
-            {
-              "key": "a2",
-              "type": "chargedAttack"
-            },
-            {
-              "key": "a3",
-              "type": "plungingAttack"
-            }
-          ]
-        },
-        {
-          "key": "s2",
-          "image": "abiogenesis_solar_radiance.png",
-          "type": "elementalSkill",
-          "abilities": [
-            {
-              "key": "a2",
-              "type": "hold"
-            }
-          ]
-        },
-        {
-          "key": "s3",
-          "image": "rite_of_progeniture_tectonic_tide.png",
-          "type": "elementalBurst"
-        }
-      ],
-      "passives": [
-        {
-          "key": "p1",
-          "image": "genius_unearthed.png",
-          "unlockedAt": -1
-        },
-        {
-          "key": "p2",
-          "image": "calcite_suppression.png",
-          "unlockedAt": 1
-        },
-        {
-          "key": "p3",
-          "image": "albedo_p4_talent.png",
-          "unlockedAt": 4
-        }
-      ],
-      "constellations": [
-        {
-          "key": "c1",
-          "number": 1,
-          "image": "flower_of_eden.png"
-        },
-        {
-          "key": "c2",
-          "number": 2,
-          "image": "opening_of_phanerozoic.png"
-        },
-        {
-          "key": "c3",
-          "number": 3,
-          "image": "grace_of_helios.png"
-        },
-        {
-          "key": "c4",
-          "number": 4,
-          "image": "descent_of_divinity.png"
-        },
-        {
-          "key": "c5",
-          "number": 5,
-          "image": "tide_of_hadean.png"
-        },
-        {
-          "key": "c6",
-          "number": 6,
-          "image": "domain_of_purification.png"
-        }
       ]
     },
     {
@@ -525,6 +209,7 @@
       "region": "mondstadt",
       "role": "Support DPS",
       "birthday": "August 10th",
+      "affiliation": "Knights of Favonius",
       "ascensionMaterials": [
         {
           "materials": [
@@ -714,6 +399,7 @@
       "region": "inazuma",
       "role": "Main DPS",
       "birthday": "",
+      "affiliation": "NA",
       "ascensionMaterials": [
         {
           "materials": [
@@ -1118,6 +804,7 @@
       "region": "mondstadt",
       "role": "Utility",
       "birthday": "July 5th",
+      "affiliation": "Church of Favonius",
       "ascensionMaterials": [
         {
           "materials": [
@@ -1316,6 +1003,7 @@
       "region": "liyue",
       "role": "Main DPS",
       "birthday": "February 14th",
+      "affiliation": "Crux Fleet",
       "ascensionMaterials": [
         {
           "materials": [
@@ -1514,6 +1202,7 @@
       "region": "mondstadt",
       "role": "Utility",
       "birthday": "February 29th",
+      "affiliation": "Adventurers' Guild",
       "ascensionMaterials": [
         {
           "materials": [
@@ -1712,6 +1401,7 @@
       "region": "liyue",
       "role": "Support DPS",
       "birthday": "September 7th",
+      "affiliation": "NA",
       "ascensionMaterials": [
         {
           "materials": [
@@ -1910,6 +1600,7 @@
       "region": "mondstadt",
       "role": "Main DPS",
       "birthday": "April 30th",
+      "affiliation": "Dawn Winery, Knights of Favonius (Formerly)",
       "ascensionMaterials": [
         {
           "materials": [
@@ -2105,6 +1796,7 @@
       "region": "mondstadt",
       "role": "Utility",
       "birthday": "January 18th",
+      "affiliation": "Cat's Tail Tavern",
       "ascensionMaterials": [
         {
           "materials": [
@@ -2300,6 +1992,7 @@
       "region": "mondstadt",
       "role": "Support DPS",
       "birthday": "May 27th",
+      "affiliation": "Adventurers' Guild",
       "ascensionMaterials": [
         {
           "materials": [
@@ -2496,6 +2189,7 @@
       "role": "Main/Support DPS",
       "featured": true,
       "birthday": "December 2nd",
+      "affiliation": "Yuehai Pavilion",
       "ascensionMaterials": [
         {
           "materials": [
@@ -2691,6 +2385,7 @@
       "region": "mondstadt",
       "role": "Utility",
       "birthday": "March 14th",
+      "affiliation": "Knights of Favonius, Four Winds",
       "ascensionMaterials": [
         {
           "materials": [
@@ -2886,6 +2581,7 @@
       "region": "mondstadt",
       "role": "Support DPS",
       "birthday": "November 30th",
+      "affiliation": "Knights of Favonius, Khaenri'ah (Formerly)",
       "ascensionMaterials": [
         {
           "materials": [
@@ -3081,6 +2777,7 @@
       "region": "liyue",
       "role": "Main DPS",
       "birthday": "November 20th",
+      "affiliation": "Liyue Qixing",
       "ascensionMaterials": [
         {
           "materials": [
@@ -3276,6 +2973,7 @@
       "region": "mondstadt",
       "role": "Main DPS",
       "birthday": "July 27th",
+      "affiliation": "Knights of Favonius",
       "ascensionMaterials": [
         {
           "materials": [
@@ -3470,6 +3168,7 @@
       "isFemale": true,
       "region": "mondstadt",
       "role": "Support DPS",
+      "affiliation": "Knights of Favonius, Sumeru Academia (Formerly)",
       "ascensionMaterials": [
         {
           "materials": [
@@ -3665,6 +3364,7 @@
       "region": "mondstadt",
       "role": "Support DPS",
       "birthday": "August 31st",
+      "affiliation": "Hexenzirkel",
       "ascensionMaterials": [
         {
           "materials": [
@@ -3860,6 +3560,7 @@
       "region": "liyue",
       "role": "Main DPS",
       "birthday": "August 26th",
+      "affiliation": "Liyue Qixing",
       "ascensionMaterials": [
         {
           "materials": [
@@ -4056,6 +3757,7 @@
       "role": "Utility",
       "featured": true,
       "birthday": "March 21st",
+      "affiliation": "Knights of Favonius",
       "ascensionMaterials": [
         {
           "materials": [
@@ -4251,6 +3953,7 @@
       "region": "liyue",
       "role": "Utility",
       "birthday": "March 3rd",
+      "affiliation": "Bubu Pharmacy",
       "ascensionMaterials": [
         {
           "materials": [
@@ -4446,6 +4149,7 @@
       "region": "mondstadt",
       "role": "Main DPS",
       "birthday": "September 9th",
+      "affiliation": "Wolvendom (Andrius)",
       "ascensionMaterials": [
         {
           "materials": [
@@ -4641,6 +4345,7 @@
       "region": "mondstadt",
       "role": "Utility",
       "birthday": "November 26th",
+      "affiliation": "Knights of Favonius",
       "ascensionMaterials": [
         {
           "materials": [
@@ -4836,6 +4541,7 @@
       "region": "snezhnaya",
       "role": "Main DPS",
       "birthday": "July 20th",
+      "affiliation": "Fatui",
       "ascensionMaterials": [
         {
           "materials": [
@@ -5031,6 +4737,7 @@
       "region": "anotherWorld",
       "role": "Support DPS",
       "birthday": "Player's choice",
+      "affiliation": "Knights of Favonius, Adventurers' Guild",
       "ascensionMaterials": [
         {
           "materials": [
@@ -5201,6 +4908,7 @@
       "region": "anotherWorld",
       "role": "Utility",
       "birthday": "Player's choice",
+      "affiliation": "Knights of Favonius, Adventurers' Guild",
       "ascensionMaterials": [
         {
           "materials": [
@@ -5371,6 +5079,7 @@
       "region": "mondstadt",
       "role": "Utility",
       "birthday": "June 16th",
+      "affiliation": "Archons",
       "ascensionMaterials": [
         {
           "materials": [
@@ -5567,6 +5276,7 @@
       "role": "Support DPS",
       "featured": true,
       "birthday": "November 2nd",
+      "affiliation": "Wanmin Restaurant",
       "ascensionMaterials": [
         {
           "materials": [
@@ -5762,6 +5472,7 @@
       "region": "liyue",
       "role": "na",
       "birthday": "April 17th",
+      "affiliation": "Liyue Adeptus",
       "ascensionMaterials": [
         {
           "materials": [
@@ -5958,6 +5669,7 @@
       "role": "Support DPS",
       "featured": true,
       "birthday": "October 9th",
+      "affiliation": "Feiyun Commerce Guild",
       "ascensionMaterials": [
         {
           "materials": [
@@ -6153,6 +5865,7 @@
       "region": "liyue",
       "role": "Main DPS",
       "birthday": "October 16th",
+      "affiliation": "Liyue Harbor",
       "ascensionMaterials": [
         {
           "materials": [
@@ -6348,6 +6061,7 @@
       "region": "liyue",
       "role": "Support DPS",
       "birthday": "December 31st",
+      "affiliation": "Wangsheng Funeral Parlor, Archons",
       "ascensionMaterials": [
         {
           "materials": [
