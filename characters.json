@@ -11,12 +11,10 @@
       "isNew": false,
       "isFemale": false,
       "region": "mondstadt",
-      "role": "supportDps",
+      "role": "Support DPS",
       "Birthday": "September 13th",
       "ascensionMaterials": [
         {
-          "rank": 1,
-          "level": 20,
           "materials": [
             {
               "quantity": 1,
@@ -525,12 +523,10 @@
       "isNew": false,
       "isFemale": true,
       "region": "mondstadt",
-      "role": "supportDps",
+      "role": "Support DPS",
       "Birthday": "August 10th",
       "ascensionMaterials": [
         {
-          "rank": 1,
-          "level": 20,
           "materials": [
             {
               "quantity": 1,
@@ -555,8 +551,6 @@
           ]
         },
         {
-          "rank": 2,
-          "level": 40,
           "materials": [
             {
               "quantity": 3,
@@ -586,8 +580,6 @@
           ]
         },
         {
-          "rank": 3,
-          "level": 50,
           "materials": [
             {
               "quantity": 6,
@@ -617,8 +609,6 @@
           ]
         },
         {
-          "rank": 4,
-          "level": 60,
           "materials": [
             {
               "quantity": 3,
@@ -722,12 +712,10 @@
       "isNew": false,
       "isFemale": true,
       "region": "inazuma",
-      "role": "mainDps",
+      "role": "Main DPS",
       "Birthday": "",
       "ascensionMaterials": [
         {
-          "rank": 1,
-          "level": 20,
           "materials": [
             {
               "quantity": 1,
@@ -909,7 +897,6 @@
       ],
       "talentAscensionMaterials": [
         {
-          "level": 2,
           "materials": [
             {
               "quantity": 3,
@@ -1113,11 +1100,7 @@
             }
           ]
         }
-      ],
-      "builds": [],
-      "skills": [],
-      "passives": [],
-      "constellations": []
+      ]
     },
     {
       "name": "Barbara",
@@ -1133,12 +1116,10 @@
       "isNew": false,
       "isFemale": true,
       "region": "mondstadt",
-      "role": "utility",
+      "role": "Utility",
       "Birthday": "July 5th",
       "ascensionMaterials": [
         {
-          "rank": 1,
-          "level": 20,
           "materials": [
             {
               "quantity": 1,
@@ -1333,12 +1314,10 @@
       "isNew": false,
       "isFemale": true,
       "region": "liyue",
-      "role": "mainDps",
+      "role": "Main DPS",
       "Birthday": "February 14th",
       "ascensionMaterials": [
         {
-          "rank": 1,
-          "level": 20,
           "materials": [
             {
               "quantity": 1,
@@ -1533,12 +1512,10 @@
       "isNew": false,
       "isFemale": false,
       "region": "mondstadt",
-      "role": "utility",
+      "role": "Utility",
       "Birthday": "February 29th",
       "ascensionMaterials": [
         {
-          "rank": 1,
-          "level": 20,
           "materials": [
             {
               "quantity": 1,
@@ -1733,12 +1710,10 @@
       "isNew": false,
       "isFemale": false,
       "region": "liyue",
-      "role": "supportDps",
+      "role": "Support DPS",
       "Birthday": "September 7th",
       "ascensionMaterials": [
         {
-          "rank": 1,
-          "level": 20,
           "materials": [
             {
               "quantity": 1,
@@ -1933,12 +1908,10 @@
       "isNew": false,
       "isFemale": false,
       "region": "mondstadt",
-      "role": "mainDps",
+      "role": "Main DPS",
       "Birthday": "April 30th",
       "ascensionMaterials": [
         {
-          "rank": 1,
-          "level": 20,
           "materials": [
             {
               "quantity": 1,
@@ -2130,12 +2103,10 @@
       "isNew": false,
       "isFemale": true,
       "region": "mondstadt",
-      "role": "utility",
+      "role": "Utility",
       "Birthday": "January 18th",
       "ascensionMaterials": [
         {
-          "rank": 1,
-          "level": 20,
           "materials": [
             {
               "quantity": 1,
@@ -2327,12 +2298,10 @@
       "isNew": false,
       "isFemale": true,
       "region": "mondstadt",
-      "role": "supportDps",
+      "role": "Support DPS",
       "Birthday": "May 27th",
       "ascensionMaterials": [
         {
-          "rank": 1,
-          "level": 20,
           "materials": [
             {
               "quantity": 1,
@@ -2524,13 +2493,11 @@
       "isNew": true,
       "isFemale": true,
       "region": "liyue",
-      "role": "na",
+      "role": "Main/Support DPS",
       "featured": true,
       "Birthday": "December 2nd",
       "ascensionMaterials": [
         {
-          "rank": 1,
-          "level": 20,
           "materials": [
             {
               "quantity": 1,
@@ -2722,12 +2689,10 @@
       "isNew": false,
       "isFemale": true,
       "region": "mondstadt",
-      "role": "utility",
+      "role": "Utility",
       "Birthday": "March 14th",
       "ascensionMaterials": [
         {
-          "rank": 1,
-          "level": 20,
           "materials": [
             {
               "quantity": 1,
@@ -2919,12 +2884,10 @@
       "isNew": false,
       "isFemale": false,
       "region": "mondstadt",
-      "role": "supportDps",
+      "role": "Support DPS",
       "Birthday": "November 30th",
       "ascensionMaterials": [
         {
-          "rank": 1,
-          "level": 20,
           "materials": [
             {
               "quantity": 1,
@@ -3116,12 +3079,10 @@
       "isNew": false,
       "isFemale": true,
       "region": "liyue",
-      "role": "mainDps",
+      "role": "Main DPS",
       "Birthday": "November 20th",
       "ascensionMaterials": [
         {
-          "rank": 1,
-          "level": 20,
           "materials": [
             {
               "quantity": 1,
@@ -3313,12 +3274,10 @@
       "isNew": false,
       "isFemale": true,
       "region": "mondstadt",
-      "role": "mainDps",
+      "role": "Main DPS",
       "Birthday": "July 27th",
       "ascensionMaterials": [
         {
-          "rank": 1,
-          "level": 20,
           "materials": [
             {
               "quantity": 1,
@@ -3510,11 +3469,9 @@
       "isNew": false,
       "isFemale": true,
       "region": "mondstadt",
-      "role": "supportDps",
+      "role": "Support DPS",
       "ascensionMaterials": [
         {
-          "rank": 1,
-          "level": 20,
           "materials": [
             {
               "quantity": 1,
@@ -3706,12 +3663,10 @@
       "isNew": false,
       "isFemale": true,
       "region": "mondstadt",
-      "role": "supportDps",
+      "role": "Support DPS",
       "Birthday": "August 31st",
       "ascensionMaterials": [
         {
-          "rank": 1,
-          "level": 20,
           "materials": [
             {
               "quantity": 1,
@@ -3903,12 +3858,10 @@
       "isNew": false,
       "isFemale": true,
       "region": "liyue",
-      "role": "mainDps",
+      "role": "Main DPS",
       "Birthday": "August 26th",
       "ascensionMaterials": [
         {
-          "rank": 1,
-          "level": 20,
           "materials": [
             {
               "quantity": 1,
@@ -4100,13 +4053,11 @@
       "isNew": false,
       "isFemale": true,
       "region": "mondstadt",
-      "role": "utility",
+      "role": "Utility",
       "featured": true,
       "Birthday": "March 21st",
       "ascensionMaterials": [
         {
-          "rank": 1,
-          "level": 20,
           "materials": [
             {
               "quantity": 1,
@@ -4298,12 +4249,10 @@
       "isNew": false,
       "isFemale": true,
       "region": "liyue",
-      "role": "utility",
+      "role": "Utility",
       "Birthday": "March 3rd",
       "ascensionMaterials": [
         {
-          "rank": 1,
-          "level": 20,
           "materials": [
             {
               "quantity": 1,
@@ -4495,12 +4444,10 @@
       "isNew": false,
       "isFemale": false,
       "region": "mondstadt",
-      "role": "mainDps",
+      "role": "Main DPS",
       "Birthday": "September 9th",
       "ascensionMaterials": [
         {
-          "rank": 1,
-          "level": 20,
           "materials": [
             {
               "quantity": 1,
@@ -4692,12 +4639,10 @@
       "isNew": false,
       "isFemale": true,
       "region": "mondstadt",
-      "role": "utility",
+      "role": "Utility",
       "Birthday": "November 26th",
       "ascensionMaterials": [
         {
-          "rank": 1,
-          "level": 20,
           "materials": [
             {
               "quantity": 1,
@@ -4889,12 +4834,10 @@
       "isNew": false,
       "isFemale": false,
       "region": "snezhnaya",
-      "role": "mainDps",
+      "role": "Main DPS",
       "Birthday": "July 20th",
       "ascensionMaterials": [
         {
-          "rank": 1,
-          "level": 20,
           "materials": [
             {
               "quantity": 1,
@@ -5086,12 +5029,10 @@
       "isNew": false,
       "isFemale": true,
       "region": "anotherWorld",
-      "role": "supportDps",
+      "role": "Support DPS",
       "Birthday": "Player's choice",
       "ascensionMaterials": [
         {
-          "rank": 1,
-          "level": 20,
           "materials": [
             {
               "quantity": 1,
@@ -5258,12 +5199,10 @@
       "isNew": false,
       "isFemale": true,
       "region": "anotherWorld",
-      "role": "utility",
+      "role": "Utility",
       "Birthday": "Player's choice",
       "ascensionMaterials": [
         {
-          "rank": 1,
-          "level": 20,
           "materials": [
             {
               "quantity": 1,
@@ -5430,12 +5369,10 @@
       "isNew": false,
       "isFemale": false,
       "region": "mondstadt",
-      "role": "utility",
+      "role": "Utility",
       "Birthday": "June 16th",
       "ascensionMaterials": [
         {
-          "rank": 1,
-          "level": 20,
           "materials": [
             {
               "quantity": 1,
@@ -5627,13 +5564,11 @@
       "isNew": false,
       "isFemale": true,
       "region": "liyue",
-      "role": "supportDps",
+      "role": "Support DPS",
       "featured": true,
       "Birthday": "November 2nd",
       "ascensionMaterials": [
         {
-          "rank": 1,
-          "level": 20,
           "materials": [
             {
               "quantity": 1,
@@ -5829,8 +5764,6 @@
       "Birthday": "April 17th",
       "ascensionMaterials": [
         {
-          "rank": 1,
-          "level": 20,
           "materials": [
             {
               "quantity": 1,
@@ -6022,13 +5955,11 @@
       "isNew": false,
       "isFemale": false,
       "region": "liyue",
-      "role": "supportDps",
+      "role": "Support DPS",
       "featured": true,
       "Birthday": "October 9th",
       "ascensionMaterials": [
         {
-          "rank": 1,
-          "level": 20,
           "materials": [
             {
               "quantity": 1,
@@ -6220,12 +6151,10 @@
       "isNew": false,
       "isFemale": true,
       "region": "liyue",
-      "role": "mainDps",
+      "role": "Main DPS",
       "Birthday": "October 16th",
       "ascensionMaterials": [
         {
-          "rank": 1,
-          "level": 20,
           "materials": [
             {
               "quantity": 1,
@@ -6417,12 +6346,10 @@
       "isNew": false,
       "isFemale": false,
       "region": "liyue",
-      "role": "supportDps",
+      "role": "Support DPS",
       "Birthday": "December 31st",
       "ascensionMaterials": [
         {
-          "rank": 1,
-          "level": 20,
           "materials": [
             {
               "quantity": 1,
