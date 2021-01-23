@@ -6,6 +6,7 @@ const charData = require("./characters.json");
 const artifactData = require("./artifacts.json");
 const materialData = require("./materials.json");
 const weaponData = require("./weapons.json");
+const constellations = require("./Constellations.json");
 
 let port = process.env.PORT || 3000;
 
@@ -167,6 +168,27 @@ app.get(["/weapons/catalysts", "/weapons/catalyst"], (req, res) => {
 
 app.get(["/weapons/polearms", "/weapons/polearm"], (req, res) => {
   res.send(weaponData.polearms);
+});
+
+//CHARACTERS
+app.get("/constellations", (req, res) => {
+  if (req.query.name == undefined) res.send(constellations.Constellations);
+  else {
+    const qr = constellations.Constellations.filter(function (item) {
+      return item.name.toLowerCase() === req.query.name.toLowerCase();
+    })[0];
+
+    const result = {
+      c1: qr.c1,
+      c2: qr.c2,
+      c3: qr.c3,
+      c4: qr.c4,
+      c5: qr.c5,
+      c6: qr.c6,
+    };
+
+    res.send(result);
+  }
 });
 
 app.use(express.static(__dirname + "/public"));
