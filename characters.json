@@ -18,179 +18,93 @@
         {
           "materials": [
             {
-              "quantity": 1,
-              "materialType": "jewels",
-              "image": "prithiva_topaz_sliver.png"
+              "name": "Prithiva Topaz Sliver"
             },
             {
-              "quantity": 3,
-              "materialType": "local",
-              "image": "cecilia.png"
+              "name": "Cecilia"
             },
             {
-              "quantity": 3,
-              "materialType": "common",
-              "image": "divining_scroll.png"
-            },
-            {
-              "quantity": 20000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Divining Scroll"
             }
           ]
         },
         {
-          "rank": 2,
-          "level": 40,
           "materials": [
             {
-              "quantity": 3,
-              "materialType": "jewels",
-              "image": "prithiva_topaz_fragment.png"
+              "name": "Prithiva Topaz Fragment"
             },
             {
-              "quantity": 2,
-              "materialType": "elemental",
-              "image": "basalt_pillar.png"
+              "name": "Basalt Pillar"
             },
             {
-              "quantity": 10,
-              "materialType": "local",
-              "image": "cecilia.png"
+              "name": "Cecilia"
             },
             {
-              "quantity": 15,
-              "materialType": "common",
-              "image": "divining_scroll.png"
-            },
-            {
-              "quantity": 40000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Divining Scroll"
             }
           ]
         },
         {
-          "rank": 3,
-          "level": 50,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "prithiva_topaz_fragment.png"
+              "name": "Prithiva Topaz Fragment"
             },
             {
-              "quantity": 4,
-              "materialType": "elemental",
-              "image": "basalt_pillar.png"
+              "name": "Basalt Pillar"
             },
             {
-              "quantity": 20,
-              "materialType": "local",
-              "image": "cecilia.png"
+              "name": "Cecilia"
             },
             {
-              "quantity": 12,
-              "materialType": "common",
-              "image": "sealed_scroll.png"
-            },
-            {
-              "quantity": 60000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Sealed Scroll"
             }
           ]
         },
         {
-          "rank": 4,
-          "level": 60,
           "materials": [
             {
-              "quantity": 3,
-              "materialType": "jewels",
-              "image": "prithiva_topaz_chunk.png"
+              "name": "Prithiva Topaz Chunk"
             },
             {
-              "quantity": 8,
-              "materialType": "elemental",
-              "image": "basalt_pillar.png"
+              "name": "Basalt Pillar"
             },
             {
-              "quantity": 30,
-              "materialType": "local",
-              "image": "cecilia.png"
+              "name": "Cecilia"
             },
             {
-              "quantity": 18,
-              "materialType": "common",
-              "image": "sealed_scroll.png"
-            },
-            {
-              "quantity": 80000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Sealed Scroll"
             }
           ]
         },
         {
-          "rank": 5,
-          "level": 70,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "prithiva_topaz_chunk.png"
+              "name": "Prithiva Topaz Chunk"
             },
             {
-              "quantity": 12,
-              "materialType": "elemental",
-              "image": "basalt_pillar.png"
+              "name": "Basalt Pillar"
             },
             {
-              "quantity": 45,
-              "materialType": "local",
-              "image": "cecilia.png"
+              "name": "Cecilia"
             },
             {
-              "quantity": 12,
-              "materialType": "common",
-              "image": "forbidden_curse_scroll.png"
-            },
-            {
-              "quantity": 100000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Forbidden Curse Scroll"
             }
           ]
         },
         {
-          "rank": 6,
-          "level": 80,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "prithiva_topaz_gemstone.png"
+              "name": "Prithiva Topaz Gemstone"
             },
             {
-              "quantity": 20,
-              "materialType": "elemental",
-              "image": "basalt_pillar.png"
+              "name": "Basalt Pillar"
             },
             {
-              "quantity": 60,
-              "materialType": "local",
-              "image": "cecilia.png"
+              "name": "Cecilia"
             },
             {
-              "quantity": 24,
-              "materialType": "common",
-              "image": "forbidden_curse_scroll.png"
-            },
-            {
-              "quantity": 120000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Forbidden Curse Scroll"
             }
           ]
         }
@@ -214,173 +128,93 @@
         {
           "materials": [
             {
-              "quantity": 1,
-              "materialType": "jewels",
-              "image": "agnidus_agate_sliver.png"
+              "name": "Agnidus Agate Sliver"
             },
             {
-              "quantity": 3,
-              "materialType": "local",
-              "image": "small_lamp_grass.png"
+              "name": "Small Lamp Grass"
             },
             {
-              "quantity": 3,
-              "materialType": "common",
-              "image": "firm_arrowhead.png"
-            },
-            {
-              "quantity": 20000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Firm Arrowhead"
             }
           ]
         },
         {
           "materials": [
             {
-              "quantity": 3,
-              "materialType": "jewels",
-              "image": "agnidus_agate_fragment.png"
+              "name": "Agnidus Agate Fragment"
             },
             {
-              "quantity": 2,
-              "materialType": "elemental",
-              "image": "everflame_seed.png"
+              "name": "Everflame Seed"
             },
             {
-              "quantity": 10,
-              "materialType": "local",
-              "image": "small_lamp_grass.png"
+              "name": "Small Lamp Grass"
             },
             {
-              "quantity": 15,
-              "materialType": "common",
-              "image": "firm_arrowhead.png"
-            },
-            {
-              "quantity": 40000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Firm Arrowhead"
             }
           ]
         },
         {
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "agnidus_agate_fragment.png"
+              "name": "Agnidus Agate Fragment"
             },
             {
-              "quantity": 4,
-              "materialType": "elemental",
-              "image": "everflame_seed.png"
+              "name": "Everflame Seed"
             },
             {
-              "quantity": 20,
-              "materialType": "local",
-              "image": "small_lamp_grass.png"
+              "name": "Small Lamp Grass"
             },
             {
-              "quantity": 12,
-              "materialType": "common",
-              "image": "sharp_arrowhead.png"
-            },
-            {
-              "quantity": 60000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Sharp Arrowhead"
             }
           ]
         },
         {
           "materials": [
             {
-              "quantity": 3,
-              "materialType": "jewels",
-              "image": "agnidus_agate_chunk.png"
+              "name": "Agnidus Agate Chunk"
             },
             {
-              "quantity": 8,
-              "materialType": "elemental",
-              "image": "everflame_seed.png"
+              "name": "Everflame Seed"
             },
             {
-              "quantity": 30,
-              "materialType": "local",
-              "image": "small_lamp_grass.png"
+              "name": "Small Lamp Grass"
             },
             {
-              "quantity": 18,
-              "materialType": "common",
-              "image": "sharp_arrowhead.png"
-            },
-            {
-              "quantity": 80000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Sharp Arrowhead"
             }
           ]
         },
         {
-          "rank": 5,
-          "level": 70,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "agnidus_agate_chunk.png"
+              "name": "Agnidus Agate Chunk"
             },
             {
-              "quantity": 12,
-              "materialType": "elemental",
-              "image": "everflame_seed.png"
+              "name": "Everflame Seed"
             },
             {
-              "quantity": 45,
-              "materialType": "local",
-              "image": "small_lamp_grass.png"
+              "name": "Small Lamp Grass"
             },
             {
-              "quantity": 12,
-              "materialType": "common",
-              "image": "weathered_arrowhead.png"
-            },
-            {
-              "quantity": 100000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Weathered Arrowhea"
             }
           ]
         },
         {
-          "rank": 6,
-          "level": 80,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "agnidus_agate_gemstone.png"
+              "name": "Agnidus Agate Gemstone"
             },
             {
-              "quantity": 20,
-              "materialType": "elemental",
-              "image": "everflame_seed.png"
+              "name": "Everflame Seed"
             },
             {
-              "quantity": 60,
-              "materialType": "local",
-              "image": "small_lamp_grass.png"
+              "name": "Small Lamp Grass"
             },
             {
-              "quantity": 24,
-              "materialType": "common",
-              "image": "weathered_arrowhead.png"
-            },
-            {
-              "quantity": 120000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Weathered Arrowhea"
             }
           ]
         }
@@ -404,385 +238,93 @@
         {
           "materials": [
             {
-              "quantity": 1,
-              "materialType": "jewels",
-              "image": "shivada_jade_sliver.png"
+              "name": "Shivada Jade sliver"
             },
             {
-              "quantity": 3,
-              "materialType": "local",
-              "image": "small_lamp_grass.png"
+              "name": "Small Lamp Grass"
             },
             {
-              "quantity": 3,
-              "materialType": "common",
-              "image": "divining_scroll.png"
-            },
-            {
-              "quantity": 20000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Divining Scroll"
             }
           ]
         },
         {
-          "rank": 2,
-          "level": 40,
           "materials": [
             {
-              "quantity": 3,
-              "materialType": "jewels",
-              "image": "shivada_jade_fragment.png"
+              "name": "Shivada Jade Fragment"
             },
             {
-              "quantity": 2,
-              "materialType": "elemental",
-              "image": "hoarfrost_core.png"
+              "name": "Hoarfrost Core"
             },
             {
-              "quantity": 10,
-              "materialType": "local",
-              "image": "small_lamp_grass.png"
+              "name": "Small Lamp Grass"
             },
             {
-              "quantity": 15,
-              "materialType": "common",
-              "image": "divining_scroll.png"
-            },
-            {
-              "quantity": 40000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Divining Scroll"
             }
           ]
         },
         {
-          "rank": 3,
-          "level": 50,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "shivada_jade_fragment.png"
+              "name": "Shivada Jade Fragment"
             },
             {
-              "quantity": 4,
-              "materialType": "elemental",
-              "image": "hoarfrost_core.png"
+              "name": "Hoarfrost Core"
             },
             {
-              "quantity": 20,
-              "materialType": "local",
-              "image": "small_lamp_grass.png"
+              "name": "Small Lamp Grass"
             },
             {
-              "quantity": 12,
-              "materialType": "common",
-              "image": "sealed_scroll.png"
-            },
-            {
-              "quantity": 60000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Sealed Scroll"
             }
           ]
         },
         {
-          "rank": 4,
-          "level": 60,
           "materials": [
             {
-              "quantity": 3,
-              "materialType": "jewels",
-              "image": "shivada_jade_chunk.png"
+              "name": "Shivada Jade chunk"
             },
             {
-              "quantity": 8,
-              "materialType": "elemental",
-              "image": "hoarfrost_core.png"
+              "name": "Hoarfrost Core"
             },
             {
-              "quantity": 30,
-              "materialType": "local",
-              "image": "small_lamp_grass.png"
+              "name": "Small Lamp Grass"
             },
             {
-              "quantity": 18,
-              "materialType": "common",
-              "image": "sealed_scroll.png"
-            },
-            {
-              "quantity": 80000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Sealed Scroll"
             }
           ]
         },
         {
-          "rank": 5,
-          "level": 70,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "shivada_jade_chunk.png"
+              "name": "Shivada Jade chunk"
             },
             {
-              "quantity": 12,
-              "materialType": "elemental",
-              "image": "hoarfrost_core.png"
+              "name": "Hoarfrost Core"
             },
             {
-              "quantity": 45,
-              "materialType": "local",
-              "image": "small_lamp_grass.png"
+              "name": "Small Lamp Grass"
             },
             {
-              "quantity": 12,
-              "materialType": "common",
-              "image": "forbidden_curse_scroll.png"
-            },
-            {
-              "quantity": 100000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Forbidden Curse Scroll"
             }
           ]
         },
         {
-          "rank": 6,
-          "level": 80,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "shivada_jade_gemstone.png"
+              "name": "Shivada Jade gemstone"
             },
             {
-              "quantity": 20,
-              "materialType": "elemental",
-              "image": "hoarfrost_core.png"
+              "name": "Hoarfrost Core"
             },
             {
-              "quantity": 60,
-              "materialType": "local",
-              "image": "small_lamp_grass.png"
+              "name": "Small Lamp Grass"
             },
             {
-              "quantity": 24,
-              "materialType": "common",
-              "image": "forbidden_curse_scroll.png"
-            },
-            {
-              "quantity": 120000,
-              "materialType": "currency",
-              "image": "mora.png"
-            }
-          ]
-        }
-      ],
-      "talentAscensionMaterials": [
-        {
-          "materials": [
-            {
-              "quantity": 3,
-              "materialType": "talents",
-              "image": "teaching_of_prosperity.png"
-            },
-            {
-              "quantity": 6,
-              "materialType": "common",
-              "image": "whopperflower_nectar.png"
-            },
-            {
-              "quantity": 12500,
-              "materialType": "currency",
-              "image": "mora.png"
-            }
-          ]
-        },
-        {
-          "level": 3,
-          "materials": [
-            {
-              "quantity": 2,
-              "materialType": "talents",
-              "image": "guide_to_prosperity.png"
-            },
-            {
-              "quantity": 3,
-              "materialType": "common",
-              "image": "shimmering_nectar.png"
-            },
-            {
-              "quantity": 17500,
-              "materialType": "currency",
-              "image": "mora.png"
-            }
-          ]
-        },
-        {
-          "level": 4,
-          "materials": [
-            {
-              "quantity": 4,
-              "materialType": "talents",
-              "image": "guide_to_prosperity.png"
-            },
-            {
-              "quantity": 4,
-              "materialType": "common",
-              "image": "shimmering_nectar.png"
-            },
-            {
-              "quantity": 25000,
-              "materialType": "currency",
-              "image": "mora.png"
-            }
-          ]
-        },
-        {
-          "level": 5,
-          "materials": [
-            {
-              "quantity": 6,
-              "materialType": "talents",
-              "image": "guide_to_prosperity.png"
-            },
-            {
-              "quantity": 6,
-              "materialType": "common",
-              "image": "shimmering_nectar.png"
-            },
-            {
-              "quantity": 30000,
-              "materialType": "currency",
-              "image": "mora.png"
-            }
-          ]
-        },
-        {
-          "level": 6,
-          "materials": [
-            {
-              "quantity": 9,
-              "materialType": "talents",
-              "image": "guide_to_prosperity.png"
-            },
-            {
-              "quantity": 9,
-              "materialType": "common",
-              "image": "shimmering_nectar.png"
-            },
-            {
-              "quantity": 35000,
-              "materialType": "currency",
-              "image": "mora.png"
-            }
-          ]
-        },
-        {
-          "level": 7,
-          "materials": [
-            {
-              "quantity": 4,
-              "materialType": "talents",
-              "image": "philosophies_of_prosperity.png"
-            },
-            {
-              "quantity": 4,
-              "materialType": "common",
-              "image": "energy_nectar.png"
-            },
-            {
-              "quantity": 1,
-              "materialType": "talents",
-              "image": "ring_of_boreas.png"
-            },
-            {
-              "quantity": 120000,
-              "materialType": "currency",
-              "image": "mora.png"
-            }
-          ]
-        },
-        {
-          "level": 8,
-          "materials": [
-            {
-              "quantity": 6,
-              "materialType": "talents",
-              "image": "philosophies_of_prosperity.png"
-            },
-            {
-              "quantity": 6,
-              "materialType": "common",
-              "image": "energy_nectar.png"
-            },
-            {
-              "quantity": 1,
-              "materialType": "talents",
-              "image": "ring_of_boreas.png"
-            },
-            {
-              "quantity": 260000,
-              "materialType": "currency",
-              "image": "mora.png"
-            }
-          ]
-        },
-        {
-          "level": 9,
-          "materials": [
-            {
-              "quantity": 12,
-              "materialType": "talents",
-              "image": "philosophies_of_prosperity.png"
-            },
-            {
-              "quantity": 9,
-              "materialType": "common",
-              "image": "energy_nectar.png"
-            },
-            {
-              "quantity": 2,
-              "materialType": "talents",
-              "image": "ring_of_boreas.png"
-            },
-            {
-              "quantity": 450000,
-              "materialType": "currency",
-              "image": "mora.png"
-            }
-          ]
-        },
-        {
-          "level": 10,
-          "materials": [
-            {
-              "quantity": 16,
-              "materialType": "talents",
-              "image": "philosophies_of_prosperity.png"
-            },
-            {
-              "quantity": 12,
-              "materialType": "common",
-              "image": "energy_nectar.png"
-            },
-            {
-              "quantity": 2,
-              "materialType": "talents",
-              "image": "ring_of_boreas.png"
-            },
-            {
-              "quantity": 1,
-              "materialType": "talents",
-              "image": "crown_of_sagehood.png"
-            },
-            {
-              "quantity": 700000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Forbidden Curse Scroll"
             }
           ]
         }
@@ -795,9 +337,6 @@
       "rarity": 4,
       "weaponType": "catalyst",
       "elementType": "hydro",
-      "image": "Barbara.png",
-      "fullImage": "Barbara.png",
-      "secondFullImage": null,
       "isComingSoon": false,
       "isNew": false,
       "isFemale": true,
@@ -809,179 +348,93 @@
         {
           "materials": [
             {
-              "quantity": 1,
-              "materialType": "jewels",
-              "image": "varunada_lazurite_sliver.png"
+              "name": "Varunada Lazurite sliver"
             },
             {
-              "quantity": 3,
-              "materialType": "local",
-              "image": "philanemo_mushroom.png"
+              "name": "Philanemo Mushroom"
             },
             {
-              "quantity": 3,
-              "materialType": "common",
-              "image": "divining_scroll.png"
-            },
-            {
-              "quantity": 20000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Divining Scroll"
             }
           ]
         },
         {
-          "rank": 2,
-          "level": 40,
           "materials": [
             {
-              "quantity": 3,
-              "materialType": "jewels",
-              "image": "varunada_lazurite_fragment.png"
+              "name": "Varunada Lazurite Fragment"
             },
             {
-              "quantity": 2,
-              "materialType": "elemental",
-              "image": "cleansing_heart.png"
+              "name": "Cleansing Heart"
             },
             {
-              "quantity": 10,
-              "materialType": "local",
-              "image": "philanemo_mushroom.png"
+              "name": "Philanemo Mushroom"
             },
             {
-              "quantity": 15,
-              "materialType": "common",
-              "image": "divining_scroll.png"
-            },
-            {
-              "quantity": 40000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Divining Scroll"
             }
           ]
         },
         {
-          "rank": 3,
-          "level": 50,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "varunada_lazurite_fragment.png"
+              "name": "Varunada Lazurite Fragment"
             },
             {
-              "quantity": 4,
-              "materialType": "elemental",
-              "image": "cleansing_heart.png"
+              "name": "Cleansing Heart"
             },
             {
-              "quantity": 20,
-              "materialType": "local",
-              "image": "philanemo_mushroom.png"
+              "name": "Philanemo Mushroom"
             },
             {
-              "quantity": 12,
-              "materialType": "common",
-              "image": "sealed_scroll.png"
-            },
-            {
-              "quantity": 60000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Sealed Scroll"
             }
           ]
         },
         {
-          "rank": 4,
-          "level": 60,
           "materials": [
             {
-              "quantity": 3,
-              "materialType": "jewels",
-              "image": "varunada_lazurite_chunk.png"
+              "name": "Varunada Lazurite Chunk"
             },
             {
-              "quantity": 8,
-              "materialType": "elemental",
-              "image": "cleansing_heart.png"
+              "name": "Cleansing Heart"
             },
             {
-              "quantity": 30,
-              "materialType": "local",
-              "image": "philanemo_mushroom.png"
+              "name": "Philanemo Mushroom"
             },
             {
-              "quantity": 18,
-              "materialType": "common",
-              "image": "sealed_scroll.png"
-            },
-            {
-              "quantity": 80000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Sealed Scroll"
             }
           ]
         },
         {
-          "rank": 5,
-          "level": 70,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "varunada_lazurite_chunk.png"
+              "name": "Varunada Lazurite Chunk"
             },
             {
-              "quantity": 12,
-              "materialType": "elemental",
-              "image": "cleansing_heart.png"
+              "name": "Cleansing Heart"
             },
             {
-              "quantity": 45,
-              "materialType": "local",
-              "image": "philanemo_mushroom.png"
+              "name": "Philanemo Mushroom"
             },
             {
-              "quantity": 12,
-              "materialType": "common",
-              "image": "forbidden_curse_scroll.png"
-            },
-            {
-              "quantity": 100000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Forbidden Curse Scroll"
             }
           ]
         },
         {
-          "rank": 6,
-          "level": 80,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "varunada_lazurite_gemstone.png"
+              "name": "Varunada Lazurite Gemstone"
             },
             {
-              "quantity": 20,
-              "materialType": "elemental",
-              "image": "cleansing_heart.png"
+              "name": "Cleansing Heart"
             },
             {
-              "quantity": 60,
-              "materialType": "local",
-              "image": "philanemo_mushroom.png"
+              "name": "Philanemo Mushroom"
             },
             {
-              "quantity": 24,
-              "materialType": "common",
-              "image": "forbidden_curse_scroll.png"
-            },
-            {
-              "quantity": 120000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Forbidden Curse Scroll"
             }
           ]
         }
@@ -994,9 +447,6 @@
       "rarity": 4,
       "weaponType": "claymore",
       "elementType": "electro",
-      "image": "Beidou.png",
-      "fullImage": "Beidou.png",
-      "secondFullImage": null,
       "isComingSoon": false,
       "isNew": false,
       "isFemale": true,
@@ -1008,179 +458,93 @@
         {
           "materials": [
             {
-              "quantity": 1,
-              "materialType": "jewels",
-              "image": "vajrada_amethyst_sliver.png"
+              "name": "Vajrada Amethyst Sliver"
             },
             {
-              "quantity": 3,
-              "materialType": "local",
-              "image": "noctilous_jade.png"
+              "name": "Noctilous Jade"
             },
             {
-              "quantity": 3,
-              "materialType": "common",
-              "image": "treasure_hoarder_insignia.png"
-            },
-            {
-              "quantity": 20000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Treasure Hoarder Insignia"
             }
           ]
         },
         {
-          "rank": 2,
-          "level": 40,
           "materials": [
             {
-              "quantity": 3,
-              "materialType": "jewels",
-              "image": "vajrada_amethyst_fragment.png"
+              "name": "Vajrada Amethyst Fragment"
             },
             {
-              "quantity": 2,
-              "materialType": "elemental",
-              "image": "lightning_prism.png"
+              "name": "Lightning Prism"
             },
             {
-              "quantity": 10,
-              "materialType": "local",
-              "image": "noctilous_jade.png"
+              "name": "Noctilous Jade"
             },
             {
-              "quantity": 15,
-              "materialType": "common",
-              "image": "treasure_hoarder_insignia.png"
-            },
-            {
-              "quantity": 40000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Treasure Hoarder Insignia"
             }
           ]
         },
         {
-          "rank": 3,
-          "level": 50,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "vajrada_amethyst_fragment.png"
+              "name": "Vajrada Amethyst Fragment"
             },
             {
-              "quantity": 4,
-              "materialType": "elemental",
-              "image": "lightning_prism.png"
+              "name": "Lightning Prism"
             },
             {
-              "quantity": 20,
-              "materialType": "local",
-              "image": "noctilous_jade.png"
+              "name": "Noctilous Jade"
             },
             {
-              "quantity": 12,
-              "materialType": "common",
-              "image": "silver_raven_insignia.png"
-            },
-            {
-              "quantity": 60000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Silver Raven Insignia"
             }
           ]
         },
         {
-          "rank": 4,
-          "level": 60,
           "materials": [
             {
-              "quantity": 3,
-              "materialType": "jewels",
-              "image": "vajrada_amethyst_chunk.png"
+              "name": "Vajrada Amethyst Chunk"
             },
             {
-              "quantity": 8,
-              "materialType": "elemental",
-              "image": "lightning_prism.png"
+              "name": "Lightning Prism"
             },
             {
-              "quantity": 30,
-              "materialType": "local",
-              "image": "noctilous_jade.png"
+              "name": "Noctilous Jade"
             },
             {
-              "quantity": 18,
-              "materialType": "common",
-              "image": "silver_raven_insignia.png"
-            },
-            {
-              "quantity": 80000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Silver Raven Insignia"
             }
           ]
         },
         {
-          "rank": 5,
-          "level": 70,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "vajrada_amethyst_chunk.png"
+              "name": "Vajrada Amethyst Chunk"
             },
             {
-              "quantity": 12,
-              "materialType": "elemental",
-              "image": "lightning_prism.png"
+              "name": "Lightning Prism"
             },
             {
-              "quantity": 45,
-              "materialType": "local",
-              "image": "noctilous_jade.png"
+              "name": "Noctilous Jade"
             },
             {
-              "quantity": 12,
-              "materialType": "common",
-              "image": "golden_raven_insignia.png"
-            },
-            {
-              "quantity": 100000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "GoldenRaven Insignia"
             }
           ]
         },
         {
-          "rank": 6,
-          "level": 80,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "vajrada_amethyst_gemstone.png"
+              "name": "Vajrada Amethyst Gemstone"
             },
             {
-              "quantity": 20,
-              "materialType": "elemental",
-              "image": "lightning_prism.png"
+              "name": "Lightning Prism"
             },
             {
-              "quantity": 60,
-              "materialType": "local",
-              "image": "noctilous_jade.png"
+              "name": "Noctilous Jade"
             },
             {
-              "quantity": 24,
-              "materialType": "common",
-              "image": "golden_raven_insignia.png"
-            },
-            {
-              "quantity": 120000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "GoldenRaven Insignia"
             }
           ]
         }
@@ -1193,9 +557,6 @@
       "rarity": 4,
       "weaponType": "sword",
       "elementType": "pyro",
-      "image": "Bennett.png",
-      "fullImage": "Bennett.png",
-      "secondFullImage": null,
       "isComingSoon": false,
       "isNew": false,
       "isFemale": false,
@@ -1207,179 +568,93 @@
         {
           "materials": [
             {
-              "quantity": 1,
-              "materialType": "jewels",
-              "image": "agnidus_agate_sliver.png"
+              "name": "Agnidus Agate Sliver"
             },
             {
-              "quantity": 3,
-              "materialType": "local",
-              "image": "windwheel_aster.png"
+              "name": "Windwheel Aster"
             },
             {
-              "quantity": 3,
-              "materialType": "common",
-              "image": "treasure_hoarder_insignia.png"
-            },
-            {
-              "quantity": 20000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Treasure Hoarder Insignia"
             }
           ]
         },
         {
-          "rank": 2,
-          "level": 40,
           "materials": [
             {
-              "quantity": 3,
-              "materialType": "jewels",
-              "image": "agnidus_agate_fragment.png"
+              "name": "Agnidus Agate Fragment"
             },
             {
-              "quantity": 2,
-              "materialType": "elemental",
-              "image": "everflame_seed.png"
+              "name": "Everflame Seed"
             },
             {
-              "quantity": 10,
-              "materialType": "local",
-              "image": "windwheel_aster.png"
+              "name": "Windwheel Aster"
             },
             {
-              "quantity": 15,
-              "materialType": "common",
-              "image": "treasure_hoarder_insignia.png"
-            },
-            {
-              "quantity": 40000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Treasure Hoarder Insignia"
             }
           ]
         },
         {
-          "rank": 3,
-          "level": 50,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "agnidus_agate_fragment.png"
+              "name": "Agnidus Agate Fragment"
             },
             {
-              "quantity": 4,
-              "materialType": "elemental",
-              "image": "everflame_seed.png"
+              "name": "Everflame Seed"
             },
             {
-              "quantity": 20,
-              "materialType": "local",
-              "image": "windwheel_aster.png"
+              "name": "Windwheel Aster"
             },
             {
-              "quantity": 12,
-              "materialType": "common",
-              "image": "silver_raven_insignia.png"
-            },
-            {
-              "quantity": 60000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Silver Raven Insignia"
             }
           ]
         },
         {
-          "rank": 4,
-          "level": 60,
           "materials": [
             {
-              "quantity": 3,
-              "materialType": "jewels",
-              "image": "agnidus_agate_chunk.png"
+              "name": "Agnidus Agate Chunk"
             },
             {
-              "quantity": 8,
-              "materialType": "elemental",
-              "image": "everflame_seed.png"
+              "name": "Everflame Seed"
             },
             {
-              "quantity": 30,
-              "materialType": "local",
-              "image": "windwheel_aster.png"
+              "name": "Windwheel Aster"
             },
             {
-              "quantity": 18,
-              "materialType": "common",
-              "image": "silver_raven_insignia.png"
-            },
-            {
-              "quantity": 80000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Silver Raven Insignia"
             }
           ]
         },
         {
-          "rank": 5,
-          "level": 70,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "agnidus_agate_chunk.png"
+              "name": "Agnidus Agate Chunk"
             },
             {
-              "quantity": 12,
-              "materialType": "elemental",
-              "image": "everflame_seed.png"
+              "name": "Everflame Seed"
             },
             {
-              "quantity": 45,
-              "materialType": "local",
-              "image": "windwheel_aster.png"
+              "name": "Windwheel Aster"
             },
             {
-              "quantity": 12,
-              "materialType": "common",
-              "image": "golden_raven_insignia.png"
-            },
-            {
-              "quantity": 100000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "GoldenRaven Insignia"
             }
           ]
         },
         {
-          "rank": 6,
-          "level": 80,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "agnidus_agate_gemstone.png"
+              "name": "Agnidus Agate Gemstone"
             },
             {
-              "quantity": 20,
-              "materialType": "elemental",
-              "image": "everflame_seed.png"
+              "name": "Everflame Seed"
             },
             {
-              "quantity": 60,
-              "materialType": "local",
-              "image": "windwheel_aster.png"
+              "name": "Windwheel Aster"
             },
             {
-              "quantity": 24,
-              "materialType": "common",
-              "image": "golden_raven_insignia.png"
-            },
-            {
-              "quantity": 120000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "GoldenRaven Insignia"
             }
           ]
         }
@@ -1392,9 +667,7 @@
       "rarity": 4,
       "weaponType": "claymore",
       "elementType": "cryo",
-      "image": "Chongyun.png",
-      "fullImage": "Chongyun.png",
-      "secondFullImage": null,
+
       "isComingSoon": false,
       "isNew": false,
       "isFemale": false,
@@ -1406,179 +679,93 @@
         {
           "materials": [
             {
-              "quantity": 1,
-              "materialType": "jewels",
-              "image": "shivada_jade_sliver.png"
+              "name": "Shivada Jade sliver"
             },
             {
-              "quantity": 3,
-              "materialType": "local",
-              "image": "cor_lapis.png"
+              "name": "Cor Lapis"
             },
             {
-              "quantity": 3,
-              "materialType": "common",
-              "image": "damaged_mask.png"
-            },
-            {
-              "quantity": 20000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Damaged Mask"
             }
           ]
         },
         {
-          "rank": 2,
-          "level": 40,
           "materials": [
             {
-              "quantity": 3,
-              "materialType": "jewels",
-              "image": "shivada_jade_fragment.png"
+              "name": "Shivada Jade Fragment"
             },
             {
-              "quantity": 2,
-              "materialType": "elemental",
-              "image": "hoarfrost_core.png"
+              "name": "Hoarfrost Core"
             },
             {
-              "quantity": 10,
-              "materialType": "local",
-              "image": "cor_lapis.png"
+              "name": "Cor Lapis"
             },
             {
-              "quantity": 15,
-              "materialType": "common",
-              "image": "damaged_mask.png"
-            },
-            {
-              "quantity": 40000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Damaged Mask"
             }
           ]
         },
         {
-          "rank": 3,
-          "level": 50,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "shivada_jade_fragment.png"
+              "name": "Shivada Jade Fragment"
             },
             {
-              "quantity": 4,
-              "materialType": "elemental",
-              "image": "hoarfrost_core.png"
+              "name": "Hoarfrost Core"
             },
             {
-              "quantity": 20,
-              "materialType": "local",
-              "image": "cor_lapis.png"
+              "name": "Cor Lapis"
             },
             {
-              "quantity": 12,
-              "materialType": "common",
-              "image": "stained_mask.png"
-            },
-            {
-              "quantity": 60000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Stained Mask"
             }
           ]
         },
         {
-          "rank": 4,
-          "level": 60,
           "materials": [
             {
-              "quantity": 3,
-              "materialType": "jewels",
-              "image": "shivada_jade_chunk.png"
+              "name": "Shivada Jade chunk"
             },
             {
-              "quantity": 8,
-              "materialType": "elemental",
-              "image": "hoarfrost_core.png"
+              "name": "Hoarfrost Core"
             },
             {
-              "quantity": 30,
-              "materialType": "local",
-              "image": "cor_lapis.png"
+              "name": "Cor Lapis"
             },
             {
-              "quantity": 18,
-              "materialType": "common",
-              "image": "stained_mask.png"
-            },
-            {
-              "quantity": 80000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Stained Mask"
             }
           ]
         },
         {
-          "rank": 5,
-          "level": 70,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "shivada_jade_chunk.png"
+              "name": "Shivada Jade chunk"
             },
             {
-              "quantity": 12,
-              "materialType": "elemental",
-              "image": "hoarfrost_core.png"
+              "name": "Hoarfrost Core"
             },
             {
-              "quantity": 45,
-              "materialType": "local",
-              "image": "cor_lapis.png"
+              "name": "Cor Lapis"
             },
             {
-              "quantity": 12,
-              "materialType": "common",
-              "image": "ominous_mask.png"
-            },
-            {
-              "quantity": 100000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Ominous Mask"
             }
           ]
         },
         {
-          "rank": 6,
-          "level": 80,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "shivada_jade_gemstone.png"
+              "name": "Shivada Jade gemstone"
             },
             {
-              "quantity": 20,
-              "materialType": "elemental",
-              "image": "hoarfrost_core.png"
+              "name": "Hoarfrost Core"
             },
             {
-              "quantity": 60,
-              "materialType": "local",
-              "image": "cor_lapis.png"
+              "name": "Cor Lapis"
             },
             {
-              "quantity": 24,
-              "materialType": "common",
-              "image": "ominous_mask.png"
-            },
-            {
-              "quantity": 120000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Ominous Mask"
             }
           ]
         }
@@ -1591,9 +778,6 @@
       "rarity": 5,
       "weaponType": "claymore",
       "elementType": "pyro",
-      "image": "Diluc.png",
-      "fullImage": "Diluc.png",
-      "secondFullImage": null,
       "isComingSoon": false,
       "isNew": false,
       "isFemale": false,
@@ -1605,179 +789,93 @@
         {
           "materials": [
             {
-              "quantity": 1,
-              "materialType": "jewels",
-              "image": "agnidus_agate_sliver.png"
+              "name": "Agnidus Agate Sliver"
             },
             {
-              "quantity": 3,
-              "materialType": "local",
-              "image": "small_lamp_grass.png"
+              "name": "Small Lamp Grass"
             },
             {
-              "quantity": 3,
-              "materialType": "common",
-              "image": "recruits_insignia.png"
-            },
-            {
-              "quantity": 20000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Recruit's Insignia"
             }
           ]
         },
         {
-          "rank": 2,
-          "level": 40,
           "materials": [
             {
-              "quantity": 3,
-              "materialType": "jewels",
-              "image": "agnidus_agate_fragment.png"
+              "name": "Agnidus Agate Fragment"
             },
             {
-              "quantity": 2,
-              "materialType": "elemental",
-              "image": "everflame_seed.png"
+              "name": "Everflame Seed"
             },
             {
-              "quantity": 10,
-              "materialType": "local",
-              "image": "small_lamp_grass.png"
+              "name": "Small Lamp Grass"
             },
             {
-              "quantity": 15,
-              "materialType": "common",
-              "image": "recruits_insignia.png"
-            },
-            {
-              "quantity": 40000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Recruit's Insignia"
             }
           ]
         },
         {
-          "rank": 3,
-          "level": 50,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "agnidus_agate_fragment.png"
+              "name": "Agnidus Agate Fragment"
             },
             {
-              "quantity": 4,
-              "materialType": "elemental",
-              "image": "everflame_seed.png"
+              "name": "Everflame Seed"
             },
             {
-              "quantity": 20,
-              "materialType": "local",
-              "image": "small_lamp_grass.png"
+              "name": "Small Lamp Grass"
             },
             {
-              "quantity": 12,
-              "materialType": "common",
-              "image": "sergeants_insignia.png"
-            },
-            {
-              "quantity": 60000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Sergeant's Insignia"
             }
           ]
         },
         {
-          "rank": 4,
-          "level": 60,
           "materials": [
             {
-              "quantity": 3,
-              "materialType": "jewels",
-              "image": "agnidus_agate_chunk.png"
+              "name": "Agnidus Agate Chunk"
             },
             {
-              "quantity": 8,
-              "materialType": "elemental",
-              "image": "everflame_seed.png"
+              "name": "Everflame Seed"
             },
             {
-              "quantity": 30,
-              "materialType": "local",
-              "image": "small_lamp_grass.png"
+              "name": "Small Lamp Grass"
             },
             {
-              "quantity": 18,
-              "materialType": "common",
-              "image": "sergeants_insignia.png"
-            },
-            {
-              "quantity": 80000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Sergeant's Insignia"
             }
           ]
         },
         {
-          "rank": 5,
-          "level": 70,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "agnidus_agate_chunk.png"
+              "name": "Agnidus Agate Chunk"
             },
             {
-              "quantity": 12,
-              "materialType": "elemental",
-              "image": "everflame_seed.png"
+              "name": "Everflame Seed"
             },
             {
-              "quantity": 45,
-              "materialType": "local",
-              "image": "small_lamp_grass.png"
+              "name": "Small Lamp Grass"
             },
             {
-              "quantity": 12,
-              "materialType": "common",
-              "image": "lieutenants_insignia.png"
-            },
-            {
-              "quantity": 100000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Lieutenants Insignia"
             }
           ]
         },
         {
-          "rank": 6,
-          "level": 80,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "agnidus_agate_gemstone.png"
+              "name": "Agnidus Agate Gemstone"
             },
             {
-              "quantity": 20,
-              "materialType": "elemental",
-              "image": "everflame_seed.png"
+              "name": "Everflame Seed"
             },
             {
-              "quantity": 60,
-              "materialType": "local",
-              "image": "small_lamp_grass.png"
+              "name": "Small Lamp Grass"
             },
             {
-              "quantity": 24,
-              "materialType": "common",
-              "image": "lieutenants_insignia.png"
-            },
-            {
-              "quantity": 120000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Lieutenants Insignia"
             }
           ]
         }
@@ -1801,179 +899,93 @@
         {
           "materials": [
             {
-              "quantity": 1,
-              "materialType": "jewels",
-              "image": "shivada_jade_sliver.png"
+              "name": "Shivada Jade sliver"
             },
             {
-              "quantity": 3,
-              "materialType": "local",
-              "image": "calla_lily.png"
+              "name": "Calla Lily"
             },
             {
-              "quantity": 3,
-              "materialType": "common",
-              "image": "firm_arrowhead.png"
-            },
-            {
-              "quantity": 20000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Firm Arrowhead"
             }
           ]
         },
         {
-          "rank": 2,
-          "level": 40,
           "materials": [
             {
-              "quantity": 3,
-              "materialType": "jewels",
-              "image": "shivada_jade_fragment.png"
+              "name": "Shivada Jade Fragment"
             },
             {
-              "quantity": 2,
-              "materialType": "elemental",
-              "image": "hoarfrost_core.png"
+              "name": "Hoarfrost Core"
             },
             {
-              "quantity": 10,
-              "materialType": "local",
-              "image": "calla_lily.png"
+              "name": "Calla Lily"
             },
             {
-              "quantity": 15,
-              "materialType": "common",
-              "image": "firm_arrowhead.png"
-            },
-            {
-              "quantity": 40000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Firm Arrowhead"
             }
           ]
         },
         {
-          "rank": 3,
-          "level": 50,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "shivada_jade_fragment.png"
+              "name": "Shivada Jade Fragment"
             },
             {
-              "quantity": 4,
-              "materialType": "elemental",
-              "image": "hoarfrost_core.png"
+              "name": "Hoarfrost Core"
             },
             {
-              "quantity": 20,
-              "materialType": "local",
-              "image": "calla_lily.png"
+              "name": "Calla Lily"
             },
             {
-              "quantity": 12,
-              "materialType": "common",
-              "image": "sharp_arrowhead.png"
-            },
-            {
-              "quantity": 60000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Sharp Arrowhead"
             }
           ]
         },
         {
-          "rank": 4,
-          "level": 60,
           "materials": [
             {
-              "quantity": 3,
-              "materialType": "jewels",
-              "image": "shivada_jade_chunk.png"
+              "name": "Shivada Jade chunk"
             },
             {
-              "quantity": 8,
-              "materialType": "elemental",
-              "image": "hoarfrost_core.png"
+              "name": "Hoarfrost Core"
             },
             {
-              "quantity": 30,
-              "materialType": "local",
-              "image": "calla_lily.png"
+              "name": "Calla Lily"
             },
             {
-              "quantity": 18,
-              "materialType": "common",
-              "image": "sharp_arrowhead.png"
-            },
-            {
-              "quantity": 80000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Sharp Arrowhead"
             }
           ]
         },
         {
-          "rank": 5,
-          "level": 70,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "shivada_jade_chunk.png"
+              "name": "Shivada Jade chunk"
             },
             {
-              "quantity": 12,
-              "materialType": "elemental",
-              "image": "hoarfrost_core.png"
+              "name": "Hoarfrost Core"
             },
             {
-              "quantity": 45,
-              "materialType": "local",
-              "image": "calla_lily.png"
+              "name": "Calla Lily"
             },
             {
-              "quantity": 12,
-              "materialType": "common",
-              "image": "weathered_arrowhead.png"
-            },
-            {
-              "quantity": 100000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Weathered Arrowhea"
             }
           ]
         },
         {
-          "rank": 6,
-          "level": 80,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "shivada_jade_gemstone.png"
+              "name": "Shivada Jade gemstone"
             },
             {
-              "quantity": 20,
-              "materialType": "elemental",
-              "image": "hoarfrost_core.png"
+              "name": "Hoarfrost Core"
             },
             {
-              "quantity": 60,
-              "materialType": "local",
-              "image": "calla_lily.png"
+              "name": "Calla Lily"
             },
             {
-              "quantity": 24,
-              "materialType": "common",
-              "image": "weathered_arrowhead.png"
-            },
-            {
-              "quantity": 120000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Weathered Arrowhea"
             }
           ]
         }
@@ -1997,179 +1009,93 @@
         {
           "materials": [
             {
-              "quantity": 1,
-              "materialType": "jewels",
-              "image": "vajrada_amethyst_sliver.png"
+              "name": "Vajrada Amethyst Sliver"
             },
             {
-              "quantity": 3,
-              "materialType": "local",
-              "image": "small_lamp_grass.png"
+              "name": "Small Lamp Grass"
             },
             {
-              "quantity": 3,
-              "materialType": "common",
-              "image": "firm_arrowhead.png"
-            },
-            {
-              "quantity": 20000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Firm Arrowhead"
             }
           ]
         },
         {
-          "rank": 2,
-          "level": 40,
           "materials": [
             {
-              "quantity": 3,
-              "materialType": "jewels",
-              "image": "vajrada_amethyst_fragment.png"
+              "name": "Vajrada Amethyst Fragment"
             },
             {
-              "quantity": 2,
-              "materialType": "elemental",
-              "image": "lightning_prism.png"
+              "name": "Lightning Prism"
             },
             {
-              "quantity": 10,
-              "materialType": "local",
-              "image": "small_lamp_grass.png"
+              "name": "Small Lamp Grass"
             },
             {
-              "quantity": 15,
-              "materialType": "common",
-              "image": "firm_arrowhead.png"
-            },
-            {
-              "quantity": 40000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Firm Arrowhead"
             }
           ]
         },
         {
-          "rank": 3,
-          "level": 50,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "vajrada_amethyst_fragment.png"
+              "name": "Vajrada Amethyst Fragment"
             },
             {
-              "quantity": 4,
-              "materialType": "elemental",
-              "image": "lightning_prism.png"
+              "name": "Lightning Prism"
             },
             {
-              "quantity": 20,
-              "materialType": "local",
-              "image": "small_lamp_grass.png"
+              "name": "Small Lamp Grass"
             },
             {
-              "quantity": 12,
-              "materialType": "common",
-              "image": "sharp_arrowhead.png"
-            },
-            {
-              "quantity": 60000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Sharp Arrowhead"
             }
           ]
         },
         {
-          "rank": 4,
-          "level": 60,
           "materials": [
             {
-              "quantity": 3,
-              "materialType": "jewels",
-              "image": "vajrada_amethyst_chunk.png"
+              "name": "Vajrada Amethyst Chunk"
             },
             {
-              "quantity": 8,
-              "materialType": "elemental",
-              "image": "lightning_prism.png"
+              "name": "Lightning Prism"
             },
             {
-              "quantity": 30,
-              "materialType": "local",
-              "image": "small_lamp_grass.png"
+              "name": "Small Lamp Grass"
             },
             {
-              "quantity": 18,
-              "materialType": "common",
-              "image": "sharp_arrowhead.png"
-            },
-            {
-              "quantity": 80000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Sharp Arrowhead"
             }
           ]
         },
         {
-          "rank": 5,
-          "level": 70,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "vajrada_amethyst_chunk.png"
+              "name": "Vajrada Amethyst Chunk"
             },
             {
-              "quantity": 12,
-              "materialType": "elemental",
-              "image": "lightning_prism.png"
+              "name": "Lightning Prism"
             },
             {
-              "quantity": 45,
-              "materialType": "local",
-              "image": "small_lamp_grass.png"
+              "name": "Small Lamp Grass"
             },
             {
-              "quantity": 12,
-              "materialType": "common",
-              "image": "weathered_arrowhead.png"
-            },
-            {
-              "quantity": 100000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Weathered Arrowhea"
             }
           ]
         },
         {
-          "rank": 6,
-          "level": 80,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "vajrada_amethyst_gemstone.png"
+              "name": "Vajrada Amethyst Gemstone"
             },
             {
-              "quantity": 20,
-              "materialType": "elemental",
-              "image": "lightning_prism.png"
+              "name": "Lightning Prism"
             },
             {
-              "quantity": 60,
-              "materialType": "local",
-              "image": "small_lamp_grass.png"
+              "name": "Small Lamp Grass"
             },
             {
-              "quantity": 24,
-              "materialType": "common",
-              "image": "weathered_arrowhead.png"
-            },
-            {
-              "quantity": 120000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Weathered Arrowhea"
             }
           ]
         }
@@ -2194,179 +1120,93 @@
         {
           "materials": [
             {
-              "quantity": 1,
-              "materialType": "jewels",
-              "image": "shivada_jade_sliver.png"
+              "name": "Shivada Jade sliver"
             },
             {
-              "quantity": 3,
-              "materialType": "local",
-              "image": "qingxin.png"
+              "name": "Qingxin"
             },
             {
-              "quantity": 3,
-              "materialType": "common",
-              "image": "whopperflower_nectar.png"
-            },
-            {
-              "quantity": 20000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Whopperflower Nectar"
             }
           ]
         },
         {
-          "rank": 2,
-          "level": 40,
           "materials": [
             {
-              "quantity": 3,
-              "materialType": "jewels",
-              "image": "shivada_jade_fragment.png"
+              "name": "Shivada Jade Fragment"
             },
             {
-              "quantity": 2,
-              "materialType": "elemental",
-              "image": "hoarfrost_core.png"
+              "name": "Hoarfrost Core"
             },
             {
-              "quantity": 10,
-              "materialType": "local",
-              "image": "qingxin.png"
+              "name": "Qingxin"
             },
             {
-              "quantity": 15,
-              "materialType": "common",
-              "image": "whopperflower_nectar.png"
-            },
-            {
-              "quantity": 40000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Whopperflower Nectar"
             }
           ]
         },
         {
-          "rank": 3,
-          "level": 50,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "shivada_jade_fragment.png"
+              "name": "Shivada Jade Fragment"
             },
             {
-              "quantity": 4,
-              "materialType": "elemental",
-              "image": "hoarfrost_core.png"
+              "name": "Hoarfrost Core"
             },
             {
-              "quantity": 20,
-              "materialType": "local",
-              "image": "qingxin.png"
+              "name": "Qingxin"
             },
             {
-              "quantity": 12,
-              "materialType": "common",
-              "image": "shimmering_nectar.png"
-            },
-            {
-              "quantity": 60000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Shimmering Nectar"
             }
           ]
         },
         {
-          "rank": 4,
-          "level": 60,
           "materials": [
             {
-              "quantity": 3,
-              "materialType": "jewels",
-              "image": "shivada_jade_chunk.png"
+              "name": "Shivada Jade chunk"
             },
             {
-              "quantity": 8,
-              "materialType": "elemental",
-              "image": "hoarfrost_core.png"
+              "name": "Hoarfrost Core"
             },
             {
-              "quantity": 30,
-              "materialType": "local",
-              "image": "qingxin.png"
+              "name": "Qingxin"
             },
             {
-              "quantity": 18,
-              "materialType": "common",
-              "image": "shimmering_nectar.png"
-            },
-            {
-              "quantity": 80000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Shimmering Nectar"
             }
           ]
         },
         {
-          "rank": 5,
-          "level": 70,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "shivada_jade_chunk.png"
+              "name": "Shivada Jade chunk"
             },
             {
-              "quantity": 12,
-              "materialType": "elemental",
-              "image": "hoarfrost_core.png"
+              "name": "Hoarfrost Core"
             },
             {
-              "quantity": 45,
-              "materialType": "local",
-              "image": "qingxin.png"
+              "name": "Qingxin"
             },
             {
-              "quantity": 12,
-              "materialType": "common",
-              "image": "energy_nectar.png"
-            },
-            {
-              "quantity": 100000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Energy Nectar"
             }
           ]
         },
         {
-          "rank": 6,
-          "level": 80,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "shivada_jade_gemstone.png"
+              "name": "Shivada Jade gemstone"
             },
             {
-              "quantity": 20,
-              "materialType": "elemental",
-              "image": "hoarfrost_core.png"
+              "name": "Hoarfrost Core"
             },
             {
-              "quantity": 60,
-              "materialType": "local",
-              "image": "qingxin.png"
+              "name": "Qingxin"
             },
             {
-              "quantity": 24,
-              "materialType": "common",
-              "image": "energy_nectar.png"
-            },
-            {
-              "quantity": 120000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Energy Nectar"
             }
           ]
         }
@@ -2390,179 +1230,93 @@
         {
           "materials": [
             {
-              "quantity": 1,
-              "materialType": "jewels",
-              "image": "vayuda_turquoise_sliver.png"
+              "name": "Vayuda Turquoise Sliver"
             },
             {
-              "quantity": 3,
-              "materialType": "local",
-              "image": "dandelion_seed.png"
+              "name": "Dandelion Seed"
             },
             {
-              "quantity": 3,
-              "materialType": "common",
-              "image": "damaged_mask.png"
-            },
-            {
-              "quantity": 20000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Damaged Mask"
             }
           ]
         },
         {
-          "rank": 2,
-          "level": 40,
           "materials": [
             {
-              "quantity": 3,
-              "materialType": "jewels",
-              "image": "vayuda_turquoise_fragment.png"
+              "name": "vayuda turquoise Fragment"
             },
             {
-              "quantity": 2,
-              "materialType": "elemental",
-              "image": "hurricane_seed.png"
+              "name": "Hurricane Seed"
             },
             {
-              "quantity": 10,
-              "materialType": "local",
-              "image": "dandelion_seed.png"
+              "name": "Dandelion Seed"
             },
             {
-              "quantity": 15,
-              "materialType": "common",
-              "image": "damaged_mask.png"
-            },
-            {
-              "quantity": 40000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Damaged Mask"
             }
           ]
         },
         {
-          "rank": 3,
-          "level": 50,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "vayuda_turquoise_fragment.png"
+              "name": "vayuda turquoise Fragment"
             },
             {
-              "quantity": 4,
-              "materialType": "elemental",
-              "image": "hurricane_seed.png"
+              "name": "Hurricane Seed"
             },
             {
-              "quantity": 20,
-              "materialType": "local",
-              "image": "dandelion_seed.png"
+              "name": "Dandelion Seed"
             },
             {
-              "quantity": 12,
-              "materialType": "common",
-              "image": "stained_mask.png"
-            },
-            {
-              "quantity": 60000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Stained Mask"
             }
           ]
         },
         {
-          "rank": 4,
-          "level": 60,
           "materials": [
             {
-              "quantity": 3,
-              "materialType": "jewels",
-              "image": "vayuda_turquoise_chunk.png"
+              "name": "Vayuda Turquoise Chunk"
             },
             {
-              "quantity": 8,
-              "materialType": "elemental",
-              "image": "hurricane_seed.png"
+              "name": "Hurricane Seed"
             },
             {
-              "quantity": 30,
-              "materialType": "local",
-              "image": "dandelion_seed.png"
+              "name": "Dandelion Seed"
             },
             {
-              "quantity": 18,
-              "materialType": "common",
-              "image": "stained_mask.png"
-            },
-            {
-              "quantity": 80000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Stained Mask"
             }
           ]
         },
         {
-          "rank": 5,
-          "level": 70,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "vayuda_turquoise_chunk.png"
+              "name": "Vayuda Turquoise Chunk"
             },
             {
-              "quantity": 12,
-              "materialType": "elemental",
-              "image": "hurricane_seed.png"
+              "name": "Hurricane Seed"
             },
             {
-              "quantity": 45,
-              "materialType": "local",
-              "image": "dandelion_seed.png"
+              "name": "Dandelion Seed"
             },
             {
-              "quantity": 12,
-              "materialType": "common",
-              "image": "ominous_mask.png"
-            },
-            {
-              "quantity": 100000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Ominous Mask"
             }
           ]
         },
         {
-          "rank": 6,
-          "level": 80,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "vayuda_turquoise_gemstone.png"
+              "name": "Vayuda Turquoise Gemstone"
             },
             {
-              "quantity": 20,
-              "materialType": "elemental",
-              "image": "hurricane_seed.png"
+              "name": "Hurricane Seed"
             },
             {
-              "quantity": 60,
-              "materialType": "local",
-              "image": "dandelion_seed.png"
+              "name": "Dandelion Seed"
             },
             {
-              "quantity": 24,
-              "materialType": "common",
-              "image": "ominous_mask.png"
-            },
-            {
-              "quantity": 120000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Ominous Mask"
             }
           ]
         }
@@ -2586,179 +1340,93 @@
         {
           "materials": [
             {
-              "quantity": 1,
-              "materialType": "jewels",
-              "image": "shivada_jade_sliver.png"
+              "name": "Shivada Jade sliver"
             },
             {
-              "quantity": 3,
-              "materialType": "local",
-              "image": "calla_lily.png"
+              "name": "Calla Lily"
             },
             {
-              "quantity": 3,
-              "materialType": "common",
-              "image": "treasure_hoarder_insignia.png"
-            },
-            {
-              "quantity": 20000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Treasure Hoarder Insignia"
             }
           ]
         },
         {
-          "rank": 2,
-          "level": 40,
           "materials": [
             {
-              "quantity": 3,
-              "materialType": "jewels",
-              "image": "shivada_jade_fragment.png"
+              "name": "Shivada Jade Fragment"
             },
             {
-              "quantity": 2,
-              "materialType": "elemental",
-              "image": "hoarfrost_core.png"
+              "name": "Hoarfrost Core"
             },
             {
-              "quantity": 10,
-              "materialType": "local",
-              "image": "calla_lily.png"
+              "name": "Calla Lily"
             },
             {
-              "quantity": 15,
-              "materialType": "common",
-              "image": "treasure_hoarder_insignia.png"
-            },
-            {
-              "quantity": 40000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Treasure Hoarder Insignia"
             }
           ]
         },
         {
-          "rank": 3,
-          "level": 50,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "shivada_jade_fragment.png"
+              "name": "Shivada Jade Fragment"
             },
             {
-              "quantity": 4,
-              "materialType": "elemental",
-              "image": "hoarfrost_core.png"
+              "name": "Hoarfrost Core"
             },
             {
-              "quantity": 20,
-              "materialType": "local",
-              "image": "calla_lily.png"
+              "name": "Calla Lily"
             },
             {
-              "quantity": 12,
-              "materialType": "common",
-              "image": "silver_raven_insignia.png"
-            },
-            {
-              "quantity": 60000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Silver Raven Insignia"
             }
           ]
         },
         {
-          "rank": 4,
-          "level": 60,
           "materials": [
             {
-              "quantity": 3,
-              "materialType": "jewels",
-              "image": "shivada_jade_chunk.png"
+              "name": "Shivada Jade chunk"
             },
             {
-              "quantity": 8,
-              "materialType": "elemental",
-              "image": "hoarfrost_core.png"
+              "name": "Hoarfrost Core"
             },
             {
-              "quantity": 30,
-              "materialType": "local",
-              "image": "calla_lily.png"
+              "name": "Calla Lily"
             },
             {
-              "quantity": 18,
-              "materialType": "common",
-              "image": "silver_raven_insignia.png"
-            },
-            {
-              "quantity": 80000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Silver Raven Insignia"
             }
           ]
         },
         {
-          "rank": 5,
-          "level": 70,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "shivada_jade_chunk.png"
+              "name": "Shivada Jade chunk"
             },
             {
-              "quantity": 12,
-              "materialType": "elemental",
-              "image": "hoarfrost_core.png"
+              "name": "Hoarfrost Core"
             },
             {
-              "quantity": 45,
-              "materialType": "local",
-              "image": "calla_lily.png"
+              "name": "Calla Lily"
             },
             {
-              "quantity": 12,
-              "materialType": "common",
-              "image": "golden_raven_insignia.png"
-            },
-            {
-              "quantity": 100000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "GoldenRaven Insignia"
             }
           ]
         },
         {
-          "rank": 6,
-          "level": 80,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "shivada_jade_gemstone.png"
+              "name": "Shivada Jade gemstone"
             },
             {
-              "quantity": 20,
-              "materialType": "elemental",
-              "image": "hoarfrost_core.png"
+              "name": "Hoarfrost Core"
             },
             {
-              "quantity": 60,
-              "materialType": "local",
-              "image": "calla_lily.png"
+              "name": "Calla Lily"
             },
             {
-              "quantity": 24,
-              "materialType": "common",
-              "image": "golden_raven_insignia.png"
-            },
-            {
-              "quantity": 120000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "GoldenRaven Insignia"
             }
           ]
         }
@@ -2782,179 +1450,93 @@
         {
           "materials": [
             {
-              "quantity": 1,
-              "materialType": "jewels",
-              "image": "vajrada_amethyst_sliver.png"
+              "name": "Vajrada Amethyst Sliver"
             },
             {
-              "quantity": 3,
-              "materialType": "local",
-              "image": "cor_lapis.png"
+              "name": "Cor Lapis"
             },
             {
-              "quantity": 3,
-              "materialType": "common",
-              "image": "whopperflower_nectar.png"
-            },
-            {
-              "quantity": 20000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Whopperflower Nectar"
             }
           ]
         },
         {
-          "rank": 2,
-          "level": 40,
           "materials": [
             {
-              "quantity": 3,
-              "materialType": "jewels",
-              "image": "vajrada_amethyst_fragment.png"
+              "name": "Vajrada Amethyst Fragment"
             },
             {
-              "quantity": 2,
-              "materialType": "elemental",
-              "image": "lightning_prism.png"
+              "name": "Lightning Prism"
             },
             {
-              "quantity": 10,
-              "materialType": "local",
-              "image": "cor_lapis.png"
+              "name": "Cor Lapis"
             },
             {
-              "quantity": 15,
-              "materialType": "common",
-              "image": "whopperflower_nectar.png"
-            },
-            {
-              "quantity": 40000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Whopperflower Nectar"
             }
           ]
         },
         {
-          "rank": 3,
-          "level": 50,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "vajrada_amethyst_fragment.png"
+              "name": "Vajrada Amethyst Fragment"
             },
             {
-              "quantity": 4,
-              "materialType": "elemental",
-              "image": "lightning_prism.png"
+              "name": "Lightning Prism"
             },
             {
-              "quantity": 20,
-              "materialType": "local",
-              "image": "cor_lapis.png"
+              "name": "Cor Lapis"
             },
             {
-              "quantity": 12,
-              "materialType": "common",
-              "image": "shimmering_nectar.png"
-            },
-            {
-              "quantity": 60000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Shimmering Nectar"
             }
           ]
         },
         {
-          "rank": 4,
-          "level": 60,
           "materials": [
             {
-              "quantity": 3,
-              "materialType": "jewels",
-              "image": "vajrada_amethyst_chunk.png"
+              "name": "Vajrada Amethyst Chunk"
             },
             {
-              "quantity": 8,
-              "materialType": "elemental",
-              "image": "lightning_prism.png"
+              "name": "Lightning Prism"
             },
             {
-              "quantity": 30,
-              "materialType": "local",
-              "image": "cor_lapis.png"
+              "name": "Cor Lapis"
             },
             {
-              "quantity": 18,
-              "materialType": "common",
-              "image": "shimmering_nectar.png"
-            },
-            {
-              "quantity": 80000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Shimmering Nectar"
             }
           ]
         },
         {
-          "rank": 5,
-          "level": 70,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "vajrada_amethyst_chunk.png"
+              "name": "Vajrada Amethyst Chunk"
             },
             {
-              "quantity": 12,
-              "materialType": "elemental",
-              "image": "lightning_prism.png"
+              "name": "Lightning Prism"
             },
             {
-              "quantity": 45,
-              "materialType": "local",
-              "image": "cor_lapis.png"
+              "name": "Cor Lapis"
             },
             {
-              "quantity": 12,
-              "materialType": "common",
-              "image": "energy_nectar.png"
-            },
-            {
-              "quantity": 100000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Energy Nectar"
             }
           ]
         },
         {
-          "rank": 6,
-          "level": 80,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "vajrada_amethyst_gemstone.png"
+              "name": "Vajrada Amethyst Gemstone"
             },
             {
-              "quantity": 20,
-              "materialType": "elemental",
-              "image": "lightning_prism.png"
+              "name": "Lightning Prism"
             },
             {
-              "quantity": 60,
-              "materialType": "local",
-              "image": "cor_lapis.png"
+              "name": "Cor Lapis"
             },
             {
-              "quantity": 24,
-              "materialType": "common",
-              "image": "energy_nectar.png"
-            },
-            {
-              "quantity": 120000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Energy Nectar"
             }
           ]
         }
@@ -2978,179 +1560,93 @@
         {
           "materials": [
             {
-              "quantity": 1,
-              "materialType": "jewels",
-              "image": "agnidus_agate_sliver.png"
+              "name": "Agnidus Agate Sliver"
             },
             {
-              "quantity": 3,
-              "materialType": "local",
-              "image": "philanemo_mushroom.png"
+              "name": "Philanemo Mushroom"
             },
             {
-              "quantity": 3,
-              "materialType": "common",
-              "image": "divining_scroll.png"
-            },
-            {
-              "quantity": 20000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Divining Scroll"
             }
           ]
         },
         {
-          "rank": 2,
-          "level": 40,
           "materials": [
             {
-              "quantity": 3,
-              "materialType": "jewels",
-              "image": "agnidus_agate_fragment.png"
+              "name": "Agnidus Agate Fragment"
             },
             {
-              "quantity": 2,
-              "materialType": "elemental",
-              "image": "everflame_seed.png"
+              "name": "Everflame Seed"
             },
             {
-              "quantity": 10,
-              "materialType": "local",
-              "image": "philanemo_mushroom.png"
+              "name": "Philanemo Mushroom"
             },
             {
-              "quantity": 15,
-              "materialType": "common",
-              "image": "divining_scroll.png"
-            },
-            {
-              "quantity": 40000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Divining Scroll"
             }
           ]
         },
         {
-          "rank": 3,
-          "level": 50,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "agnidus_agate_fragment.png"
+              "name": "Agnidus Agate Fragment"
             },
             {
-              "quantity": 4,
-              "materialType": "elemental",
-              "image": "everflame_seed.png"
+              "name": "Everflame Seed"
             },
             {
-              "quantity": 20,
-              "materialType": "local",
-              "image": "philanemo_mushroom.png"
+              "name": "Philanemo Mushroom"
             },
             {
-              "quantity": 12,
-              "materialType": "common",
-              "image": "sealed_scroll.png"
-            },
-            {
-              "quantity": 60000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Sealed Scroll"
             }
           ]
         },
         {
-          "rank": 4,
-          "level": 60,
           "materials": [
             {
-              "quantity": 3,
-              "materialType": "jewels",
-              "image": "agnidus_agate_chunk.png"
+              "name": "Agnidus Agate Chunk"
             },
             {
-              "quantity": 8,
-              "materialType": "elemental",
-              "image": "everflame_seed.png"
+              "name": "Everflame Seed"
             },
             {
-              "quantity": 30,
-              "materialType": "local",
-              "image": "philanemo_mushroom.png"
+              "name": "Philanemo Mushroom"
             },
             {
-              "quantity": 18,
-              "materialType": "common",
-              "image": "sealed_scroll.png"
-            },
-            {
-              "quantity": 80000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Sealed Scroll"
             }
           ]
         },
         {
-          "rank": 5,
-          "level": 70,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "agnidus_agate_chunk.png"
+              "name": "Agnidus Agate Chunk"
             },
             {
-              "quantity": 12,
-              "materialType": "elemental",
-              "image": "everflame_seed.png"
+              "name": "Everflame Seed"
             },
             {
-              "quantity": 45,
-              "materialType": "local",
-              "image": "philanemo_mushroom.png"
+              "name": "Philanemo Mushroom"
             },
             {
-              "quantity": 12,
-              "materialType": "common",
-              "image": "forbidden_curse_scroll.png"
-            },
-            {
-              "quantity": 100000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Forbidden Curse Scroll"
             }
           ]
         },
         {
-          "rank": 6,
-          "level": 80,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "agnidus_agate_gemstone.png"
+              "name": "Agnidus Agate Gemstone"
             },
             {
-              "quantity": 20,
-              "materialType": "elemental",
-              "image": "everflame_seed.png"
+              "name": "Everflame Seed"
             },
             {
-              "quantity": 60,
-              "materialType": "local",
-              "image": "philanemo_mushroom.png"
+              "name": "Philanemo Mushroom"
             },
             {
-              "quantity": 24,
-              "materialType": "common",
-              "image": "forbidden_curse_scroll.png"
-            },
-            {
-              "quantity": 120000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Forbidden Curse Scroll"
             }
           ]
         }
@@ -3173,179 +1669,93 @@
         {
           "materials": [
             {
-              "quantity": 1,
-              "materialType": "jewels",
-              "image": "vajrada_amethyst_sliver.png"
+              "name": "Vajrada Amethyst Sliver"
             },
             {
-              "quantity": 3,
-              "materialType": "local",
-              "image": "valberry.png"
+              "name": "Valberry"
             },
             {
-              "quantity": 3,
-              "materialType": "common",
-              "image": "slime_condensate.png"
-            },
-            {
-              "quantity": 20000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Slime Condensate"
             }
           ]
         },
         {
-          "rank": 2,
-          "level": 40,
           "materials": [
             {
-              "quantity": 3,
-              "materialType": "jewels",
-              "image": "vajrada_amethyst_fragment.png"
+              "name": "Vajrada Amethyst Fragment"
             },
             {
-              "quantity": 2,
-              "materialType": "elemental",
-              "image": "lightning_prism.png"
+              "name": "Lightning Prism"
             },
             {
-              "quantity": 10,
-              "materialType": "local",
-              "image": "valberry.png"
+              "name": "Valberry"
             },
             {
-              "quantity": 15,
-              "materialType": "common",
-              "image": "slime_condensate.png"
-            },
-            {
-              "quantity": 40000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Slime Condensate"
             }
           ]
         },
         {
-          "rank": 3,
-          "level": 50,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "vajrada_amethyst_fragment.png"
+              "name": "Vajrada Amethyst Fragment"
             },
             {
-              "quantity": 4,
-              "materialType": "elemental",
-              "image": "lightning_prism.png"
+              "name": "Lightning Prism"
             },
             {
-              "quantity": 20,
-              "materialType": "local",
-              "image": "valberry.png"
+              "name": "Valberry"
             },
             {
-              "quantity": 12,
-              "materialType": "common",
-              "image": "slime_secretions.png"
-            },
-            {
-              "quantity": 60000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Slime Secretions"
             }
           ]
         },
         {
-          "rank": 4,
-          "level": 60,
           "materials": [
             {
-              "quantity": 3,
-              "materialType": "jewels",
-              "image": "vajrada_amethyst_chunk.png"
+              "name": "Vajrada Amethyst Chunk"
             },
             {
-              "quantity": 8,
-              "materialType": "elemental",
-              "image": "lightning_prism.png"
+              "name": "Lightning Prism"
             },
             {
-              "quantity": 30,
-              "materialType": "local",
-              "image": "valberry.png"
+              "name": "Valberry"
             },
             {
-              "quantity": 18,
-              "materialType": "common",
-              "image": "slime_secretions.png"
-            },
-            {
-              "quantity": 80000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Slime Secretions"
             }
           ]
         },
         {
-          "rank": 5,
-          "level": 70,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "vajrada_amethyst_chunk.png"
+              "name": "Vajrada Amethyst Chunk"
             },
             {
-              "quantity": 12,
-              "materialType": "elemental",
-              "image": "lightning_prism.png"
+              "name": "Lightning Prism"
             },
             {
-              "quantity": 45,
-              "materialType": "local",
-              "image": "valberry.png"
+              "name": "Valberry"
             },
             {
-              "quantity": 12,
-              "materialType": "common",
-              "image": "slime_concentrate.png"
-            },
-            {
-              "quantity": 100000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Slime Concentrate"
             }
           ]
         },
         {
-          "rank": 6,
-          "level": 80,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "vajrada_amethyst_gemstone.png"
+              "name": "Vajrada Amethyst Gemstone"
             },
             {
-              "quantity": 20,
-              "materialType": "elemental",
-              "image": "lightning_prism.png"
+              "name": "Lightning Prism"
             },
             {
-              "quantity": 60,
-              "materialType": "local",
-              "image": "valberry.png"
+              "name": "Valberry"
             },
             {
-              "quantity": 24,
-              "materialType": "common",
-              "image": "slime_concentrate.png"
-            },
-            {
-              "quantity": 120000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Slime Concentrate"
             }
           ]
         }
@@ -3369,179 +1779,93 @@
         {
           "materials": [
             {
-              "quantity": 1,
-              "materialType": "jewels",
-              "image": "varunada_lazurite_sliver.png"
+              "name": "Varunada Lazurite sliver"
             },
             {
-              "quantity": 3,
-              "materialType": "local",
-              "image": "philanemo_mushroom.png"
+              "name": "Philanemo Mushroom"
             },
             {
-              "quantity": 3,
-              "materialType": "common",
-              "image": "whopperflower_nectar.png"
-            },
-            {
-              "quantity": 20000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Whopperflower Nectar"
             }
           ]
         },
         {
-          "rank": 2,
-          "level": 40,
           "materials": [
             {
-              "quantity": 3,
-              "materialType": "jewels",
-              "image": "varunada_lazurite_fragment.png"
+              "name": "Varunada Lazurite Fragment"
             },
             {
-              "quantity": 2,
-              "materialType": "elemental",
-              "image": "cleansing_heart.png"
+              "name": "Cleansing Heart"
             },
             {
-              "quantity": 10,
-              "materialType": "local",
-              "image": "philanemo_mushroom.png"
+              "name": "Philanemo Mushroom"
             },
             {
-              "quantity": 15,
-              "materialType": "common",
-              "image": "whopperflower_nectar.png"
-            },
-            {
-              "quantity": 40000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Whopperflower Nectar"
             }
           ]
         },
         {
-          "rank": 3,
-          "level": 50,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "varunada_lazurite_fragment.png"
+              "name": "Varunada Lazurite Fragment"
             },
             {
-              "quantity": 4,
-              "materialType": "elemental",
-              "image": "cleansing_heart.png"
+              "name": "Cleansing Heart"
             },
             {
-              "quantity": 20,
-              "materialType": "local",
-              "image": "philanemo_mushroom.png"
+              "name": "Philanemo Mushroom"
             },
             {
-              "quantity": 12,
-              "materialType": "common",
-              "image": "shimmering_nectar.png"
-            },
-            {
-              "quantity": 60000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Shimmering Nectar"
             }
           ]
         },
         {
-          "rank": 4,
-          "level": 60,
           "materials": [
             {
-              "quantity": 3,
-              "materialType": "jewels",
-              "image": "varunada_lazurite_chunk.png"
+              "name": "Varunada Lazurite Chunk"
             },
             {
-              "quantity": 8,
-              "materialType": "elemental",
-              "image": "cleansing_heart.png"
+              "name": "Cleansing Heart"
             },
             {
-              "quantity": 30,
-              "materialType": "local",
-              "image": "philanemo_mushroom.png"
+              "name": "Philanemo Mushroom"
             },
             {
-              "quantity": 18,
-              "materialType": "common",
-              "image": "shimmering_nectar.png"
-            },
-            {
-              "quantity": 80000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Shimmering Nectar"
             }
           ]
         },
         {
-          "rank": 5,
-          "level": 70,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "varunada_lazurite_chunk.png"
+              "name": "Varunada Lazurite Chunk"
             },
             {
-              "quantity": 12,
-              "materialType": "elemental",
-              "image": "cleansing_heart.png"
+              "name": "Cleansing Heart"
             },
             {
-              "quantity": 45,
-              "materialType": "local",
-              "image": "philanemo_mushroom.png"
+              "name": "Philanemo Mushroom"
             },
             {
-              "quantity": 12,
-              "materialType": "common",
-              "image": "energy_nectar.png"
-            },
-            {
-              "quantity": 100000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Energy Nectar"
             }
           ]
         },
         {
-          "rank": 6,
-          "level": 80,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "varunada_lazurite_gemstone.png"
+              "name": "Varunada Lazurite Gemstone"
             },
             {
-              "quantity": 20,
-              "materialType": "elemental",
-              "image": "cleansing_heart.png"
+              "name": "Cleansing Heart"
             },
             {
-              "quantity": 60,
-              "materialType": "local",
-              "image": "philanemo_mushroom.png"
+              "name": "Philanemo Mushroom"
             },
             {
-              "quantity": 24,
-              "materialType": "common",
-              "image": "energy_nectar.png"
-            },
-            {
-              "quantity": 120000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Energy Nectar"
             }
           ]
         }
@@ -3565,179 +1889,93 @@
         {
           "materials": [
             {
-              "quantity": 1,
-              "materialType": "jewels",
-              "image": "prithiva_topaz_sliver.png"
+              "name": "Prithiva Topaz Sliver"
             },
             {
-              "quantity": 3,
-              "materialType": "local",
-              "image": "glaze_lily.png"
+              "name": "Glaze Lily"
             },
             {
-              "quantity": 3,
-              "materialType": "common",
-              "image": "recruits_insignia.png"
-            },
-            {
-              "quantity": 20000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Recruit's Insignia"
             }
           ]
         },
         {
-          "rank": 2,
-          "level": 40,
           "materials": [
             {
-              "quantity": 3,
-              "materialType": "jewels",
-              "image": "prithiva_topaz_fragment.png"
+              "name": "Prithiva Topaz Fragment"
             },
             {
-              "quantity": 2,
-              "materialType": "elemental",
-              "image": "basalt_pillar.png"
+              "name": "Basalt Pillar"
             },
             {
-              "quantity": 10,
-              "materialType": "local",
-              "image": "glaze_lily.png"
+              "name": "Glaze Lily"
             },
             {
-              "quantity": 15,
-              "materialType": "common",
-              "image": "recruits_insignia.png"
-            },
-            {
-              "quantity": 40000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Recruit's Insignia"
             }
           ]
         },
         {
-          "rank": 3,
-          "level": 50,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "prithiva_topaz_fragment.png"
+              "name": "Prithiva Topaz Fragment"
             },
             {
-              "quantity": 4,
-              "materialType": "elemental",
-              "image": "basalt_pillar.png"
+              "name": "Basalt Pillar"
             },
             {
-              "quantity": 20,
-              "materialType": "local",
-              "image": "glaze_lily.png"
+              "name": "Glaze Lily"
             },
             {
-              "quantity": 12,
-              "materialType": "common",
-              "image": "sergeants_insignia.png"
-            },
-            {
-              "quantity": 60000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Sergeant's Insignia"
             }
           ]
         },
         {
-          "rank": 4,
-          "level": 60,
           "materials": [
             {
-              "quantity": 3,
-              "materialType": "jewels",
-              "image": "prithiva_topaz_chunk.png"
+              "name": "Prithiva Topaz Chunk"
             },
             {
-              "quantity": 8,
-              "materialType": "elemental",
-              "image": "basalt_pillar.png"
+              "name": "Basalt Pillar"
             },
             {
-              "quantity": 30,
-              "materialType": "local",
-              "image": "glaze_lily.png"
+              "name": "Glaze Lily"
             },
             {
-              "quantity": 18,
-              "materialType": "common",
-              "image": "sergeants_insignia.png"
-            },
-            {
-              "quantity": 80000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Sergeant's Insignia"
             }
           ]
         },
         {
-          "rank": 5,
-          "level": 70,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "prithiva_topaz_chunk.png"
+              "name": "Prithiva Topaz Chunk"
             },
             {
-              "quantity": 12,
-              "materialType": "elemental",
-              "image": "basalt_pillar.png"
+              "name": "Basalt Pillar"
             },
             {
-              "quantity": 45,
-              "materialType": "local",
-              "image": "glaze_lily.png"
+              "name": "Glaze Lily"
             },
             {
-              "quantity": 12,
-              "materialType": "common",
-              "image": "lieutenants_insignia.png"
-            },
-            {
-              "quantity": 100000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Lieutenants Insignia"
             }
           ]
         },
         {
-          "rank": 6,
-          "level": 80,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "prithiva_topaz_gemstone.png"
+              "name": "Prithiva Topaz Gemstone"
             },
             {
-              "quantity": 20,
-              "materialType": "elemental",
-              "image": "basalt_pillar.png"
+              "name": "Basalt Pillar"
             },
             {
-              "quantity": 60,
-              "materialType": "local",
-              "image": "glaze_lily.png"
+              "name": "Glaze Lily"
             },
             {
-              "quantity": 24,
-              "materialType": "common",
-              "image": "lieutenants_insignia.png"
-            },
-            {
-              "quantity": 120000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Lieutenants Insignia"
             }
           ]
         }
@@ -3762,179 +2000,93 @@
         {
           "materials": [
             {
-              "quantity": 1,
-              "materialType": "jewels",
-              "image": "prithiva_topaz_sliver.png"
+              "name": "Prithiva Topaz Sliver"
             },
             {
-              "quantity": 3,
-              "materialType": "local",
-              "image": "valberry.png"
+              "name": "Valberry"
             },
             {
-              "quantity": 3,
-              "materialType": "common",
-              "image": "damaged_mask.png"
-            },
-            {
-              "quantity": 20000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Damaged Mask"
             }
           ]
         },
         {
-          "rank": 2,
-          "level": 40,
           "materials": [
             {
-              "quantity": 3,
-              "materialType": "jewels",
-              "image": "prithiva_topaz_fragment.png"
+              "name": "Prithiva Topaz Fragment"
             },
             {
-              "quantity": 2,
-              "materialType": "elemental",
-              "image": "basalt_pillar.png"
+              "name": "Basalt Pillar"
             },
             {
-              "quantity": 10,
-              "materialType": "local",
-              "image": "valberry.png"
+              "name": "Valberry"
             },
             {
-              "quantity": 15,
-              "materialType": "common",
-              "image": "damaged_mask.png"
-            },
-            {
-              "quantity": 40000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Damaged Mask"
             }
           ]
         },
         {
-          "rank": 3,
-          "level": 50,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "prithiva_topaz_fragment.png"
+              "name": "Prithiva Topaz Fragment"
             },
             {
-              "quantity": 4,
-              "materialType": "elemental",
-              "image": "basalt_pillar.png"
+              "name": "Basalt Pillar"
             },
             {
-              "quantity": 20,
-              "materialType": "local",
-              "image": "valberry.png"
+              "name": "Valberry"
             },
             {
-              "quantity": 12,
-              "materialType": "common",
-              "image": "stained_mask.png"
-            },
-            {
-              "quantity": 60000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Stained Mask"
             }
           ]
         },
         {
-          "rank": 4,
-          "level": 60,
           "materials": [
             {
-              "quantity": 3,
-              "materialType": "jewels",
-              "image": "prithiva_topaz_chunk.png"
+              "name": "Prithiva Topaz Chunk"
             },
             {
-              "quantity": 8,
-              "materialType": "elemental",
-              "image": "basalt_pillar.png"
+              "name": "Basalt Pillar"
             },
             {
-              "quantity": 30,
-              "materialType": "local",
-              "image": "valberry.png"
+              "name": "Valberry"
             },
             {
-              "quantity": 18,
-              "materialType": "common",
-              "image": "stained_mask.png"
-            },
-            {
-              "quantity": 80000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Stained Mask"
             }
           ]
         },
         {
-          "rank": 5,
-          "level": 70,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "prithiva_topaz_chunk.png"
+              "name": "Prithiva Topaz Chunk"
             },
             {
-              "quantity": 12,
-              "materialType": "elemental",
-              "image": "basalt_pillar.png"
+              "name": "Basalt Pillar"
             },
             {
-              "quantity": 45,
-              "materialType": "local",
-              "image": "valberry.png"
+              "name": "Valberry"
             },
             {
-              "quantity": 12,
-              "materialType": "common",
-              "image": "ominous_mask.png"
-            },
-            {
-              "quantity": 100000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Ominous Mask"
             }
           ]
         },
         {
-          "rank": 6,
-          "level": 80,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "prithiva_topaz_gemstone.png"
+              "name": "Prithiva Topaz Gemstone"
             },
             {
-              "quantity": 20,
-              "materialType": "elemental",
-              "image": "basalt_pillar.png"
+              "name": "Basalt Pillar"
             },
             {
-              "quantity": 60,
-              "materialType": "local",
-              "image": "valberry.png"
+              "name": "Valberry"
             },
             {
-              "quantity": 24,
-              "materialType": "common",
-              "image": "ominous_mask.png"
-            },
-            {
-              "quantity": 120000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Ominous Mask"
             }
           ]
         }
@@ -3958,179 +2110,93 @@
         {
           "materials": [
             {
-              "quantity": 1,
-              "materialType": "jewels",
-              "image": "shivada_jade_sliver.png"
+              "name": "Shivada Jade sliver"
             },
             {
-              "quantity": 3,
-              "materialType": "local",
-              "image": "violetgrass.png"
+              "name": "Violetgrass"
             },
             {
-              "quantity": 3,
-              "materialType": "common",
-              "image": "divining_scroll.png"
-            },
-            {
-              "quantity": 20000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Divining Scroll"
             }
           ]
         },
         {
-          "rank": 2,
-          "level": 40,
           "materials": [
             {
-              "quantity": 3,
-              "materialType": "jewels",
-              "image": "shivada_jade_fragment.png"
+              "name": "Shivada Jade Fragment"
             },
             {
-              "quantity": 2,
-              "materialType": "elemental",
-              "image": "hoarfrost_core.png"
+              "name": "Hoarfrost Core"
             },
             {
-              "quantity": 10,
-              "materialType": "local",
-              "image": "violetgrass.png"
+              "name": "Violetgrass"
             },
             {
-              "quantity": 15,
-              "materialType": "common",
-              "image": "divining_scroll.png"
-            },
-            {
-              "quantity": 40000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Divining Scroll"
             }
           ]
         },
         {
-          "rank": 3,
-          "level": 50,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "shivada_jade_fragment.png"
+              "name": "Shivada Jade Fragment"
             },
             {
-              "quantity": 4,
-              "materialType": "elemental",
-              "image": "hoarfrost_core.png"
+              "name": "Hoarfrost Core"
             },
             {
-              "quantity": 20,
-              "materialType": "local",
-              "image": "violetgrass.png"
+              "name": "Violetgrass"
             },
             {
-              "quantity": 12,
-              "materialType": "common",
-              "image": "sealed_scroll.png"
-            },
-            {
-              "quantity": 60000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Sealed Scroll"
             }
           ]
         },
         {
-          "rank": 4,
-          "level": 60,
           "materials": [
             {
-              "quantity": 3,
-              "materialType": "jewels",
-              "image": "shivada_jade_chunk.png"
+              "name": "Shivada Jade chunk"
             },
             {
-              "quantity": 8,
-              "materialType": "elemental",
-              "image": "hoarfrost_core.png"
+              "name": "Hoarfrost Core"
             },
             {
-              "quantity": 30,
-              "materialType": "local",
-              "image": "violetgrass.png"
+              "name": "Violetgrass"
             },
             {
-              "quantity": 18,
-              "materialType": "common",
-              "image": "sealed_scroll.png"
-            },
-            {
-              "quantity": 80000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Sealed Scroll"
             }
           ]
         },
         {
-          "rank": 5,
-          "level": 70,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "shivada_jade_chunk.png"
+              "name": "Shivada Jade chunk"
             },
             {
-              "quantity": 12,
-              "materialType": "elemental",
-              "image": "hoarfrost_core.png"
+              "name": "Hoarfrost Core"
             },
             {
-              "quantity": 45,
-              "materialType": "local",
-              "image": "violetgrass.png"
+              "name": "Violetgrass"
             },
             {
-              "quantity": 12,
-              "materialType": "common",
-              "image": "forbidden_curse_scroll.png"
-            },
-            {
-              "quantity": 100000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Forbidden Curse Scroll"
             }
           ]
         },
         {
-          "rank": 6,
-          "level": 80,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "shivada_jade_gemstone.png"
+              "name": "Shivada Jade gemstone"
             },
             {
-              "quantity": 20,
-              "materialType": "elemental",
-              "image": "hoarfrost_core.png"
+              "name": "Hoarfrost Core"
             },
             {
-              "quantity": 60,
-              "materialType": "local",
-              "image": "violetgrass.png"
+              "name": "Violetgrass"
             },
             {
-              "quantity": 24,
-              "materialType": "common",
-              "image": "forbidden_curse_scroll.png"
-            },
-            {
-              "quantity": 120000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Forbidden Curse Scroll"
             }
           ]
         }
@@ -4154,179 +2220,93 @@
         {
           "materials": [
             {
-              "quantity": 1,
-              "materialType": "jewels",
-              "image": "vajrada_amethyst_sliver.png"
+              "name": "Vajrada Amethyst Sliver"
             },
             {
-              "quantity": 3,
-              "materialType": "local",
-              "image": "wolfhook.png"
+              "name": "Wolfhook"
             },
             {
-              "quantity": 3,
-              "materialType": "common",
-              "image": "damaged_mask.png"
-            },
-            {
-              "quantity": 20000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Damaged Mask"
             }
           ]
         },
         {
-          "rank": 2,
-          "level": 40,
           "materials": [
             {
-              "quantity": 3,
-              "materialType": "jewels",
-              "image": "vajrada_amethyst_fragment.png"
+              "name": "Vajrada Amethyst Fragment"
             },
             {
-              "quantity": 2,
-              "materialType": "elemental",
-              "image": "lightning_prism.png"
+              "name": "Lightning Prism"
             },
             {
-              "quantity": 10,
-              "materialType": "local",
-              "image": "wolfhook.png"
+              "name": "Wolfhook"
             },
             {
-              "quantity": 15,
-              "materialType": "common",
-              "image": "damaged_mask.png"
-            },
-            {
-              "quantity": 40000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Damaged Mask"
             }
           ]
         },
         {
-          "rank": 3,
-          "level": 50,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "vajrada_amethyst_fragment.png"
+              "name": "Vajrada Amethyst Fragment"
             },
             {
-              "quantity": 4,
-              "materialType": "elemental",
-              "image": "lightning_prism.png"
+              "name": "Lightning Prism"
             },
             {
-              "quantity": 20,
-              "materialType": "local",
-              "image": "wolfhook.png"
+              "name": "Wolfhook"
             },
             {
-              "quantity": 12,
-              "materialType": "common",
-              "image": "stained_mask.png"
-            },
-            {
-              "quantity": 60000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Stained Mask"
             }
           ]
         },
         {
-          "rank": 4,
-          "level": 60,
           "materials": [
             {
-              "quantity": 3,
-              "materialType": "jewels",
-              "image": "vajrada_amethyst_chunk.png"
+              "name": "Vajrada Amethyst Chunk"
             },
             {
-              "quantity": 8,
-              "materialType": "elemental",
-              "image": "lightning_prism.png"
+              "name": "Lightning Prism"
             },
             {
-              "quantity": 30,
-              "materialType": "local",
-              "image": "wolfhook.png"
+              "name": "Wolfhook"
             },
             {
-              "quantity": 18,
-              "materialType": "common",
-              "image": "stained_mask.png"
-            },
-            {
-              "quantity": 80000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Stained Mask"
             }
           ]
         },
         {
-          "rank": 5,
-          "level": 70,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "vajrada_amethyst_chunk.png"
+              "name": "Vajrada Amethyst Chunk"
             },
             {
-              "quantity": 12,
-              "materialType": "elemental",
-              "image": "lightning_prism.png"
+              "name": "Lightning Prism"
             },
             {
-              "quantity": 45,
-              "materialType": "local",
-              "image": "wolfhook.png"
+              "name": "Wolfhook"
             },
             {
-              "quantity": 12,
-              "materialType": "common",
-              "image": "ominous_mask.png"
-            },
-            {
-              "quantity": 100000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Ominous Mask"
             }
           ]
         },
         {
-          "rank": 6,
-          "level": 80,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "vajrada_amethyst_gemstone.png"
+              "name": "Vajrada Amethyst Gemstone"
             },
             {
-              "quantity": 20,
-              "materialType": "elemental",
-              "image": "lightning_prism.png"
+              "name": "Lightning Prism"
             },
             {
-              "quantity": 60,
-              "materialType": "local",
-              "image": "wolfhook.png"
+              "name": "Wolfhook"
             },
             {
-              "quantity": 24,
-              "materialType": "common",
-              "image": "ominous_mask.png"
-            },
-            {
-              "quantity": 120000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Ominous Mask"
             }
           ]
         }
@@ -4350,179 +2330,93 @@
         {
           "materials": [
             {
-              "quantity": 1,
-              "materialType": "jewels",
-              "image": "vayuda_turquoise_sliver.png"
+              "name": "Vayuda Turquoise Sliver"
             },
             {
-              "quantity": 3,
-              "materialType": "local",
-              "image": "windwheel_aster.png"
+              "name": "Windwheel Aster"
             },
             {
-              "quantity": 3,
-              "materialType": "common",
-              "image": "whopperflower_nectar.png"
-            },
-            {
-              "quantity": 20000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Whopperflower Nectar"
             }
           ]
         },
         {
-          "rank": 2,
-          "level": 40,
           "materials": [
             {
-              "quantity": 3,
-              "materialType": "jewels",
-              "image": "vayuda_turquoise_fragment.png"
+              "name": "vayuda turquoise Fragment"
             },
             {
-              "quantity": 2,
-              "materialType": "elemental",
-              "image": "hurricane_seed.png"
+              "name": "Hurricane Seed"
             },
             {
-              "quantity": 10,
-              "materialType": "local",
-              "image": "windwheel_aster.png"
+              "name": "Windwheel Aster"
             },
             {
-              "quantity": 15,
-              "materialType": "common",
-              "image": "whopperflower_nectar.png"
-            },
-            {
-              "quantity": 40000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Whopperflower Nectar"
             }
           ]
         },
         {
-          "rank": 3,
-          "level": 50,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "vayuda_turquoise_fragment.png"
+              "name": "vayuda turquoise Fragment"
             },
             {
-              "quantity": 4,
-              "materialType": "elemental",
-              "image": "hurricane_seed.png"
+              "name": "Hurricane Seed"
             },
             {
-              "quantity": 20,
-              "materialType": "local",
-              "image": "windwheel_aster.png"
+              "name": "Windwheel Aster"
             },
             {
-              "quantity": 12,
-              "materialType": "common",
-              "image": "shimmering_nectar.png"
-            },
-            {
-              "quantity": 60000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Shimmering Nectar"
             }
           ]
         },
         {
-          "rank": 4,
-          "level": 60,
           "materials": [
             {
-              "quantity": 3,
-              "materialType": "jewels",
-              "image": "vayuda_turquoise_chunk.png"
+              "name": "Vayuda Turquoise Chunk"
             },
             {
-              "quantity": 8,
-              "materialType": "elemental",
-              "image": "hurricane_seed.png"
+              "name": "Hurricane Seed"
             },
             {
-              "quantity": 30,
-              "materialType": "local",
-              "image": "windwheel_aster.png"
+              "name": "Windwheel Aster"
             },
             {
-              "quantity": 18,
-              "materialType": "common",
-              "image": "shimmering_nectar.png"
-            },
-            {
-              "quantity": 80000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Shimmering Nectar"
             }
           ]
         },
         {
-          "rank": 5,
-          "level": 70,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "vayuda_turquoise_chunk.png"
+              "name": "Vayuda Turquoise Chunk"
             },
             {
-              "quantity": 12,
-              "materialType": "elemental",
-              "image": "hurricane_seed.png"
+              "name": "Hurricane Seed"
             },
             {
-              "quantity": 45,
-              "materialType": "local",
-              "image": "windwheel_aster.png"
+              "name": "Windwheel Aster"
             },
             {
-              "quantity": 12,
-              "materialType": "common",
-              "image": "energy_nectar.png"
-            },
-            {
-              "quantity": 100000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Energy Nectar"
             }
           ]
         },
         {
-          "rank": 6,
-          "level": 80,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "vayuda_turquoise_gemstone.png"
+              "name": "Vayuda Turquoise Gemstone"
             },
             {
-              "quantity": 20,
-              "materialType": "elemental",
-              "image": "hurricane_seed.png"
+              "name": "Hurricane Seed"
             },
             {
-              "quantity": 60,
-              "materialType": "local",
-              "image": "windwheel_aster.png"
+              "name": "Windwheel Aster"
             },
             {
-              "quantity": 24,
-              "materialType": "common",
-              "image": "energy_nectar.png"
-            },
-            {
-              "quantity": 120000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Energy Nectar"
             }
           ]
         }
@@ -4546,179 +2440,93 @@
         {
           "materials": [
             {
-              "quantity": 1,
-              "materialType": "jewels",
-              "image": "varunada_lazurite_sliver.png"
+              "name": "Varunada Lazurite sliver"
             },
             {
-              "quantity": 3,
-              "materialType": "local",
-              "image": "starconch.png"
+              "name": "Starconch"
             },
             {
-              "quantity": 3,
-              "materialType": "common",
-              "image": "recruits_insignia.png"
-            },
-            {
-              "quantity": 20000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Recruit's Insignia"
             }
           ]
         },
         {
-          "rank": 2,
-          "level": 40,
           "materials": [
             {
-              "quantity": 3,
-              "materialType": "jewels",
-              "image": "varunada_lazurite_fragment.png"
+              "name": "Varunada Lazurite Fragment"
             },
             {
-              "quantity": 2,
-              "materialType": "elemental",
-              "image": "cleansing_heart.png"
+              "name": "Cleansing Heart"
             },
             {
-              "quantity": 10,
-              "materialType": "local",
-              "image": "starconch.png"
+              "name": "Starconch"
             },
             {
-              "quantity": 15,
-              "materialType": "common",
-              "image": "recruits_insignia.png"
-            },
-            {
-              "quantity": 40000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Recruit's Insignia"
             }
           ]
         },
         {
-          "rank": 3,
-          "level": 50,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "varunada_lazurite_fragment.png"
+              "name": "Varunada Lazurite Fragment"
             },
             {
-              "quantity": 4,
-              "materialType": "elemental",
-              "image": "cleansing_heart.png"
+              "name": "Cleansing Heart"
             },
             {
-              "quantity": 20,
-              "materialType": "local",
-              "image": "starconch.png"
+              "name": "Starconch"
             },
             {
-              "quantity": 12,
-              "materialType": "common",
-              "image": "sergeants_insignia.png"
-            },
-            {
-              "quantity": 60000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Sergeant's Insignia"
             }
           ]
         },
         {
-          "rank": 4,
-          "level": 60,
           "materials": [
             {
-              "quantity": 3,
-              "materialType": "jewels",
-              "image": "varunada_lazurite_chunk.png"
+              "name": "Varunada Lazurite Chunk"
             },
             {
-              "quantity": 8,
-              "materialType": "elemental",
-              "image": "cleansing_heart.png"
+              "name": "Cleansing Heart"
             },
             {
-              "quantity": 30,
-              "materialType": "local",
-              "image": "starconch.png"
+              "name": "Starconch"
             },
             {
-              "quantity": 18,
-              "materialType": "common",
-              "image": "sergeants_insignia.png"
-            },
-            {
-              "quantity": 80000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Sergeant's Insignia"
             }
           ]
         },
         {
-          "rank": 5,
-          "level": 70,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "varunada_lazurite_chunk.png"
+              "name": "Varunada Lazurite Chunk"
             },
             {
-              "quantity": 12,
-              "materialType": "elemental",
-              "image": "cleansing_heart.png"
+              "name": "Cleansing Heart"
             },
             {
-              "quantity": 45,
-              "materialType": "local",
-              "image": "starconch.png"
+              "name": "Starconch"
             },
             {
-              "quantity": 12,
-              "materialType": "common",
-              "image": "lieutenants_insignia.png"
-            },
-            {
-              "quantity": 100000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Lieutenants Insignia"
             }
           ]
         },
         {
-          "rank": 6,
-          "level": 80,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "varunada_lazurite_gemstone.png"
+              "name": "Varunada Lazurite Gemstone"
             },
             {
-              "quantity": 20,
-              "materialType": "elemental",
-              "image": "cleansing_heart.png"
+              "name": "Cleansing Heart"
             },
             {
-              "quantity": 60,
-              "materialType": "local",
-              "image": "starconch.png"
+              "name": "Starconch"
             },
             {
-              "quantity": 24,
-              "materialType": "common",
-              "image": "lieutenants_insignia.png"
-            },
-            {
-              "quantity": 120000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Lieutenants Insignia"
             }
           ]
         }
@@ -4742,154 +2550,78 @@
         {
           "materials": [
             {
-              "quantity": 1,
-              "materialType": "jewels",
-              "image": "brilliant_diamond_sliver.png"
+              "name": "Brilliant Diamond Sliver"
             },
             {
-              "quantity": 3,
-              "materialType": "local",
-              "image": "windwheel_aster.png"
+              "name": "Windwheel Aster"
             },
             {
-              "quantity": 3,
-              "materialType": "common",
-              "image": "damaged_mask.png"
-            },
-            {
-              "quantity": 20000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Damaged Mask"
             }
           ]
         },
         {
-          "rank": 2,
-          "level": 40,
           "materials": [
             {
-              "quantity": 3,
-              "materialType": "jewels",
-              "image": "brilliant_diamond_fragment.png"
+              "name": "Brilliant Diamond Fragment"
             },
             {
-              "quantity": 10,
-              "materialType": "local",
-              "image": "windwheel_aster.png"
+              "name": "Windwheel Aster"
             },
             {
-              "quantity": 15,
-              "materialType": "common",
-              "image": "damaged_mask.png"
-            },
-            {
-              "quantity": 40000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Damaged Mask"
             }
           ]
         },
         {
-          "rank": 3,
-          "level": 50,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "brilliant_diamond_fragment.png"
+              "name": "Brilliant Diamond Fragment"
             },
             {
-              "quantity": 20,
-              "materialType": "local",
-              "image": "windwheel_aster.png"
+              "name": "Windwheel Aster"
             },
             {
-              "quantity": 12,
-              "materialType": "common",
-              "image": "stained_mask.png"
-            },
-            {
-              "quantity": 60000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Stained Mask"
             }
           ]
         },
         {
-          "rank": 4,
-          "level": 60,
           "materials": [
             {
-              "quantity": 3,
-              "materialType": "jewels",
-              "image": "brilliant_diamond_chunk.png"
+              "name": "Brilliant Diamond Chunk"
             },
             {
-              "quantity": 30,
-              "materialType": "local",
-              "image": "windwheel_aster.png"
+              "name": "Windwheel Aster"
             },
             {
-              "quantity": 18,
-              "materialType": "common",
-              "image": "stained_mask.png"
-            },
-            {
-              "quantity": 80000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Stained Mask"
             }
           ]
         },
         {
-          "rank": 5,
-          "level": 70,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "brilliant_diamond_chunk.png"
+              "name": "Brilliant Diamond Chunk"
             },
             {
-              "quantity": 45,
-              "materialType": "local",
-              "image": "windwheel_aster.png"
+              "name": "Windwheel Aster"
             },
             {
-              "quantity": 12,
-              "materialType": "common",
-              "image": "ominous_mask.png"
-            },
-            {
-              "quantity": 100000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Ominous Mask"
             }
           ]
         },
         {
-          "rank": 6,
-          "level": 80,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "brilliant_diamond_gemstone.png"
+              "name": "Brilliant Diamond Gemstone"
             },
             {
-              "quantity": 60,
-              "materialType": "local",
-              "image": "windwheel_aster.png"
+              "name": "Windwheel Aster"
             },
             {
-              "quantity": 24,
-              "materialType": "common",
-              "image": "ominous_mask.png"
-            },
-            {
-              "quantity": 120000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Ominous Mask"
             }
           ]
         }
@@ -4913,154 +2645,78 @@
         {
           "materials": [
             {
-              "quantity": 1,
-              "materialType": "jewels",
-              "image": "brilliant_diamond_sliver.png"
+              "name": "Brilliant Diamond Sliver"
             },
             {
-              "quantity": 3,
-              "materialType": "local",
-              "image": "windwheel_aster.png"
+              "name": "Windwheel Aster"
             },
             {
-              "quantity": 3,
-              "materialType": "common",
-              "image": "damaged_mask.png"
-            },
-            {
-              "quantity": 20000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Damaged Mask"
             }
           ]
         },
         {
-          "rank": 2,
-          "level": 40,
           "materials": [
             {
-              "quantity": 3,
-              "materialType": "jewels",
-              "image": "brilliant_diamond_fragment.png"
+              "name": "Brilliant Diamond Fragment"
             },
             {
-              "quantity": 10,
-              "materialType": "local",
-              "image": "windwheel_aster.png"
+              "name": "Windwheel Aster"
             },
             {
-              "quantity": 15,
-              "materialType": "common",
-              "image": "damaged_mask.png"
-            },
-            {
-              "quantity": 40000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Damaged Mask"
             }
           ]
         },
         {
-          "rank": 3,
-          "level": 50,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "brilliant_diamond_fragment.png"
+              "name": "Brilliant Diamond Fragment"
             },
             {
-              "quantity": 20,
-              "materialType": "local",
-              "image": "windwheel_aster.png"
+              "name": "Windwheel Aster"
             },
             {
-              "quantity": 12,
-              "materialType": "common",
-              "image": "stained_mask.png"
-            },
-            {
-              "quantity": 60000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Stained Mask"
             }
           ]
         },
         {
-          "rank": 4,
-          "level": 60,
           "materials": [
             {
-              "quantity": 3,
-              "materialType": "jewels",
-              "image": "brilliant_diamond_chunk.png"
+              "name": "Brilliant Diamond Chunk"
             },
             {
-              "quantity": 30,
-              "materialType": "local",
-              "image": "windwheel_aster.png"
+              "name": "Windwheel Aster"
             },
             {
-              "quantity": 18,
-              "materialType": "common",
-              "image": "stained_mask.png"
-            },
-            {
-              "quantity": 80000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Stained Mask"
             }
           ]
         },
         {
-          "rank": 5,
-          "level": 70,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "brilliant_diamond_chunk.png"
+              "name": "Brilliant Diamond Chunk"
             },
             {
-              "quantity": 45,
-              "materialType": "local",
-              "image": "windwheel_aster.png"
+              "name": "Windwheel Aster"
             },
             {
-              "quantity": 12,
-              "materialType": "common",
-              "image": "ominous_mask.png"
-            },
-            {
-              "quantity": 100000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Ominous Mask"
             }
           ]
         },
         {
-          "rank": 6,
-          "level": 80,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "brilliant_diamond_gemstone.png"
+              "name": "Brilliant Diamond Gemstone"
             },
             {
-              "quantity": 60,
-              "materialType": "local",
-              "image": "windwheel_aster.png"
+              "name": "Windwheel Aster"
             },
             {
-              "quantity": 24,
-              "materialType": "common",
-              "image": "ominous_mask.png"
-            },
-            {
-              "quantity": 120000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Ominous Mask"
             }
           ]
         }
@@ -5084,179 +2740,93 @@
         {
           "materials": [
             {
-              "quantity": 1,
-              "materialType": "jewels",
-              "image": "vayuda_turquoise_sliver.png"
+              "name": "Vayuda Turquoise Sliver"
             },
             {
-              "quantity": 3,
-              "materialType": "local",
-              "image": "cecilia.png"
+              "name": "Cecilia"
             },
             {
-              "quantity": 3,
-              "materialType": "common",
-              "image": "slime_condensate.png"
-            },
-            {
-              "quantity": 20000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Slime Condensate"
             }
           ]
         },
         {
-          "rank": 2,
-          "level": 40,
           "materials": [
             {
-              "quantity": 3,
-              "materialType": "jewels",
-              "image": "vayuda_turquoise_fragment.png"
+              "name": "vayuda turquoise Fragment"
             },
             {
-              "quantity": 2,
-              "materialType": "elemental",
-              "image": "hurricane_seed.png"
+              "name": "Hurricane Seed"
             },
             {
-              "quantity": 10,
-              "materialType": "local",
-              "image": "cecilia.png"
+              "name": "Cecilia"
             },
             {
-              "quantity": 15,
-              "materialType": "common",
-              "image": "slime_condensate.png"
-            },
-            {
-              "quantity": 40000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Slime Condensate"
             }
           ]
         },
         {
-          "rank": 3,
-          "level": 50,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "vayuda_turquoise_fragment.png"
+              "name": "vayuda turquoise Fragment"
             },
             {
-              "quantity": 4,
-              "materialType": "elemental",
-              "image": "hurricane_seed.png"
+              "name": "Hurricane Seed"
             },
             {
-              "quantity": 20,
-              "materialType": "local",
-              "image": "cecilia.png"
+              "name": "Cecilia"
             },
             {
-              "quantity": 12,
-              "materialType": "common",
-              "image": "slime_secretions.png"
-            },
-            {
-              "quantity": 60000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Slime Secretions"
             }
           ]
         },
         {
-          "rank": 4,
-          "level": 60,
           "materials": [
             {
-              "quantity": 3,
-              "materialType": "jewels",
-              "image": "vayuda_turquoise_chunk.png"
+              "name": "Vayuda Turquoise Chunk"
             },
             {
-              "quantity": 8,
-              "materialType": "elemental",
-              "image": "hurricane_seed.png"
+              "name": "Hurricane Seed"
             },
             {
-              "quantity": 30,
-              "materialType": "local",
-              "image": "cecilia.png"
+              "name": "Cecilia"
             },
             {
-              "quantity": 18,
-              "materialType": "common",
-              "image": "slime_secretions.png"
-            },
-            {
-              "quantity": 80000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Slime Secretions"
             }
           ]
         },
         {
-          "rank": 5,
-          "level": 70,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "vayuda_turquoise_chunk.png"
+              "name": "Vayuda Turquoise Chunk"
             },
             {
-              "quantity": 12,
-              "materialType": "elemental",
-              "image": "hurricane_seed.png"
+              "name": "Hurricane Seed"
             },
             {
-              "quantity": 45,
-              "materialType": "local",
-              "image": "cecilia.png"
+              "name": "Cecilia"
             },
             {
-              "quantity": 12,
-              "materialType": "common",
-              "image": "slime_concentrate.png"
-            },
-            {
-              "quantity": 100000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Slime Concentrate"
             }
           ]
         },
         {
-          "rank": 6,
-          "level": 80,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "vayuda_turquoise_gemstone.png"
+              "name": "Vayuda Turquoise Gemstone"
             },
             {
-              "quantity": 20,
-              "materialType": "elemental",
-              "image": "hurricane_seed.png"
+              "name": "Hurricane Seed"
             },
             {
-              "quantity": 60,
-              "materialType": "local",
-              "image": "cecilia.png"
+              "name": "Cecilia"
             },
             {
-              "quantity": 24,
-              "materialType": "common",
-              "image": "slime_concentrate.png"
-            },
-            {
-              "quantity": 120000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Slime Concentrate"
             }
           ]
         }
@@ -5281,179 +2851,93 @@
         {
           "materials": [
             {
-              "quantity": 1,
-              "materialType": "jewels",
-              "image": "agnidus_agate_sliver.png"
+              "name": "Agnidus Agate Sliver"
             },
             {
-              "quantity": 3,
-              "materialType": "local",
-              "image": "jueyun_chili.png"
+              "name": "Jueyun Chili"
             },
             {
-              "quantity": 3,
-              "materialType": "common",
-              "image": "slime_condensate.png"
-            },
-            {
-              "quantity": 20000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Slime Condensate"
             }
           ]
         },
         {
-          "rank": 2,
-          "level": 40,
           "materials": [
             {
-              "quantity": 3,
-              "materialType": "jewels",
-              "image": "agnidus_agate_fragment.png"
+              "name": "Agnidus Agate Fragment"
             },
             {
-              "quantity": 2,
-              "materialType": "elemental",
-              "image": "everflame_seed.png"
+              "name": "Everflame Seed"
             },
             {
-              "quantity": 10,
-              "materialType": "local",
-              "image": "jueyun_chili.png"
+              "name": "Jueyun Chili"
             },
             {
-              "quantity": 15,
-              "materialType": "common",
-              "image": "slime_condensate.png"
-            },
-            {
-              "quantity": 40000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Slime Condensate"
             }
           ]
         },
         {
-          "rank": 3,
-          "level": 50,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "agnidus_agate_fragment.png"
+              "name": "Agnidus Agate Fragment"
             },
             {
-              "quantity": 4,
-              "materialType": "elemental",
-              "image": "everflame_seed.png"
+              "name": "Everflame Seed"
             },
             {
-              "quantity": 20,
-              "materialType": "local",
-              "image": "jueyun_chili.png"
+              "name": "Jueyun Chili"
             },
             {
-              "quantity": 12,
-              "materialType": "common",
-              "image": "slime_secretions.png"
-            },
-            {
-              "quantity": 60000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Slime Secretions"
             }
           ]
         },
         {
-          "rank": 4,
-          "level": 60,
           "materials": [
             {
-              "quantity": 3,
-              "materialType": "jewels",
-              "image": "agnidus_agate_chunk.png"
+              "name": "Agnidus Agate Chunk"
             },
             {
-              "quantity": 8,
-              "materialType": "elemental",
-              "image": "everflame_seed.png"
+              "name": "Everflame Seed"
             },
             {
-              "quantity": 30,
-              "materialType": "local",
-              "image": "jueyun_chili.png"
+              "name": "Jueyun Chili"
             },
             {
-              "quantity": 18,
-              "materialType": "common",
-              "image": "slime_secretions.png"
-            },
-            {
-              "quantity": 80000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Slime Secretions"
             }
           ]
         },
         {
-          "rank": 5,
-          "level": 70,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "agnidus_agate_chunk.png"
+              "name": "Agnidus Agate Chunk"
             },
             {
-              "quantity": 12,
-              "materialType": "elemental",
-              "image": "everflame_seed.png"
+              "name": "Everflame Seed"
             },
             {
-              "quantity": 45,
-              "materialType": "local",
-              "image": "jueyun_chili.png"
+              "name": "Jueyun Chili"
             },
             {
-              "quantity": 12,
-              "materialType": "common",
-              "image": "slime_concentrate.png"
-            },
-            {
-              "quantity": 100000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Slime Concentrate"
             }
           ]
         },
         {
-          "rank": 6,
-          "level": 80,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "agnidus_agate_gemstone.png"
+              "name": "Agnidus Agate Gemstone"
             },
             {
-              "quantity": 20,
-              "materialType": "elemental",
-              "image": "everflame_seed.png"
+              "name": "Everflame Seed"
             },
             {
-              "quantity": 60,
-              "materialType": "local",
-              "image": "jueyun_chili.png"
+              "name": "Jueyun Chili"
             },
             {
-              "quantity": 24,
-              "materialType": "common",
-              "image": "slime_concentrate.png"
-            },
-            {
-              "quantity": 120000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Slime Concentrate"
             }
           ]
         }
@@ -5477,179 +2961,93 @@
         {
           "materials": [
             {
-              "quantity": 1,
-              "materialType": "jewels",
-              "image": "vayuda_turquoise_sliver.png"
+              "name": "Vayuda Turquoise Sliver"
             },
             {
-              "quantity": 3,
-              "materialType": "local",
-              "image": "qingxin.png"
+              "name": "Qingxin"
             },
             {
-              "quantity": 3,
-              "materialType": "common",
-              "image": "slime_condensate.png"
-            },
-            {
-              "quantity": 20000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Slime Condensate"
             }
           ]
         },
         {
-          "rank": 2,
-          "level": 40,
           "materials": [
             {
-              "quantity": 3,
-              "materialType": "jewels",
-              "image": "vayuda_turquoise_fragment.png"
+              "name": "vayuda turquoise Fragment"
             },
             {
-              "quantity": 2,
-              "materialType": "elemental",
-              "image": "hurricane_seed.png"
+              "name": "Hurricane Seed"
             },
             {
-              "quantity": 10,
-              "materialType": "local",
-              "image": "qingxin.png"
+              "name": "Qingxin"
             },
             {
-              "quantity": 15,
-              "materialType": "common",
-              "image": "slime_condensate.png"
-            },
-            {
-              "quantity": 40000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Slime Condensate"
             }
           ]
         },
         {
-          "rank": 3,
-          "level": 50,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "vayuda_turquoise_fragment.png"
+              "name": "vayuda turquoise Fragment"
             },
             {
-              "quantity": 4,
-              "materialType": "elemental",
-              "image": "hurricane_seed.png"
+              "name": "Hurricane Seed"
             },
             {
-              "quantity": 20,
-              "materialType": "local",
-              "image": "qingxin.png"
+              "name": "Qingxin"
             },
             {
-              "quantity": 12,
-              "materialType": "common",
-              "image": "slime_secretions.png"
-            },
-            {
-              "quantity": 60000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Slime Secretions"
             }
           ]
         },
         {
-          "rank": 4,
-          "level": 60,
           "materials": [
             {
-              "quantity": 3,
-              "materialType": "jewels",
-              "image": "vayuda_turquoise_chunk.png"
+              "name": "Vayuda Turquoise Chunk"
             },
             {
-              "quantity": 8,
-              "materialType": "elemental",
-              "image": "hurricane_seed.png"
+              "name": "Hurricane Seed"
             },
             {
-              "quantity": 30,
-              "materialType": "local",
-              "image": "qingxin.png"
+              "name": "Qingxin"
             },
             {
-              "quantity": 18,
-              "materialType": "common",
-              "image": "slime_secretions.png"
-            },
-            {
-              "quantity": 80000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Slime Secretions"
             }
           ]
         },
         {
-          "rank": 5,
-          "level": 70,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "vayuda_turquoise_chunk.png"
+              "name": "Vayuda Turquoise Chunk"
             },
             {
-              "quantity": 12,
-              "materialType": "elemental",
-              "image": "hurricane_seed.png"
+              "name": "Hurricane Seed"
             },
             {
-              "quantity": 45,
-              "materialType": "local",
-              "image": "qingxin.png"
+              "name": "Qingxin"
             },
             {
-              "quantity": 12,
-              "materialType": "common",
-              "image": "slime_concentrate.png"
-            },
-            {
-              "quantity": 100000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Slime Concentrate"
             }
           ]
         },
         {
-          "rank": 6,
-          "level": 80,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "vayuda_turquoise_gemstone.png"
+              "name": "Vayuda Turquoise Gemstone"
             },
             {
-              "quantity": 20,
-              "materialType": "elemental",
-              "image": "hurricane_seed.png"
+              "name": "Hurricane Seed"
             },
             {
-              "quantity": 60,
-              "materialType": "local",
-              "image": "qingxin.png"
+              "name": "Qingxin"
             },
             {
-              "quantity": 24,
-              "materialType": "common",
-              "image": "slime_concentrate.png"
-            },
-            {
-              "quantity": 120000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Slime Concentrate"
             }
           ]
         }
@@ -5674,179 +3072,93 @@
         {
           "materials": [
             {
-              "quantity": 1,
-              "materialType": "jewels",
-              "image": "varunada_lazurite_sliver.png"
+              "name": "Varunada Lazurite sliver"
             },
             {
-              "quantity": 3,
-              "materialType": "local",
-              "image": "silk_flower.png"
+              "name": "Silk Flower"
             },
             {
-              "quantity": 3,
-              "materialType": "common",
-              "image": "damaged_mask.png"
-            },
-            {
-              "quantity": 20000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Damaged Mask"
             }
           ]
         },
         {
-          "rank": 2,
-          "level": 40,
           "materials": [
             {
-              "quantity": 3,
-              "materialType": "jewels",
-              "image": "varunada_lazurite_fragment.png"
+              "name": "Varunada Lazurite Fragment"
             },
             {
-              "quantity": 2,
-              "materialType": "elemental",
-              "image": "cleansing_heart.png"
+              "name": "Cleansing Heart"
             },
             {
-              "quantity": 10,
-              "materialType": "local",
-              "image": "silk_flower.png"
+              "name": "Silk Flower"
             },
             {
-              "quantity": 15,
-              "materialType": "common",
-              "image": "damaged_mask.png"
-            },
-            {
-              "quantity": 40000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Damaged Mask"
             }
           ]
         },
         {
-          "rank": 3,
-          "level": 50,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "varunada_lazurite_fragment.png"
+              "name": "Varunada Lazurite Fragment"
             },
             {
-              "quantity": 4,
-              "materialType": "elemental",
-              "image": "cleansing_heart.png"
+              "name": "Cleansing Heart"
             },
             {
-              "quantity": 20,
-              "materialType": "local",
-              "image": "silk_flower.png"
+              "name": "Silk Flower"
             },
             {
-              "quantity": 12,
-              "materialType": "common",
-              "image": "stained_mask.png"
-            },
-            {
-              "quantity": 60000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Stained Mask"
             }
           ]
         },
         {
-          "rank": 4,
-          "level": 60,
           "materials": [
             {
-              "quantity": 3,
-              "materialType": "jewels",
-              "image": "varunada_lazurite_chunk.png"
+              "name": "Varunada Lazurite Chunk"
             },
             {
-              "quantity": 8,
-              "materialType": "elemental",
-              "image": "cleansing_heart.png"
+              "name": "Cleansing Heart"
             },
             {
-              "quantity": 30,
-              "materialType": "local",
-              "image": "silk_flower.png"
+              "name": "Silk Flower"
             },
             {
-              "quantity": 18,
-              "materialType": "common",
-              "image": "stained_mask.png"
-            },
-            {
-              "quantity": 80000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Stained Mask"
             }
           ]
         },
         {
-          "rank": 5,
-          "level": 70,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "varunada_lazurite_chunk.png"
+              "name": "Varunada Lazurite Chunk"
             },
             {
-              "quantity": 12,
-              "materialType": "elemental",
-              "image": "cleansing_heart.png"
+              "name": "Cleansing Heart"
             },
             {
-              "quantity": 45,
-              "materialType": "local",
-              "image": "silk_flower.png"
+              "name": "Silk Flower"
             },
             {
-              "quantity": 12,
-              "materialType": "common",
-              "image": "ominous_mask.png"
-            },
-            {
-              "quantity": 100000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Ominous Mask"
             }
           ]
         },
         {
-          "rank": 6,
-          "level": 80,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "varunada_lazurite_gemstone.png"
+              "name": "Varunada Lazurite Gemstone"
             },
             {
-              "quantity": 20,
-              "materialType": "elemental",
-              "image": "cleansing_heart.png"
+              "name": "Cleansing Heart"
             },
             {
-              "quantity": 60,
-              "materialType": "local",
-              "image": "silk_flower.png"
+              "name": "Silk Flower"
             },
             {
-              "quantity": 24,
-              "materialType": "common",
-              "image": "ominous_mask.png"
-            },
-            {
-              "quantity": 120000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Ominous Mask"
             }
           ]
         }
@@ -5870,179 +3182,93 @@
         {
           "materials": [
             {
-              "quantity": 1,
-              "materialType": "jewels",
-              "image": "agnidus_agate_sliver.png"
+              "name": "Agnidus Agate Sliver"
             },
             {
-              "quantity": 3,
-              "materialType": "local",
-              "image": "violetgrass.png"
+              "name": "Violetgrass"
             },
             {
-              "quantity": 3,
-              "materialType": "common",
-              "image": "treasure_hoarder_insignia.png"
-            },
-            {
-              "quantity": 20000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Treasure Hoarder Insignia"
             }
           ]
         },
         {
-          "rank": 2,
-          "level": 40,
           "materials": [
             {
-              "quantity": 3,
-              "materialType": "jewels",
-              "image": "agnidus_agate_fragment.png"
+              "name": "Agnidus Agate Fragment"
             },
             {
-              "quantity": 2,
-              "materialType": "elemental",
-              "image": "everflame_seed.png"
+              "name": "Everflame Seed"
             },
             {
-              "quantity": 10,
-              "materialType": "local",
-              "image": "violetgrass.png"
+              "name": "Violetgrass"
             },
             {
-              "quantity": 15,
-              "materialType": "common",
-              "image": "treasure_hoarder_insignia.png"
-            },
-            {
-              "quantity": 40000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Treasure Hoarder Insignia"
             }
           ]
         },
         {
-          "rank": 3,
-          "level": 50,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "agnidus_agate_fragment.png"
+              "name": "Agnidus Agate Fragment"
             },
             {
-              "quantity": 4,
-              "materialType": "elemental",
-              "image": "everflame_seed.png"
+              "name": "Everflame Seed"
             },
             {
-              "quantity": 20,
-              "materialType": "local",
-              "image": "violetgrass.png"
+              "name": "Violetgrass"
             },
             {
-              "quantity": 12,
-              "materialType": "common",
-              "image": "silver_raven_insignia.png"
-            },
-            {
-              "quantity": 60000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Silver Raven Insignia"
             }
           ]
         },
         {
-          "rank": 4,
-          "level": 60,
           "materials": [
             {
-              "quantity": 3,
-              "materialType": "jewels",
-              "image": "agnidus_agate_chunk.png"
+              "name": "Agnidus Agate Chunk"
             },
             {
-              "quantity": 8,
-              "materialType": "elemental",
-              "image": "everflame_seed.png"
+              "name": "Everflame Seed"
             },
             {
-              "quantity": 30,
-              "materialType": "local",
-              "image": "violetgrass.png"
+              "name": "Violetgrass"
             },
             {
-              "quantity": 18,
-              "materialType": "common",
-              "image": "silver_raven_insignia.png"
-            },
-            {
-              "quantity": 80000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Silver Raven Insignia"
             }
           ]
         },
         {
-          "rank": 5,
-          "level": 70,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "agnidus_agate_chunk.png"
+              "name": "Agnidus Agate Chunk"
             },
             {
-              "quantity": 12,
-              "materialType": "elemental",
-              "image": "everflame_seed.png"
+              "name": "Everflame Seed"
             },
             {
-              "quantity": 45,
-              "materialType": "local",
-              "image": "violetgrass.png"
+              "name": "Violetgrass"
             },
             {
-              "quantity": 12,
-              "materialType": "common",
-              "image": "golden_raven_insignia.png"
-            },
-            {
-              "quantity": 100000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "GoldenRaven Insignia"
             }
           ]
         },
         {
-          "rank": 6,
-          "level": 80,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "agnidus_agate_gemstone.png"
+              "name": "Agnidus Agate Gemstone"
             },
             {
-              "quantity": 20,
-              "materialType": "elemental",
-              "image": "everflame_seed.png"
+              "name": "Everflame Seed"
             },
             {
-              "quantity": 60,
-              "materialType": "local",
-              "image": "violetgrass.png"
+              "name": "Violetgrass"
             },
             {
-              "quantity": 24,
-              "materialType": "common",
-              "image": "golden_raven_insignia.png"
-            },
-            {
-              "quantity": 120000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "GoldenRaven Insignia"
             }
           ]
         }
@@ -6066,179 +3292,93 @@
         {
           "materials": [
             {
-              "quantity": 1,
-              "materialType": "jewels",
-              "image": "prithiva_topaz_sliver.png"
+              "name": "Prithiva Topaz Sliver"
             },
             {
-              "quantity": 3,
-              "materialType": "local",
-              "image": "cor_lapis.png"
+              "name": "Cor Lapis"
             },
             {
-              "quantity": 3,
-              "materialType": "common",
-              "image": "slime_condensate.png"
-            },
-            {
-              "quantity": 20000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Slime Condensate"
             }
           ]
         },
         {
-          "rank": 2,
-          "level": 40,
           "materials": [
             {
-              "quantity": 3,
-              "materialType": "jewels",
-              "image": "prithiva_topaz_fragment.png"
+              "name": "Prithiva Topaz Fragment"
             },
             {
-              "quantity": 2,
-              "materialType": "elemental",
-              "image": "basalt_pillar.png"
+              "name": "Basalt Pillar"
             },
             {
-              "quantity": 10,
-              "materialType": "local",
-              "image": "cor_lapis.png"
+              "name": "Cor Lapis"
             },
             {
-              "quantity": 15,
-              "materialType": "common",
-              "image": "slime_condensate.png"
-            },
-            {
-              "quantity": 40000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Slime Condensate"
             }
           ]
         },
         {
-          "rank": 3,
-          "level": 50,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "prithiva_topaz_fragment.png"
+              "name": "Prithiva Topaz Fragment"
             },
             {
-              "quantity": 4,
-              "materialType": "elemental",
-              "image": "basalt_pillar.png"
+              "name": "Basalt Pillar"
             },
             {
-              "quantity": 20,
-              "materialType": "local",
-              "image": "cor_lapis.png"
+              "name": "Cor Lapis"
             },
             {
-              "quantity": 12,
-              "materialType": "common",
-              "image": "slime_secretions.png"
-            },
-            {
-              "quantity": 60000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Slime Secretions"
             }
           ]
         },
         {
-          "rank": 4,
-          "level": 60,
           "materials": [
             {
-              "quantity": 3,
-              "materialType": "jewels",
-              "image": "prithiva_topaz_chunk.png"
+              "name": "Prithiva Topaz Chunk"
             },
             {
-              "quantity": 8,
-              "materialType": "elemental",
-              "image": "basalt_pillar.png"
+              "name": "Basalt Pillar"
             },
             {
-              "quantity": 30,
-              "materialType": "local",
-              "image": "cor_lapis.png"
+              "name": "Cor Lapis"
             },
             {
-              "quantity": 18,
-              "materialType": "common",
-              "image": "slime_secretions.png"
-            },
-            {
-              "quantity": 80000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Slime Secretions"
             }
           ]
         },
         {
-          "rank": 5,
-          "level": 70,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "prithiva_topaz_chunk.png"
+              "name": "Prithiva Topaz Chunk"
             },
             {
-              "quantity": 12,
-              "materialType": "elemental",
-              "image": "basalt_pillar.png"
+              "name": "Basalt Pillar"
             },
             {
-              "quantity": 45,
-              "materialType": "local",
-              "image": "cor_lapis.png"
+              "name": "Cor Lapis"
             },
             {
-              "quantity": 12,
-              "materialType": "common",
-              "image": "slime_concentrate.png"
-            },
-            {
-              "quantity": 100000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Slime Concentrate"
             }
           ]
         },
         {
-          "rank": 6,
-          "level": 80,
           "materials": [
             {
-              "quantity": 6,
-              "materialType": "jewels",
-              "image": "prithiva_topaz_gemstone.png"
+              "name": "Prithiva Topaz Gemstone"
             },
             {
-              "quantity": 20,
-              "materialType": "elemental",
-              "image": "basalt_pillar.png"
+              "name": "Basalt Pillar"
             },
             {
-              "quantity": 60,
-              "materialType": "local",
-              "image": "cor_lapis.png"
+              "name": "Cor Lapis"
             },
             {
-              "quantity": 24,
-              "materialType": "common",
-              "image": "slime_concentrate.png"
-            },
-            {
-              "quantity": 120000,
-              "materialType": "currency",
-              "image": "mora.png"
+              "name": "Slime Concentrate"
             }
           ]
         }
