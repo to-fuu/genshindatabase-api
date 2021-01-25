@@ -2,11 +2,11 @@ const express = require("express");
 const app = express();
 const path = require("path");
 
-const charData = require("./characters.json");
-const artifactData = require("./artifacts.json");
-const materialData = require("./materials.json");
-const weaponData = require("./weapons.json");
-const constellations = require("./Constellations.json");
+const charData = require("./data/characters.json");
+const artifactData = require("./data/artifacts.json");
+const materialData = require("./data/materials.json");
+const weaponData = require("./data/weapons.json");
+const constellations = require("./data/Constellations.json");
 
 let port = process.env.PORT || 3000;
 

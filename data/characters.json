@@ -1,0 +1,3418 @@
+{
+  "characters": [
+    {
+      "name": "Albedo",
+      "title": "Kreideprinz",
+      "description": "A genius known as the Kreideprinz, he is the Chief Alchemist and Captain of the Investigation Team of the Knights of Favonius.",
+      "rarity": 5,
+      "weaponType": "sword",
+      "elementType": "geo",
+      "isComingSoon": false,
+      "isNew": false,
+      "isFemale": false,
+      "region": "Mondstadt",
+      "role": "Support DPS",
+      "birthday": "September 13th",
+      "affiliation": "Knights of Favonius",
+      "constellation": "Princeps Cretaceus",
+      "ascensionMaterials": [
+        {
+          "materials": [
+            {
+              "name": "Prithiva Topaz Sliver"
+            },
+            {
+              "name": "Cecilia"
+            },
+            {
+              "name": "Divining Scroll"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Prithiva Topaz Fragment"
+            },
+            {
+              "name": "Basalt Pillar"
+            },
+            {
+              "name": "Cecilia"
+            },
+            {
+              "name": "Divining Scroll"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Prithiva Topaz Fragment"
+            },
+            {
+              "name": "Basalt Pillar"
+            },
+            {
+              "name": "Cecilia"
+            },
+            {
+              "name": "Sealed Scroll"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Prithiva Topaz Chunk"
+            },
+            {
+              "name": "Basalt Pillar"
+            },
+            {
+              "name": "Cecilia"
+            },
+            {
+              "name": "Sealed Scroll"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Prithiva Topaz Chunk"
+            },
+            {
+              "name": "Basalt Pillar"
+            },
+            {
+              "name": "Cecilia"
+            },
+            {
+              "name": "Forbidden Curse Scroll"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Prithiva Topaz Gemstone"
+            },
+            {
+              "name": "Basalt Pillar"
+            },
+            {
+              "name": "Cecilia"
+            },
+            {
+              "name": "Forbidden Curse Scroll"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Amber",
+      "title": "Outrider",
+      "description": "Always energetic and full of life, Amber’s the best - albeit only - Outrider of the Knights of Favonius.",
+      "rarity": 4,
+      "weaponType": "bow",
+      "elementType": "pyro",
+      "isComingSoon": false,
+      "isNew": false,
+      "isFemale": true,
+      "region": "Mondstadt",
+      "role": "Support DPS",
+      "birthday": "August 10th",
+      "affiliation": "Knights of Favonius",
+      "constellation": "Lepus",
+      "ascensionMaterials": [
+        {
+          "materials": [
+            {
+              "name": "Agnidus Agate Sliver"
+            },
+            {
+              "name": "Small Lamp Grass"
+            },
+            {
+              "name": "Firm Arrowhead"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Agnidus Agate Fragment"
+            },
+            {
+              "name": "Everflame Seed"
+            },
+            {
+              "name": "Small Lamp Grass"
+            },
+            {
+              "name": "Firm Arrowhead"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Agnidus Agate Fragment"
+            },
+            {
+              "name": "Everflame Seed"
+            },
+            {
+              "name": "Small Lamp Grass"
+            },
+            {
+              "name": "Sharp Arrowhead"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Agnidus Agate Chunk"
+            },
+            {
+              "name": "Everflame Seed"
+            },
+            {
+              "name": "Small Lamp Grass"
+            },
+            {
+              "name": "Sharp Arrowhead"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Agnidus Agate Chunk"
+            },
+            {
+              "name": "Everflame Seed"
+            },
+            {
+              "name": "Small Lamp Grass"
+            },
+            {
+              "name": "Weathered Arrowhea"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Agnidus Agate Gemstone"
+            },
+            {
+              "name": "Everflame Seed"
+            },
+            {
+              "name": "Small Lamp Grass"
+            },
+            {
+              "name": "Weathered Arrowhea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ayaka",
+      "title": "unknown",
+      "description": "The secretary at Yuehai Pavilion. The blood of the qilin, an illuminated beast, flows within her veins.",
+      "rarity": 5,
+      "weaponType": "sword",
+      "elementType": "cryo",
+      "isComingSoon": true,
+      "isNew": false,
+      "isFemale": true,
+      "region": "inazuma",
+      "role": "Main DPS",
+      "birthday": "",
+      "affiliation": "NA",
+      "ascensionMaterials": [
+        {
+          "materials": [
+            {
+              "name": "Shivada Jade sliver"
+            },
+            {
+              "name": "Small Lamp Grass"
+            },
+            {
+              "name": "Divining Scroll"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Shivada Jade Fragment"
+            },
+            {
+              "name": "Hoarfrost Core"
+            },
+            {
+              "name": "Small Lamp Grass"
+            },
+            {
+              "name": "Divining Scroll"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Shivada Jade Fragment"
+            },
+            {
+              "name": "Hoarfrost Core"
+            },
+            {
+              "name": "Small Lamp Grass"
+            },
+            {
+              "name": "Sealed Scroll"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Shivada Jade chunk"
+            },
+            {
+              "name": "Hoarfrost Core"
+            },
+            {
+              "name": "Small Lamp Grass"
+            },
+            {
+              "name": "Sealed Scroll"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Shivada Jade chunk"
+            },
+            {
+              "name": "Hoarfrost Core"
+            },
+            {
+              "name": "Small Lamp Grass"
+            },
+            {
+              "name": "Forbidden Curse Scroll"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Shivada Jade gemstone"
+            },
+            {
+              "name": "Hoarfrost Core"
+            },
+            {
+              "name": "Small Lamp Grass"
+            },
+            {
+              "name": "Forbidden Curse Scroll"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Barbara",
+      "title": "Shining Idol",
+      "description": "Every denizen of Mondstadt adores Barbara. However, she learned the word \"idol\" from a magazine.",
+      "rarity": 4,
+      "weaponType": "catalyst",
+      "elementType": "hydro",
+      "isComingSoon": false,
+      "isNew": false,
+      "isFemale": true,
+      "region": "Mondstadt",
+      "role": "Utility",
+      "birthday": "July 5th",
+      "affiliation": "Church of Favonius",
+      "constellation": "Crater",
+      "ascensionMaterials": [
+        {
+          "materials": [
+            {
+              "name": "Varunada Lazurite sliver"
+            },
+            {
+              "name": "Philanemo Mushroom"
+            },
+            {
+              "name": "Divining Scroll"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Varunada Lazurite Fragment"
+            },
+            {
+              "name": "Cleansing Heart"
+            },
+            {
+              "name": "Philanemo Mushroom"
+            },
+            {
+              "name": "Divining Scroll"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Varunada Lazurite Fragment"
+            },
+            {
+              "name": "Cleansing Heart"
+            },
+            {
+              "name": "Philanemo Mushroom"
+            },
+            {
+              "name": "Sealed Scroll"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Varunada Lazurite Chunk"
+            },
+            {
+              "name": "Cleansing Heart"
+            },
+            {
+              "name": "Philanemo Mushroom"
+            },
+            {
+              "name": "Sealed Scroll"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Varunada Lazurite Chunk"
+            },
+            {
+              "name": "Cleansing Heart"
+            },
+            {
+              "name": "Philanemo Mushroom"
+            },
+            {
+              "name": "Forbidden Curse Scroll"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Varunada Lazurite Gemstone"
+            },
+            {
+              "name": "Cleansing Heart"
+            },
+            {
+              "name": "Philanemo Mushroom"
+            },
+            {
+              "name": "Forbidden Curse Scroll"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Beidou",
+      "title": "Uncrowned Lord of Ocean",
+      "description": "Beidou is the leader of the Crux — an armed fleet based in Liyue Harbor. An armed fleet means exactly what it sounds like: a fleet of ships armed to the teeth.",
+      "rarity": 4,
+      "weaponType": "claymore",
+      "elementType": "electro",
+      "isComingSoon": false,
+      "isNew": false,
+      "isFemale": true,
+      "region": "Liyue",
+      "role": "Main DPS",
+      "birthday": "February 14th",
+      "affiliation": "Crux Fleet",
+      "constellation": "Victor Mare",
+      "ascensionMaterials": [
+        {
+          "materials": [
+            {
+              "name": "Vajrada Amethyst Sliver"
+            },
+            {
+              "name": "Noctilous Jade"
+            },
+            {
+              "name": "Treasure Hoarder Insignia"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Vajrada Amethyst Fragment"
+            },
+            {
+              "name": "Lightning Prism"
+            },
+            {
+              "name": "Noctilous Jade"
+            },
+            {
+              "name": "Treasure Hoarder Insignia"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Vajrada Amethyst Fragment"
+            },
+            {
+              "name": "Lightning Prism"
+            },
+            {
+              "name": "Noctilous Jade"
+            },
+            {
+              "name": "Silver Raven Insignia"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Vajrada Amethyst Chunk"
+            },
+            {
+              "name": "Lightning Prism"
+            },
+            {
+              "name": "Noctilous Jade"
+            },
+            {
+              "name": "Silver Raven Insignia"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Vajrada Amethyst Chunk"
+            },
+            {
+              "name": "Lightning Prism"
+            },
+            {
+              "name": "Noctilous Jade"
+            },
+            {
+              "name": "GoldenRaven Insignia"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Vajrada Amethyst Gemstone"
+            },
+            {
+              "name": "Lightning Prism"
+            },
+            {
+              "name": "Noctilous Jade"
+            },
+            {
+              "name": "GoldenRaven Insignia"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bennett",
+      "title": "Trial by Fire",
+      "description": "A righteous and good-natured adventurer from Mondstadt who’s unfortunately extremely unlucky.",
+      "rarity": 4,
+      "weaponType": "sword",
+      "elementType": "pyro",
+      "isComingSoon": false,
+      "isNew": false,
+      "isFemale": false,
+      "region": "Mondstadt",
+      "role": "Utility",
+      "birthday": "February 29th",
+      "affiliation": "Adventurers' Guild",
+      "constellation": "Rota Calamitas",
+      "ascensionMaterials": [
+        {
+          "materials": [
+            {
+              "name": "Agnidus Agate Sliver"
+            },
+            {
+              "name": "Windwheel Aster"
+            },
+            {
+              "name": "Treasure Hoarder Insignia"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Agnidus Agate Fragment"
+            },
+            {
+              "name": "Everflame Seed"
+            },
+            {
+              "name": "Windwheel Aster"
+            },
+            {
+              "name": "Treasure Hoarder Insignia"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Agnidus Agate Fragment"
+            },
+            {
+              "name": "Everflame Seed"
+            },
+            {
+              "name": "Windwheel Aster"
+            },
+            {
+              "name": "Silver Raven Insignia"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Agnidus Agate Chunk"
+            },
+            {
+              "name": "Everflame Seed"
+            },
+            {
+              "name": "Windwheel Aster"
+            },
+            {
+              "name": "Silver Raven Insignia"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Agnidus Agate Chunk"
+            },
+            {
+              "name": "Everflame Seed"
+            },
+            {
+              "name": "Windwheel Aster"
+            },
+            {
+              "name": "GoldenRaven Insignia"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Agnidus Agate Gemstone"
+            },
+            {
+              "name": "Everflame Seed"
+            },
+            {
+              "name": "Windwheel Aster"
+            },
+            {
+              "name": "GoldenRaven Insignia"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chongyun",
+      "title": "Frozen Ardor",
+      "description": "A young exortcist from a family of exorcists. He does everything he can to suppress his pure positive energy.",
+      "rarity": 4,
+      "weaponType": "claymore",
+      "elementType": "cryo",
+      "isComingSoon": false,
+      "isNew": false,
+      "isFemale": false,
+      "region": "Liyue",
+      "role": "Support DPS",
+      "birthday": "September 7th",
+      "affiliation": "NA",
+      "constellation": "Nubis Caesor",
+      "ascensionMaterials": [
+        {
+          "materials": [
+            {
+              "name": "Shivada Jade sliver"
+            },
+
+            {
+              "name": "Cor Lapis"
+            },
+            {
+              "name": "Damaged Mask"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Shivada Jade Fragment"
+            },
+            {
+              "name": "Hoarfrost Core"
+            },
+            {
+              "name": "Cor Lapis"
+            },
+            {
+              "name": "Damaged Mask"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Shivada Jade Fragment"
+            },
+            {
+              "name": "Hoarfrost Core"
+            },
+            {
+              "name": "Cor Lapis"
+            },
+            {
+              "name": "Stained Mask"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Shivada Jade chunk"
+            },
+            {
+              "name": "Hoarfrost Core"
+            },
+            {
+              "name": "Cor Lapis"
+            },
+            {
+              "name": "Stained Mask"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Shivada Jade chunk"
+            },
+            {
+              "name": "Hoarfrost Core"
+            },
+            {
+              "name": "Cor Lapis"
+            },
+            {
+              "name": "Ominous Mask"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Shivada Jade gemstone"
+            },
+            {
+              "name": "Hoarfrost Core"
+            },
+            {
+              "name": "Cor Lapis"
+            },
+            {
+              "name": "Ominous Mask"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diluc",
+      "title": "The Dark Side of Dawn",
+      "description": "The tycoon of a winery empire in Mondstadt, unmatched in every possible way.",
+      "rarity": 5,
+      "weaponType": "claymore",
+      "elementType": "pyro",
+      "isComingSoon": false,
+      "isNew": false,
+      "isFemale": false,
+      "region": "Mondstadt",
+      "role": "Main DPS",
+      "birthday": "April 30th",
+      "affiliation": "Dawn Winery, Knights of Favonius (Formerly)",
+      "constellation": "Noctua",
+      "ascensionMaterials": [
+        {
+          "materials": [
+            {
+              "name": "Agnidus Agate Sliver"
+            },
+            {
+              "name": "Small Lamp Grass"
+            },
+            {
+              "name": "Recruit's Insignia"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Agnidus Agate Fragment"
+            },
+            {
+              "name": "Everflame Seed"
+            },
+            {
+              "name": "Small Lamp Grass"
+            },
+            {
+              "name": "Recruit's Insignia"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Agnidus Agate Fragment"
+            },
+            {
+              "name": "Everflame Seed"
+            },
+            {
+              "name": "Small Lamp Grass"
+            },
+            {
+              "name": "Sergeant's Insignia"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Agnidus Agate Chunk"
+            },
+            {
+              "name": "Everflame Seed"
+            },
+            {
+              "name": "Small Lamp Grass"
+            },
+            {
+              "name": "Sergeant's Insignia"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Agnidus Agate Chunk"
+            },
+            {
+              "name": "Everflame Seed"
+            },
+            {
+              "name": "Small Lamp Grass"
+            },
+            {
+              "name": "Lieutenants Insignia"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Agnidus Agate Gemstone"
+            },
+            {
+              "name": "Everflame Seed"
+            },
+            {
+              "name": "Small Lamp Grass"
+            },
+            {
+              "name": "Lieutenants Insignia"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diona",
+      "title": "Kätzlein Cocktail",
+      "description": "A young lady who has inherited trace amounts of non-human blood. She is the incredible popular bartender of the Cat’s Tail tavern.",
+      "rarity": 4,
+      "weaponType": "bow",
+      "elementType": "cryo",
+      "isComingSoon": false,
+      "isNew": false,
+      "isFemale": true,
+      "region": "Mondstadt",
+      "role": "Utility",
+      "birthday": "January 18th",
+      "affiliation": "Cat's Tail Tavern",
+      "constellation": "Feles",
+      "ascensionMaterials": [
+        {
+          "materials": [
+            {
+              "name": "Shivada Jade sliver"
+            },
+            {
+              "name": "Calla Lily"
+            },
+            {
+              "name": "Firm Arrowhead"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Shivada Jade Fragment"
+            },
+            {
+              "name": "Hoarfrost Core"
+            },
+            {
+              "name": "Calla Lily"
+            },
+            {
+              "name": "Firm Arrowhead"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Shivada Jade Fragment"
+            },
+            {
+              "name": "Hoarfrost Core"
+            },
+            {
+              "name": "Calla Lily"
+            },
+            {
+              "name": "Sharp Arrowhead"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Shivada Jade chunk"
+            },
+            {
+              "name": "Hoarfrost Core"
+            },
+            {
+              "name": "Calla Lily"
+            },
+            {
+              "name": "Sharp Arrowhead"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Shivada Jade chunk"
+            },
+            {
+              "name": "Hoarfrost Core"
+            },
+            {
+              "name": "Calla Lily"
+            },
+            {
+              "name": "Weathered Arrowhea"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Shivada Jade gemstone"
+            },
+            {
+              "name": "Hoarfrost Core"
+            },
+            {
+              "name": "Calla Lily"
+            },
+            {
+              "name": "Weathered Arrowhea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fischl",
+      "title": "Prinzessin der Verurteilung",
+      "description": "A mysterious girl who calls herself \"Prinzessia der Verurteilung\" and travels with a night raven named Oz.",
+      "rarity": 4,
+      "weaponType": "bow",
+      "elementType": "electro",
+      "isComingSoon": false,
+      "isNew": false,
+      "isFemale": true,
+      "region": "Mondstadt",
+      "role": "Support DPS",
+      "birthday": "May 27th",
+      "affiliation": "Adventurers' Guild",
+      "constellation": "Corvus",
+      "ascensionMaterials": [
+        {
+          "materials": [
+            {
+              "name": "Vajrada Amethyst Sliver"
+            },
+            {
+              "name": "Small Lamp Grass"
+            },
+            {
+              "name": "Firm Arrowhead"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Vajrada Amethyst Fragment"
+            },
+            {
+              "name": "Lightning Prism"
+            },
+            {
+              "name": "Small Lamp Grass"
+            },
+            {
+              "name": "Firm Arrowhead"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Vajrada Amethyst Fragment"
+            },
+            {
+              "name": "Lightning Prism"
+            },
+            {
+              "name": "Small Lamp Grass"
+            },
+            {
+              "name": "Sharp Arrowhead"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Vajrada Amethyst Chunk"
+            },
+            {
+              "name": "Lightning Prism"
+            },
+            {
+              "name": "Small Lamp Grass"
+            },
+            {
+              "name": "Sharp Arrowhead"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Vajrada Amethyst Chunk"
+            },
+            {
+              "name": "Lightning Prism"
+            },
+            {
+              "name": "Small Lamp Grass"
+            },
+            {
+              "name": "Weathered Arrowhea"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Vajrada Amethyst Gemstone"
+            },
+            {
+              "name": "Lightning Prism"
+            },
+            {
+              "name": "Small Lamp Grass"
+            },
+            {
+              "name": "Weathered Arrowhea"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ganyu",
+      "title": "Plenilune Gaze",
+      "description": "The secretary at Yuehai Pavilion. The blood of the qilin, an illuminated beast, flows within her veins.",
+      "rarity": 5,
+      "weaponType": "bow",
+      "elementType": "cryo",
+      "isComingSoon": false,
+      "isNew": true,
+      "isFemale": true,
+      "region": "Liyue",
+      "role": "Main/Support DPS",
+      "featured": true,
+      "birthday": "December 2nd",
+      "affiliation": "Yuehai Pavilion",
+      "constellation": "Sinae Unicornis",
+      "ascensionMaterials": [
+        {
+          "materials": [
+            {
+              "name": "Shivada Jade sliver"
+            },
+            {
+              "name": "Qingxin"
+            },
+            {
+              "name": "Whopperflower Nectar"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Shivada Jade Fragment"
+            },
+            {
+              "name": "Hoarfrost Core"
+            },
+            {
+              "name": "Qingxin"
+            },
+            {
+              "name": "Whopperflower Nectar"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Shivada Jade Fragment"
+            },
+            {
+              "name": "Hoarfrost Core"
+            },
+            {
+              "name": "Qingxin"
+            },
+            {
+              "name": "Shimmering Nectar"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Shivada Jade chunk"
+            },
+            {
+              "name": "Hoarfrost Core"
+            },
+            {
+              "name": "Qingxin"
+            },
+            {
+              "name": "Shimmering Nectar"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Shivada Jade chunk"
+            },
+            {
+              "name": "Hoarfrost Core"
+            },
+            {
+              "name": "Qingxin"
+            },
+            {
+              "name": "Energy Nectar"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Shivada Jade gemstone"
+            },
+            {
+              "name": "Hoarfrost Core"
+            },
+            {
+              "name": "Qingxin"
+            },
+            {
+              "name": "Energy Nectar"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Jean",
+      "title": "Acting Grand Master",
+      "description": "The righteous and rigorous Dandelion Knight, and Acting Grand Master of the Knights of Favonius in Mondstadt.",
+      "rarity": 5,
+      "weaponType": "sword",
+      "elementType": "anemo",
+      "isComingSoon": false,
+      "isNew": false,
+      "isFemale": true,
+      "region": "Mondstadt",
+      "role": "Utility",
+      "birthday": "March 14th",
+      "affiliation": "Knights of Favonius, Four Winds",
+      "constellation": "Leo Minor",
+      "ascensionMaterials": [
+        {
+          "materials": [
+            {
+              "name": "Vayuda Turquoise Sliver"
+            },
+            {
+              "name": "Dandelion Seed"
+            },
+            {
+              "name": "Damaged Mask"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "vayuda turquoise Fragment"
+            },
+            {
+              "name": "Hurricane Seed"
+            },
+            {
+              "name": "Dandelion Seed"
+            },
+            {
+              "name": "Damaged Mask"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "vayuda turquoise Fragment"
+            },
+            {
+              "name": "Hurricane Seed"
+            },
+            {
+              "name": "Dandelion Seed"
+            },
+            {
+              "name": "Stained Mask"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Vayuda Turquoise Chunk"
+            },
+            {
+              "name": "Hurricane Seed"
+            },
+            {
+              "name": "Dandelion Seed"
+            },
+            {
+              "name": "Stained Mask"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Vayuda Turquoise Chunk"
+            },
+            {
+              "name": "Hurricane Seed"
+            },
+            {
+              "name": "Dandelion Seed"
+            },
+            {
+              "name": "Ominous Mask"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Vayuda Turquoise Gemstone"
+            },
+            {
+              "name": "Hurricane Seed"
+            },
+            {
+              "name": "Dandelion Seed"
+            },
+            {
+              "name": "Ominous Mask"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kaeya",
+      "title": "Frostblade",
+      "description": "A thinker in the Knights of Favonius with a somewhat exotic appearance.",
+      "rarity": 4,
+      "weaponType": "sword",
+      "elementType": "cryo",
+      "isComingSoon": false,
+      "isNew": false,
+      "isFemale": false,
+      "region": "Mondstadt",
+      "role": "Support DPS",
+      "birthday": "November 30th",
+      "affiliation": "Knights of Favonius, Khaenri'ah (Formerly)",
+      "constellation": "Pavo Ocellus",
+      "ascensionMaterials": [
+        {
+          "materials": [
+            {
+              "name": "Shivada Jade sliver"
+            },
+            {
+              "name": "Calla Lily"
+            },
+            {
+              "name": "Treasure Hoarder Insignia"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Shivada Jade Fragment"
+            },
+            {
+              "name": "Hoarfrost Core"
+            },
+            {
+              "name": "Calla Lily"
+            },
+            {
+              "name": "Treasure Hoarder Insignia"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Shivada Jade Fragment"
+            },
+            {
+              "name": "Hoarfrost Core"
+            },
+            {
+              "name": "Calla Lily"
+            },
+            {
+              "name": "Silver Raven Insignia"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Shivada Jade chunk"
+            },
+            {
+              "name": "Hoarfrost Core"
+            },
+            {
+              "name": "Calla Lily"
+            },
+            {
+              "name": "Silver Raven Insignia"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Shivada Jade chunk"
+            },
+            {
+              "name": "Hoarfrost Core"
+            },
+            {
+              "name": "Calla Lily"
+            },
+            {
+              "name": "GoldenRaven Insignia"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Shivada Jade gemstone"
+            },
+            {
+              "name": "Hoarfrost Core"
+            },
+            {
+              "name": "Calla Lily"
+            },
+            {
+              "name": "GoldenRaven Insignia"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Keqing",
+      "title": "Driving Thunder",
+      "description": "The Yuheng of the Liyue Qixing. Has much to say about Rex Lapis’ unilateral approach to policymaking in Liyue - but in truth, gods admire skeptics such as her quite a lot.",
+      "rarity": 5,
+      "weaponType": "sword",
+      "elementType": "electro",
+      "isComingSoon": false,
+      "isNew": false,
+      "isFemale": true,
+      "region": "Liyue",
+      "role": "Main DPS",
+      "birthday": "November 20th",
+      "affiliation": "Liyue Qixing",
+      "constellation": "Trulla Cementarii",
+      "ascensionMaterials": [
+        {
+          "materials": [
+            {
+              "name": "Vajrada Amethyst Sliver"
+            },
+            {
+              "name": "Cor Lapis"
+            },
+            {
+              "name": "Whopperflower Nectar"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Vajrada Amethyst Fragment"
+            },
+            {
+              "name": "Lightning Prism"
+            },
+            {
+              "name": "Cor Lapis"
+            },
+            {
+              "name": "Whopperflower Nectar"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Vajrada Amethyst Fragment"
+            },
+            {
+              "name": "Lightning Prism"
+            },
+            {
+              "name": "Cor Lapis"
+            },
+            {
+              "name": "Shimmering Nectar"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Vajrada Amethyst Chunk"
+            },
+            {
+              "name": "Lightning Prism"
+            },
+            {
+              "name": "Cor Lapis"
+            },
+            {
+              "name": "Shimmering Nectar"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Vajrada Amethyst Chunk"
+            },
+            {
+              "name": "Lightning Prism"
+            },
+            {
+              "name": "Cor Lapis"
+            },
+            {
+              "name": "Energy Nectar"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Vajrada Amethyst Gemstone"
+            },
+            {
+              "name": "Lightning Prism"
+            },
+            {
+              "name": "Cor Lapis"
+            },
+            {
+              "name": "Energy Nectar"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Klee",
+      "title": "Fleeing Sunlight",
+      "description": "An explosives expert and a regular at the Knights of Favonius’ confinement room. Also known as Fleeing Sunlight.",
+      "rarity": 5,
+      "weaponType": "catalyst",
+      "elementType": "pyro",
+      "isComingSoon": false,
+      "isNew": false,
+      "isFemale": true,
+      "region": "Mondstadt",
+      "role": "Main DPS",
+      "birthday": "July 27th",
+      "affiliation": "Knights of Favonius",
+      "constellation": "Trifolium",
+      "ascensionMaterials": [
+        {
+          "materials": [
+            {
+              "name": "Agnidus Agate Sliver"
+            },
+            {
+              "name": "Philanemo Mushroom"
+            },
+            {
+              "name": "Divining Scroll"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Agnidus Agate Fragment"
+            },
+            {
+              "name": "Everflame Seed"
+            },
+            {
+              "name": "Philanemo Mushroom"
+            },
+            {
+              "name": "Divining Scroll"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Agnidus Agate Fragment"
+            },
+            {
+              "name": "Everflame Seed"
+            },
+            {
+              "name": "Philanemo Mushroom"
+            },
+            {
+              "name": "Sealed Scroll"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Agnidus Agate Chunk"
+            },
+            {
+              "name": "Everflame Seed"
+            },
+            {
+              "name": "Philanemo Mushroom"
+            },
+            {
+              "name": "Sealed Scroll"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Agnidus Agate Chunk"
+            },
+            {
+              "name": "Everflame Seed"
+            },
+            {
+              "name": "Philanemo Mushroom"
+            },
+            {
+              "name": "Forbidden Curse Scroll"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Agnidus Agate Gemstone"
+            },
+            {
+              "name": "Everflame Seed"
+            },
+            {
+              "name": "Philanemo Mushroom"
+            },
+            {
+              "name": "Forbidden Curse Scroll"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lisa",
+      "title": "Witch of Purple Rose",
+      "description": "The languid but knowledgeable Librarian of the Knights of Favonius who was deemed by Sumeru Academia to be their most distinguised graduate in the past two centuries.",
+      "rarity": 4,
+      "weaponType": "catalyst",
+      "elementType": "electro",
+      "isComingSoon": false,
+      "isNew": false,
+      "isFemale": true,
+      "region": "Mondstadt",
+      "role": "Support DPS",
+      "affiliation": "Knights of Favonius, Sumeru Academia (Formerly)",
+      "constellation": "Tempus Fugit",
+      "ascensionMaterials": [
+        {
+          "materials": [
+            {
+              "name": "Vajrada Amethyst Sliver"
+            },
+            {
+              "name": "Valberry"
+            },
+            {
+              "name": "Slime Condensate"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Vajrada Amethyst Fragment"
+            },
+            {
+              "name": "Lightning Prism"
+            },
+            {
+              "name": "Valberry"
+            },
+            {
+              "name": "Slime Condensate"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Vajrada Amethyst Fragment"
+            },
+            {
+              "name": "Lightning Prism"
+            },
+            {
+              "name": "Valberry"
+            },
+            {
+              "name": "Slime Secretions"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Vajrada Amethyst Chunk"
+            },
+            {
+              "name": "Lightning Prism"
+            },
+            {
+              "name": "Valberry"
+            },
+            {
+              "name": "Slime Secretions"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Vajrada Amethyst Chunk"
+            },
+            {
+              "name": "Lightning Prism"
+            },
+            {
+              "name": "Valberry"
+            },
+            {
+              "name": "Slime Concentrate"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Vajrada Amethyst Gemstone"
+            },
+            {
+              "name": "Lightning Prism"
+            },
+            {
+              "name": "Valberry"
+            },
+            {
+              "name": "Slime Concentrate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mona",
+      "title": "Astral Reflection",
+      "description": "A mysterious young astrologer who proclaims herself to be \"Astrologist Mona Megistus,\" and who possesses abilities to match the title.",
+      "rarity": 5,
+      "weaponType": "catalyst",
+      "elementType": "hydro",
+      "isComingSoon": false,
+      "isNew": false,
+      "isFemale": true,
+      "region": "Mondstadt",
+      "role": "Support DPS",
+      "birthday": "August 31st",
+      "affiliation": "Hexenzirkel",
+      "constellation": "Astrolabos",
+      "ascensionMaterials": [
+        {
+          "materials": [
+            {
+              "name": "Varunada Lazurite sliver"
+            },
+            {
+              "name": "Philanemo Mushroom"
+            },
+            {
+              "name": "Whopperflower Nectar"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Varunada Lazurite Fragment"
+            },
+            {
+              "name": "Cleansing Heart"
+            },
+            {
+              "name": "Philanemo Mushroom"
+            },
+            {
+              "name": "Whopperflower Nectar"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Varunada Lazurite Fragment"
+            },
+            {
+              "name": "Cleansing Heart"
+            },
+            {
+              "name": "Philanemo Mushroom"
+            },
+            {
+              "name": "Shimmering Nectar"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Varunada Lazurite Chunk"
+            },
+            {
+              "name": "Cleansing Heart"
+            },
+            {
+              "name": "Philanemo Mushroom"
+            },
+            {
+              "name": "Shimmering Nectar"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Varunada Lazurite Chunk"
+            },
+            {
+              "name": "Cleansing Heart"
+            },
+            {
+              "name": "Philanemo Mushroom"
+            },
+            {
+              "name": "Energy Nectar"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Varunada Lazurite Gemstone"
+            },
+            {
+              "name": "Cleansing Heart"
+            },
+            {
+              "name": "Philanemo Mushroom"
+            },
+            {
+              "name": "Energy Nectar"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ningguang",
+      "title": "Eclipsing Star",
+      "description": "The Tianquan of Liyue Qixing. Her wealth is unsurpassed in all of Teyvat.",
+      "rarity": 4,
+      "weaponType": "catalyst",
+      "elementType": "geo",
+      "isComingSoon": false,
+      "isNew": false,
+      "isFemale": true,
+      "region": "Liyue",
+      "role": "Main DPS",
+      "birthday": "August 26th",
+      "affiliation": "Liyue Qixing",
+      "constellation": "Opus Aequilibrium",
+      "ascensionMaterials": [
+        {
+          "materials": [
+            {
+              "name": "Prithiva Topaz Sliver"
+            },
+            {
+              "name": "Glaze Lily"
+            },
+            {
+              "name": "Recruit's Insignia"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Prithiva Topaz Fragment"
+            },
+            {
+              "name": "Basalt Pillar"
+            },
+            {
+              "name": "Glaze Lily"
+            },
+            {
+              "name": "Recruit's Insignia"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Prithiva Topaz Fragment"
+            },
+            {
+              "name": "Basalt Pillar"
+            },
+            {
+              "name": "Glaze Lily"
+            },
+            {
+              "name": "Sergeant's Insignia"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Prithiva Topaz Chunk"
+            },
+            {
+              "name": "Basalt Pillar"
+            },
+            {
+              "name": "Glaze Lily"
+            },
+            {
+              "name": "Sergeant's Insignia"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Prithiva Topaz Chunk"
+            },
+            {
+              "name": "Basalt Pillar"
+            },
+            {
+              "name": "Glaze Lily"
+            },
+            {
+              "name": "Lieutenants Insignia"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Prithiva Topaz Gemstone"
+            },
+            {
+              "name": "Basalt Pillar"
+            },
+            {
+              "name": "Glaze Lily"
+            },
+            {
+              "name": "Lieutenants Insignia"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Noelle",
+      "title": "Chivalric Blossom",
+      "description": "A maid in the service of the Knights of Favonius that dreams of joining their ranks someday.",
+      "rarity": 4,
+      "weaponType": "claymore",
+      "elementType": "geo",
+      "isComingSoon": false,
+      "isNew": false,
+      "isFemale": true,
+      "region": "Mondstadt",
+      "role": "Utility",
+      "featured": true,
+      "birthday": "March 21st",
+      "affiliation": "Knights of Favonius",
+      "constellation": "Parma Cordis",
+      "ascensionMaterials": [
+        {
+          "materials": [
+            {
+              "name": "Prithiva Topaz Sliver"
+            },
+            {
+              "name": "Valberry"
+            },
+            {
+              "name": "Damaged Mask"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Prithiva Topaz Fragment"
+            },
+            {
+              "name": "Basalt Pillar"
+            },
+            {
+              "name": "Valberry"
+            },
+            {
+              "name": "Damaged Mask"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Prithiva Topaz Fragment"
+            },
+            {
+              "name": "Basalt Pillar"
+            },
+            {
+              "name": "Valberry"
+            },
+            {
+              "name": "Stained Mask"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Prithiva Topaz Chunk"
+            },
+            {
+              "name": "Basalt Pillar"
+            },
+            {
+              "name": "Valberry"
+            },
+            {
+              "name": "Stained Mask"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Prithiva Topaz Chunk"
+            },
+            {
+              "name": "Basalt Pillar"
+            },
+            {
+              "name": "Valberry"
+            },
+            {
+              "name": "Ominous Mask"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Prithiva Topaz Gemstone"
+            },
+            {
+              "name": "Basalt Pillar"
+            },
+            {
+              "name": "Valberry"
+            },
+            {
+              "name": "Ominous Mask"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Qiqi",
+      "title": "Icy Resurrection",
+      "description": "An apprentice and herb-picker Bubu Pharmacy. An undead with a bone-white complexion, she seldom has much in the way of words or emotion.",
+      "rarity": 5,
+      "weaponType": "sword",
+      "elementType": "cryo",
+      "isComingSoon": false,
+      "isNew": false,
+      "isFemale": true,
+      "region": "Liyue",
+      "role": "Utility",
+      "birthday": "March 3rd",
+      "affiliation": "Bubu Pharmacy",
+      "constellation": "Pristina Nola",
+      "ascensionMaterials": [
+        {
+          "materials": [
+            {
+              "name": "Shivada Jade sliver"
+            },
+            {
+              "name": "Violetgrass"
+            },
+            {
+              "name": "Divining Scroll"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Shivada Jade Fragment"
+            },
+            {
+              "name": "Hoarfrost Core"
+            },
+            {
+              "name": "Violetgrass"
+            },
+            {
+              "name": "Divining Scroll"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Shivada Jade Fragment"
+            },
+            {
+              "name": "Hoarfrost Core"
+            },
+            {
+              "name": "Violetgrass"
+            },
+            {
+              "name": "Sealed Scroll"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Shivada Jade chunk"
+            },
+            {
+              "name": "Hoarfrost Core"
+            },
+            {
+              "name": "Violetgrass"
+            },
+            {
+              "name": "Sealed Scroll"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Shivada Jade chunk"
+            },
+            {
+              "name": "Hoarfrost Core"
+            },
+            {
+              "name": "Violetgrass"
+            },
+            {
+              "name": "Forbidden Curse Scroll"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Shivada Jade gemstone"
+            },
+            {
+              "name": "Hoarfrost Core"
+            },
+            {
+              "name": "Violetgrass"
+            },
+            {
+              "name": "Forbidden Curse Scroll"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Razor",
+      "title": "Legend of Wolvendom",
+      "description": "A boy who lives among the wolves in Wolvendom of Mondstadt, away from human civilization. As agile as lightning.",
+      "rarity": 4,
+      "weaponType": "claymore",
+      "elementType": "electro",
+      "isComingSoon": false,
+      "isNew": false,
+      "isFemale": false,
+      "region": "Mondstadt",
+      "role": "Main DPS",
+      "birthday": "September 9th",
+      "affiliation": "Wolvendom (Andrius)",
+      "constellation": "Lupus Minor",
+      "ascensionMaterials": [
+        {
+          "materials": [
+            {
+              "name": "Vajrada Amethyst Sliver"
+            },
+            {
+              "name": "Wolfhook"
+            },
+            {
+              "name": "Damaged Mask"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Vajrada Amethyst Fragment"
+            },
+            {
+              "name": "Lightning Prism"
+            },
+            {
+              "name": "Wolfhook"
+            },
+            {
+              "name": "Damaged Mask"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Vajrada Amethyst Fragment"
+            },
+            {
+              "name": "Lightning Prism"
+            },
+            {
+              "name": "Wolfhook"
+            },
+            {
+              "name": "Stained Mask"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Vajrada Amethyst Chunk"
+            },
+            {
+              "name": "Lightning Prism"
+            },
+            {
+              "name": "Wolfhook"
+            },
+            {
+              "name": "Stained Mask"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Vajrada Amethyst Chunk"
+            },
+            {
+              "name": "Lightning Prism"
+            },
+            {
+              "name": "Wolfhook"
+            },
+            {
+              "name": "Ominous Mask"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Vajrada Amethyst Gemstone"
+            },
+            {
+              "name": "Lightning Prism"
+            },
+            {
+              "name": "Wolfhook"
+            },
+            {
+              "name": "Ominous Mask"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sucrose",
+      "title": "Harmless Sweetie",
+      "description": "An alchemist filled with curiosity about all things. She researches bio-alchemy.",
+      "rarity": 4,
+      "weaponType": "catalyst",
+      "elementType": "anemo",
+      "isComingSoon": false,
+      "isNew": false,
+      "isFemale": true,
+      "region": "Mondstadt",
+      "role": "Utility",
+      "birthday": "November 26th",
+      "affiliation": "Knights of Favonius",
+      "constellation": "Ampulla",
+      "ascensionMaterials": [
+        {
+          "materials": [
+            {
+              "name": "Vayuda Turquoise Sliver"
+            },
+            {
+              "name": "Windwheel Aster"
+            },
+            {
+              "name": "Whopperflower Nectar"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "vayuda turquoise Fragment"
+            },
+            {
+              "name": "Hurricane Seed"
+            },
+            {
+              "name": "Windwheel Aster"
+            },
+            {
+              "name": "Whopperflower Nectar"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "vayuda turquoise Fragment"
+            },
+            {
+              "name": "Hurricane Seed"
+            },
+            {
+              "name": "Windwheel Aster"
+            },
+            {
+              "name": "Shimmering Nectar"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Vayuda Turquoise Chunk"
+            },
+            {
+              "name": "Hurricane Seed"
+            },
+            {
+              "name": "Windwheel Aster"
+            },
+            {
+              "name": "Shimmering Nectar"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Vayuda Turquoise Chunk"
+            },
+            {
+              "name": "Hurricane Seed"
+            },
+            {
+              "name": "Windwheel Aster"
+            },
+            {
+              "name": "Energy Nectar"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Vayuda Turquoise Gemstone"
+            },
+            {
+              "name": "Hurricane Seed"
+            },
+            {
+              "name": "Windwheel Aster"
+            },
+            {
+              "name": "Energy Nectar"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tartaglia",
+      "title": "Childe",
+      "description": "No. 11 of The Harbingers, also known as \"Childe\". His name is highly feared on the battlefield.",
+      "rarity": 5,
+      "weaponType": "bow",
+      "elementType": "hydro",
+      "isComingSoon": false,
+      "isNew": false,
+      "isFemale": false,
+      "region": "Snezhnaya",
+      "role": "Main DPS",
+      "birthday": "July 20th",
+      "affiliation": "Fatui",
+      "constellation": "Monoceros Caeli",
+      "ascensionMaterials": [
+        {
+          "materials": [
+            {
+              "name": "Varunada Lazurite sliver"
+            },
+            {
+              "name": "Starconch"
+            },
+            {
+              "name": "Recruit's Insignia"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Varunada Lazurite Fragment"
+            },
+            {
+              "name": "Cleansing Heart"
+            },
+            {
+              "name": "Starconch"
+            },
+            {
+              "name": "Recruit's Insignia"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Varunada Lazurite Fragment"
+            },
+            {
+              "name": "Cleansing Heart"
+            },
+            {
+              "name": "Starconch"
+            },
+            {
+              "name": "Sergeant's Insignia"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Varunada Lazurite Chunk"
+            },
+            {
+              "name": "Cleansing Heart"
+            },
+            {
+              "name": "Starconch"
+            },
+            {
+              "name": "Sergeant's Insignia"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Varunada Lazurite Chunk"
+            },
+            {
+              "name": "Cleansing Heart"
+            },
+            {
+              "name": "Starconch"
+            },
+            {
+              "name": "Lieutenants Insignia"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Varunada Lazurite Gemstone"
+            },
+            {
+              "name": "Cleansing Heart"
+            },
+            {
+              "name": "Starconch"
+            },
+            {
+              "name": "Lieutenants Insignia"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "traveler (anemo)",
+      "title": "Outlander",
+      "description": "A traveler from another world who had their only kin taken away, forcing them to embark on a journey to find The Seven.",
+      "rarity": 5,
+      "weaponType": "sword",
+      "elementType": "anemo",
+      "isComingSoon": false,
+      "isNew": false,
+      "isFemale": true,
+      "region": "anotherWorld",
+      "role": "Support DPS",
+      "birthday": "Player's choice",
+      "affiliation": "Knights of Favonius, Adventurers' Guild",
+      "constellation": "Viator/Viatrix",
+      "ascensionMaterials": [
+        {
+          "materials": [
+            {
+              "name": "Brilliant Diamond Sliver"
+            },
+            {
+              "name": "Windwheel Aster"
+            },
+            {
+              "name": "Damaged Mask"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Brilliant Diamond Fragment"
+            },
+            {
+              "name": "Windwheel Aster"
+            },
+            {
+              "name": "Damaged Mask"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Brilliant Diamond Fragment"
+            },
+            {
+              "name": "Windwheel Aster"
+            },
+            {
+              "name": "Stained Mask"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Brilliant Diamond Chunk"
+            },
+            {
+              "name": "Windwheel Aster"
+            },
+            {
+              "name": "Stained Mask"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Brilliant Diamond Chunk"
+            },
+            {
+              "name": "Windwheel Aster"
+            },
+            {
+              "name": "Ominous Mask"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Brilliant Diamond Gemstone"
+            },
+            {
+              "name": "Windwheel Aster"
+            },
+            {
+              "name": "Ominous Mask"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "traveler (geo)",
+      "title": "Outlander",
+      "description": "A traveler from another world who had their only kin taken away, forcing them to embark on a journey to find The Seven.",
+      "rarity": 5,
+      "weaponType": "sword",
+      "elementType": "geo",
+      "isComingSoon": false,
+      "isNew": false,
+      "isFemale": true,
+      "region": "anotherWorld",
+      "role": "Utility",
+      "birthday": "Player's choice",
+      "affiliation": "Knights of Favonius, Adventurers' Guild",
+      "constellation": "Viator/Viatrix",
+      "ascensionMaterials": [
+        {
+          "materials": [
+            {
+              "name": "Brilliant Diamond Sliver"
+            },
+            {
+              "name": "Windwheel Aster"
+            },
+            {
+              "name": "Damaged Mask"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Brilliant Diamond Fragment"
+            },
+            {
+              "name": "Windwheel Aster"
+            },
+            {
+              "name": "Damaged Mask"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Brilliant Diamond Fragment"
+            },
+            {
+              "name": "Windwheel Aster"
+            },
+            {
+              "name": "Stained Mask"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Brilliant Diamond Chunk"
+            },
+            {
+              "name": "Windwheel Aster"
+            },
+            {
+              "name": "Stained Mask"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Brilliant Diamond Chunk"
+            },
+            {
+              "name": "Windwheel Aster"
+            },
+            {
+              "name": "Ominous Mask"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Brilliant Diamond Gemstone"
+            },
+            {
+              "name": "Windwheel Aster"
+            },
+            {
+              "name": "Ominous Mask"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Venti",
+      "title": "Windborne Bard",
+      "description": "One of the many bards of Mondstadt, who freely wanders the city’s streets and alleys.",
+      "rarity": 5,
+      "weaponType": "bow",
+      "elementType": "anemo",
+      "isComingSoon": false,
+      "isNew": false,
+      "isFemale": false,
+      "region": "Mondstadt",
+      "role": "Utility",
+      "birthday": "June 16th",
+      "affiliation": "Archons",
+      "constellation": "Carmen Dei",
+      "ascensionMaterials": [
+        {
+          "materials": [
+            {
+              "name": "Vayuda Turquoise Sliver"
+            },
+            {
+              "name": "Cecilia"
+            },
+            {
+              "name": "Slime Condensate"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "vayuda turquoise Fragment"
+            },
+            {
+              "name": "Hurricane Seed"
+            },
+            {
+              "name": "Cecilia"
+            },
+            {
+              "name": "Slime Condensate"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "vayuda turquoise Fragment"
+            },
+            {
+              "name": "Hurricane Seed"
+            },
+            {
+              "name": "Cecilia"
+            },
+            {
+              "name": "Slime Secretions"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Vayuda Turquoise Chunk"
+            },
+            {
+              "name": "Hurricane Seed"
+            },
+            {
+              "name": "Cecilia"
+            },
+            {
+              "name": "Slime Secretions"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Vayuda Turquoise Chunk"
+            },
+            {
+              "name": "Hurricane Seed"
+            },
+            {
+              "name": "Cecilia"
+            },
+            {
+              "name": "Slime Concentrate"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Vayuda Turquoise Gemstone"
+            },
+            {
+              "name": "Hurricane Seed"
+            },
+            {
+              "name": "Cecilia"
+            },
+            {
+              "name": "Slime Concentrate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Xiangling",
+      "title": "Exquisite Delicacy",
+      "description": "A renowned chef from Liyue. She’s extremely passionate about cooking and excels at making her signature hot and spicy dishes.",
+      "rarity": 4,
+      "weaponType": "polearm",
+      "elementType": "pyro",
+      "isComingSoon": false,
+      "isNew": false,
+      "isFemale": true,
+      "region": "Liyue",
+      "role": "Support DPS",
+      "featured": true,
+      "birthday": "November 2nd",
+      "affiliation": "Wanmin Restaurant",
+      "constellation": "Ladle",
+      "ascensionMaterials": [
+        {
+          "materials": [
+            {
+              "name": "Agnidus Agate Sliver"
+            },
+            {
+              "name": "Jueyun Chili"
+            },
+            {
+              "name": "Slime Condensate"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Agnidus Agate Fragment"
+            },
+            {
+              "name": "Everflame Seed"
+            },
+            {
+              "name": "Jueyun Chili"
+            },
+            {
+              "name": "Slime Condensate"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Agnidus Agate Fragment"
+            },
+            {
+              "name": "Everflame Seed"
+            },
+            {
+              "name": "Jueyun Chili"
+            },
+            {
+              "name": "Slime Secretions"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Agnidus Agate Chunk"
+            },
+            {
+              "name": "Everflame Seed"
+            },
+            {
+              "name": "Jueyun Chili"
+            },
+            {
+              "name": "Slime Secretions"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Agnidus Agate Chunk"
+            },
+            {
+              "name": "Everflame Seed"
+            },
+            {
+              "name": "Jueyun Chili"
+            },
+            {
+              "name": "Slime Concentrate"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Agnidus Agate Gemstone"
+            },
+            {
+              "name": "Everflame Seed"
+            },
+            {
+              "name": "Jueyun Chili"
+            },
+            {
+              "name": "Slime Concentrate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Xiao",
+      "title": "Unknown",
+      "description": "A yaksha adeptus that defends Liyue. Also heralded as the \"Conqueror of Demons\" or \"Vigilant Yaksha.\"",
+      "rarity": 5,
+      "weaponType": "polearm",
+      "elementType": "anemo",
+      "isComingSoon": true,
+      "isNew": false,
+      "isFemale": false,
+      "region": "Liyue",
+      "role": "na",
+      "birthday": "April 17th",
+      "affiliation": "Liyue Adeptus",
+      "constellation": "Alatus Nemeseos",
+      "ascensionMaterials": [
+        {
+          "materials": [
+            {
+              "name": "Vayuda Turquoise Sliver"
+            },
+            {
+              "name": "Qingxin"
+            },
+            {
+              "name": "Slime Condensate"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "vayuda turquoise Fragment"
+            },
+            {
+              "name": "Hurricane Seed"
+            },
+            {
+              "name": "Qingxin"
+            },
+            {
+              "name": "Slime Condensate"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "vayuda turquoise Fragment"
+            },
+            {
+              "name": "Hurricane Seed"
+            },
+            {
+              "name": "Qingxin"
+            },
+            {
+              "name": "Slime Secretions"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Vayuda Turquoise Chunk"
+            },
+            {
+              "name": "Hurricane Seed"
+            },
+            {
+              "name": "Qingxin"
+            },
+            {
+              "name": "Slime Secretions"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Vayuda Turquoise Chunk"
+            },
+            {
+              "name": "Hurricane Seed"
+            },
+            {
+              "name": "Qingxin"
+            },
+            {
+              "name": "Slime Concentrate"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Vayuda Turquoise Gemstone"
+            },
+            {
+              "name": "Hurricane Seed"
+            },
+            {
+              "name": "Qingxin"
+            },
+            {
+              "name": "Slime Concentrate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Xingqiu",
+      "title": "Juvenile Galant",
+      "description": "A young man carrying a longsword who is frequently seen at book booths. He has a chivalrous heart and yearns for justice and fairness for all.",
+      "rarity": 4,
+      "weaponType": "sword",
+      "elementType": "hydro",
+      "isComingSoon": false,
+      "isNew": false,
+      "isFemale": false,
+      "region": "Liyue",
+      "role": "Support DPS",
+      "featured": true,
+      "birthday": "October 9th",
+      "affiliation": "Feiyun Commerce Guild",
+      "constellation": "Fabulae Textile",
+      "ascensionMaterials": [
+        {
+          "materials": [
+            {
+              "name": "Varunada Lazurite sliver"
+            },
+            {
+              "name": "Silk Flower"
+            },
+            {
+              "name": "Damaged Mask"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Varunada Lazurite Fragment"
+            },
+            {
+              "name": "Cleansing Heart"
+            },
+            {
+              "name": "Silk Flower"
+            },
+            {
+              "name": "Damaged Mask"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Varunada Lazurite Fragment"
+            },
+            {
+              "name": "Cleansing Heart"
+            },
+            {
+              "name": "Silk Flower"
+            },
+            {
+              "name": "Stained Mask"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Varunada Lazurite Chunk"
+            },
+            {
+              "name": "Cleansing Heart"
+            },
+            {
+              "name": "Silk Flower"
+            },
+            {
+              "name": "Stained Mask"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Varunada Lazurite Chunk"
+            },
+            {
+              "name": "Cleansing Heart"
+            },
+            {
+              "name": "Silk Flower"
+            },
+            {
+              "name": "Ominous Mask"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Varunada Lazurite Gemstone"
+            },
+            {
+              "name": "Cleansing Heart"
+            },
+            {
+              "name": "Silk Flower"
+            },
+            {
+              "name": "Ominous Mask"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Xinyan",
+      "title": "Blazing Riff",
+      "description": "Liyue’s sole rock ’n’ roll musician. She rebels against ossified prejudices using her music and passionate singing.",
+      "rarity": 4,
+      "weaponType": "claymore",
+      "elementType": "pyro",
+      "isComingSoon": false,
+      "isNew": false,
+      "isFemale": true,
+      "region": "Liyue",
+      "role": "Main DPS",
+      "birthday": "October 16th",
+      "affiliation": "Liyue Harbor",
+      "constellation": "Fila Ignium",
+      "ascensionMaterials": [
+        {
+          "materials": [
+            {
+              "name": "Agnidus Agate Sliver"
+            },
+            {
+              "name": "Violetgrass"
+            },
+            {
+              "name": "Treasure Hoarder Insignia"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Agnidus Agate Fragment"
+            },
+            {
+              "name": "Everflame Seed"
+            },
+            {
+              "name": "Violetgrass"
+            },
+            {
+              "name": "Treasure Hoarder Insignia"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Agnidus Agate Fragment"
+            },
+            {
+              "name": "Everflame Seed"
+            },
+            {
+              "name": "Violetgrass"
+            },
+            {
+              "name": "Silver Raven Insignia"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Agnidus Agate Chunk"
+            },
+            {
+              "name": "Everflame Seed"
+            },
+            {
+              "name": "Violetgrass"
+            },
+            {
+              "name": "Silver Raven Insignia"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Agnidus Agate Chunk"
+            },
+            {
+              "name": "Everflame Seed"
+            },
+            {
+              "name": "Violetgrass"
+            },
+            {
+              "name": "GoldenRaven Insignia"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Agnidus Agate Gemstone"
+            },
+            {
+              "name": "Everflame Seed"
+            },
+            {
+              "name": "Violetgrass"
+            },
+            {
+              "name": "GoldenRaven Insignia"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Zhongli",
+      "title": "Vago Mundo",
+      "description": "A mysterious guest invited by the Wangsheng Funeral Parlor. Extremely knowledgeable in all things.",
+      "rarity": 5,
+      "weaponType": "polearm",
+      "elementType": "geo",
+      "isComingSoon": false,
+      "isNew": false,
+      "isFemale": false,
+      "region": "Liyue",
+      "role": "Support DPS",
+      "birthday": "December 31st",
+      "affiliation": "Wangsheng Funeral Parlor, Archons",
+      "constellation": "Lapis Dei",
+      "ascensionMaterials": [
+        {
+          "materials": [
+            {
+              "name": "Prithiva Topaz Sliver"
+            },
+            {
+              "name": "Cor Lapis"
+            },
+            {
+              "name": "Slime Condensate"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Prithiva Topaz Fragment"
+            },
+            {
+              "name": "Basalt Pillar"
+            },
+            {
+              "name": "Cor Lapis"
+            },
+            {
+              "name": "Slime Condensate"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Prithiva Topaz Fragment"
+            },
+            {
+              "name": "Basalt Pillar"
+            },
+            {
+              "name": "Cor Lapis"
+            },
+            {
+              "name": "Slime Secretions"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Prithiva Topaz Chunk"
+            },
+            {
+              "name": "Basalt Pillar"
+            },
+            {
+              "name": "Cor Lapis"
+            },
+            {
+              "name": "Slime Secretions"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Prithiva Topaz Chunk"
+            },
+            {
+              "name": "Basalt Pillar"
+            },
+            {
+              "name": "Cor Lapis"
+            },
+            {
+              "name": "Slime Concentrate"
+            }
+          ]
+        },
+        {
+          "materials": [
+            {
+              "name": "Prithiva Topaz Gemstone"
+            },
+            {
+              "name": "Basalt Pillar"
+            },
+            {
+              "name": "Cor Lapis"
+            },
+            {
+              "name": "Slime Concentrate"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
