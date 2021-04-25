@@ -193,7 +193,7 @@ app.get("/constellations", (req, res) => {
 
 app.post("/", (req, res) => {
   console.log("received webhook", req.body);
-  res.sendStatus(200);
+  res.send(req.body);
 });
 
 app.use(express.static(__dirname + "/public"));
