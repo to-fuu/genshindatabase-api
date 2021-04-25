@@ -8,6 +8,9 @@ const materialData = require("./data/materials.json");
 const weaponData = require("./data/weapons.json");
 const constellations = require("./data/Constellations.json");
 
+const axios = require("axios");
+var bodyParser = require("body-parser");
+const { json } = require("body-parser");
 let port = process.env.PORT || 3000;
 
 app.get("/", (req, res) => {
@@ -191,10 +194,40 @@ app.get("/constellations", (req, res) => {
   }
 });
 
-app.post("/", (req, res) => {
-  console.log("received webhook", req.body);
-  res.send("received " + req.body);
+app.use(express.json());
+app.use(
+  express.urlencoded({
+    extended: true,
+  })
+);
+
+app.post("/", function (request, response) {
+  console.log(request.body); // your JSON
+  response.send(request.body); // echo the result back
+
+  axios
+    .post("http://localhost:5000", request.body)
+    .then((res) => {
+      console.log(`statusCode: ${res.statusCode}`);
+      console.log(res);
+    })
+    .catch((error) => {
+      console.error(error);
+    });
 });
+
+// app.post("/", (req, res) => {
+//   res.send("received " + req.body);
+//   axios
+//     .post("http://localhost:5000", req.body)
+//     .then((res) => {
+//       console.log(`statusCode: ${res.statusCode}`);
+//       console.log(res);
+//     })
+//     .catch((error) => {
+//       console.error(error);
+//     });
+// });
 
 app.use(express.static(__dirname + "/public"));
 
